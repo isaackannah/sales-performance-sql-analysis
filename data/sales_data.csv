@@ -1,1 +1,1501 @@
-
+order_id	order_date	customer_id	customer_name	country	industry	customer_tier	product	category	quantity	unit_price	discount	revenue	sales_rep
+10001	2026-01-28	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Pro	Analytics	1	499	0.05	474.05	Emma Jensen
+10002	2025-09-03	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	2	699	0.15	1188.3	Noah Andersen
+10003	2025-06-25	C021	Customer 021	Germany	Technology	SMB	CRM Suite	CRM	1	399	0.05	379.05	Liam Nielsen
+10004	2025-02-08	C098	Customer 098	Finland	Retail	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Clara Madsen
+10005	2026-04-22	C068	Customer 068	United Kingdom	Technology	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Noah Andersen
+10006	2026-06-22	C025	Customer 025	Finland	Healthcare	SMB	Business Intelligence	Analytics	4	699	0.0	2796.0	Noah Andersen
+10007	2026-02-12	C079	Customer 079	Norway	Retail	SMB	Analytics Pro	Analytics	3	499	0.15	1272.45	Noah Andersen
+10008	2026-06-09	C068	Customer 068	United Kingdom	Technology	SMB	Marketing Automation	Marketing	2	599	0.0	1198.0	Clara Madsen
+10009	2026-05-21	C045	Customer 045	Sweden	Professional Services	Mid-Market	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+10010	2025-02-05	C060	Customer 060	Norway	Retail	SMB	Data Platform	Data	1	799	0.1	719.1	Clara Madsen
+10011	2025-01-20	C012	Customer 012	Belgium	Financial Services	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Emma Jensen
+10012	2025-11-17	C032	Customer 032	Denmark	Healthcare	SMB	Customer Support	Customer Experience	4	299	0.2	956.8	Clara Madsen
+10013	2026-05-27	C096	Customer 096	Germany	Professional Services	Mid-Market	Analytics Basic	Analytics	3	249	0.1	672.3	Liam Nielsen
+10014	2026-02-04	C092	Customer 092	Netherlands	Technology	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Lucas Thomsen
+10015	2026-04-16	C013	Customer 013	United Kingdom	Financial Services	SMB	Workflow Automation	Automation	1	449	0.15	381.65	Noah Andersen
+10016	2025-05-23	C031	Customer 031	Germany	Manufacturing	SMB	Workflow Automation	Automation	4	449	0.0	1796.0	Lucas Thomsen
+10017	2025-04-02	C078	Customer 078	Denmark	Retail	SMB	Data Platform	Data	3	799	0.0	2397.0	Emma Jensen
+10018	2025-12-20	C020	Customer 020	Sweden	Retail	Enterprise	Marketing Automation	Marketing	3	599	0.05	1707.15	Clara Madsen
+10019	2025-02-20	C018	Customer 018	Germany	Technology	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Liam Nielsen
+10020	2025-07-09	C093	Customer 093	United Kingdom	Healthcare	Enterprise	CRM Suite	CRM	5	399	0.1	1795.5	Clara Madsen
+10021	2025-05-05	C060	Customer 060	Norway	Retail	SMB	Marketing Automation	Marketing	3	599	0.15	1527.45	Lucas Thomsen
+10022	2025-05-30	C063	Customer 063	United Kingdom	Healthcare	SMB	Business Intelligence	Analytics	3	699	0.05	1992.15	Oliver Pedersen
+10023	2025-11-10	C006	Customer 006	Denmark	Technology	SMB	Marketing Automation	Marketing	10	599	0.0	5990.0	Liam Nielsen
+10024	2025-12-08	C032	Customer 032	Denmark	Healthcare	SMB	Marketing Automation	Marketing	4	599	0.2	1916.8	Noah Andersen
+10025	2025-11-01	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Customer Support	Customer Experience	2	299	0.05	568.1	Sofia Hansen
+10026	2025-02-23	C043	Customer 043	Denmark	Retail	Mid-Market	Marketing Automation	Marketing	4	599	0.05	2276.2	Noah Andersen
+10027	2026-03-20	C002	Customer 002	Belgium	Healthcare	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Sofia Hansen
+10028	2025-09-21	C060	Customer 060	Norway	Retail	SMB	Business Intelligence	Analytics	1	699	0.15	594.15	Liam Nielsen
+10029	2025-02-22	C023	Customer 023	Sweden	Healthcare	Mid-Market	Business Intelligence	Analytics	3	699	0.05	1992.15	Oliver Pedersen
+10030	2025-01-05	C083	Customer 083	Norway	Technology	SMB	Analytics Pro	Analytics	5	499	0.1	2245.5	Lucas Thomsen
+10031	2025-04-13	C031	Customer 031	Germany	Manufacturing	SMB	Marketing Automation	Marketing	5	599	0.1	2695.5	Oliver Pedersen
+10032	2025-07-15	C005	Customer 005	Denmark	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.0	598.0	Emma Jensen
+10033	2025-12-16	C083	Customer 083	Norway	Technology	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Oliver Pedersen
+10034	2025-02-16	C034	Customer 034	Belgium	Professional Services	SMB	CRM Suite	CRM	1	399	0.1	359.1	Freja Larsen
+10035	2025-09-26	C010	Customer 010	Netherlands	Healthcare	SMB	CRM Suite	CRM	10	399	0.05	3790.5	Liam Nielsen
+10036	2026-01-05	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Customer Support	Customer Experience	10	299	0.1	2691.0	Lucas Thomsen
+10037	2025-04-16	C002	Customer 002	Belgium	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.15	1272.45	Lucas Thomsen
+10038	2025-04-30	C011	Customer 011	Denmark	Technology	Mid-Market	Analytics Pro	Analytics	4	499	0.1	1796.4	Emma Jensen
+10039	2025-02-27	C050	Customer 050	Sweden	Retail	Mid-Market	Business Intelligence	Analytics	4	699	0.1	2516.4	Lucas Thomsen
+10040	2025-12-12	C031	Customer 031	Germany	Manufacturing	SMB	Business Intelligence	Analytics	3	699	0.1	1887.3	Oliver Pedersen
+10041	2026-04-19	C056	Customer 056	Belgium	Retail	SMB	Analytics Basic	Analytics	1	249	0.1	224.1	Liam Nielsen
+10042	2025-04-27	C079	Customer 079	Norway	Retail	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Noah Andersen
+10043	2025-05-07	C073	Customer 073	Denmark	Manufacturing	Enterprise	Marketing Automation	Marketing	3	599	0.0	1797.0	Oliver Pedersen
+10044	2026-01-28	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Data Platform	Data	3	799	0.05	2277.15	Clara Madsen
+10045	2025-02-27	C083	Customer 083	Norway	Technology	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Sofia Hansen
+10046	2026-05-28	C009	Customer 009	Germany	Technology	Enterprise	Analytics Basic	Analytics	5	249	0.05	1182.75	Liam Nielsen
+10047	2025-04-06	C099	Customer 099	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	1	699	0.1	629.1	Lucas Thomsen
+10048	2025-04-28	C021	Customer 021	Germany	Technology	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+10049	2026-05-03	C073	Customer 073	Denmark	Manufacturing	Enterprise	Customer Support	Customer Experience	3	299	0.1	807.3	Noah Andersen
+10050	2025-08-25	C028	Customer 028	Germany	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.0	2097.0	Freja Larsen
+10051	2025-09-29	C062	Customer 062	Sweden	Healthcare	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Noah Andersen
+10052	2025-07-08	C007	Customer 007	Denmark	Technology	SMB	Analytics Basic	Analytics	2	249	0.05	473.1	Oliver Pedersen
+10053	2026-03-23	C080	Customer 080	Denmark	Financial Services	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Sofia Hansen
+10054	2025-09-04	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Noah Andersen
+10055	2025-03-17	C097	Customer 097	Germany	Financial Services	Mid-Market	Marketing Automation	Marketing	3	599	0.1	1617.3	Freja Larsen
+10056	2025-06-03	C004	Customer 004	Germany	Healthcare	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Clara Madsen
+10057	2026-03-11	C004	Customer 004	Germany	Healthcare	Mid-Market	Analytics Basic	Analytics	4	249	0.0	996.0	Emma Jensen
+10058	2025-03-27	C040	Customer 040	Finland	Retail	Mid-Market	CRM Suite	CRM	2	399	0.2	638.4	Liam Nielsen
+10059	2025-10-12	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Pro	Analytics	3	499	0.1	1347.3	Sofia Hansen
+10060	2025-08-08	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	CRM Suite	CRM	4	399	0.2	1276.8	Freja Larsen
+10061	2025-03-10	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Data Platform	Data	1	799	0.05	759.05	Lucas Thomsen
+10062	2025-02-16	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Oliver Pedersen
+10063	2025-04-04	C036	Customer 036	United Kingdom	Retail	SMB	Analytics Pro	Analytics	4	499	0.15	1696.6	Oliver Pedersen
+10064	2026-03-29	C038	Customer 038	Denmark	Financial Services	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Oliver Pedersen
+10065	2025-07-23	C050	Customer 050	Sweden	Retail	Mid-Market	Business Intelligence	Analytics	3	699	0.1	1887.3	Lucas Thomsen
+10066	2025-08-06	C063	Customer 063	United Kingdom	Healthcare	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Lucas Thomsen
+10067	2026-04-19	C063	Customer 063	United Kingdom	Healthcare	SMB	Workflow Automation	Automation	4	449	0.05	1706.2	Sofia Hansen
+10068	2026-03-08	C062	Customer 062	Sweden	Healthcare	Mid-Market	Customer Support	Customer Experience	10	299	0.0	2990.0	Noah Andersen
+10069	2025-12-07	C099	Customer 099	Denmark	Retail	Mid-Market	CRM Suite	CRM	3	399	0.0	1197.0	Sofia Hansen
+10070	2025-10-16	C007	Customer 007	Denmark	Technology	SMB	Analytics Pro	Analytics	2	499	0.0	998.0	Oliver Pedersen
+10071	2025-09-11	C027	Customer 027	Sweden	Healthcare	SMB	Marketing Automation	Marketing	2	599	0.0	1198.0	Clara Madsen
+10072	2025-12-23	C092	Customer 092	Netherlands	Technology	SMB	Analytics Basic	Analytics	1	249	0.2	199.2	Freja Larsen
+10073	2025-01-23	C086	Customer 086	Norway	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.0	1797.0	Liam Nielsen
+10074	2026-06-06	C014	Customer 014	Sweden	Professional Services	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Liam Nielsen
+10075	2025-04-10	C071	Customer 071	United Kingdom	Financial Services	SMB	Business Intelligence	Analytics	5	699	0.1	3145.5	Sofia Hansen
+10076	2025-06-29	C086	Customer 086	Norway	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.05	1422.15	Oliver Pedersen
+10077	2025-08-11	C005	Customer 005	Denmark	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.0	1797.0	Lucas Thomsen
+10078	2026-03-18	C055	Customer 055	Germany	Professional Services	Mid-Market	Data Platform	Data	2	799	0.1	1438.2	Emma Jensen
+10079	2025-11-21	C002	Customer 002	Belgium	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Clara Madsen
+10080	2026-05-31	C062	Customer 062	Sweden	Healthcare	Mid-Market	Workflow Automation	Automation	1	449	0.1	404.1	Sofia Hansen
+10081	2025-01-16	C091	Customer 091	Denmark	Professional Services	SMB	Data Platform	Data	2	799	0.1	1438.2	Oliver Pedersen
+10082	2025-12-02	C021	Customer 021	Germany	Technology	SMB	Analytics Pro	Analytics	1	499	0.2	399.2	Noah Andersen
+10083	2025-09-15	C079	Customer 079	Norway	Retail	SMB	Workflow Automation	Automation	3	449	0.05	1279.65	Liam Nielsen
+10084	2026-05-12	C021	Customer 021	Germany	Technology	SMB	Marketing Automation	Marketing	5	599	0.0	2995.0	Liam Nielsen
+10085	2025-06-09	C010	Customer 010	Netherlands	Healthcare	SMB	Analytics Basic	Analytics	5	249	0.1	1120.5	Clara Madsen
+10086	2026-04-20	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Marketing Automation	Marketing	3	599	0.0	1797.0	Liam Nielsen
+10087	2026-01-15	C058	Customer 058	Sweden	Retail	SMB	CRM Suite	CRM	1	399	0.15	339.15	Emma Jensen
+10088	2026-06-29	C039	Customer 039	Netherlands	Professional Services	SMB	Business Intelligence	Analytics	5	699	0.0	3495.0	Oliver Pedersen
+10089	2026-03-03	C005	Customer 005	Denmark	Professional Services	Mid-Market	Customer Support	Customer Experience	5	299	0.0	1495.0	Oliver Pedersen
+10090	2025-09-25	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Analytics Basic	Analytics	1	249	0.1	224.1	Clara Madsen
+10091	2026-02-21	C013	Customer 013	United Kingdom	Financial Services	SMB	CRM Suite	CRM	4	399	0.05	1516.2	Oliver Pedersen
+10092	2025-06-17	C085	Customer 085	Norway	Manufacturing	Mid-Market	Data Platform	Data	2	799	0.05	1518.1	Lucas Thomsen
+10093	2025-02-12	C090	Customer 090	Finland	Retail	Mid-Market	Business Intelligence	Analytics	4	699	0.05	2656.2	Clara Madsen
+10094	2025-10-12	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Pro	Analytics	10	499	0.15	4241.5	Oliver Pedersen
+10095	2026-02-01	C053	Customer 053	Belgium	Healthcare	SMB	Analytics Basic	Analytics	1	249	0.0	249.0	Emma Jensen
+10096	2025-01-12	C082	Customer 082	Germany	Manufacturing	SMB	Customer Support	Customer Experience	5	299	0.15	1270.75	Freja Larsen
+10097	2025-10-29	C045	Customer 045	Sweden	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.0	2097.0	Sofia Hansen
+10098	2025-09-10	C032	Customer 032	Denmark	Healthcare	SMB	Data Platform	Data	10	799	0.1	7191.0	Sofia Hansen
+10099	2026-05-14	C036	Customer 036	United Kingdom	Retail	SMB	Workflow Automation	Automation	2	449	0.1	808.2	Oliver Pedersen
+10100	2025-02-04	C081	Customer 081	United Kingdom	Professional Services	SMB	Workflow Automation	Automation	4	449	0.0	1796.0	Noah Andersen
+10101	2025-03-31	C099	Customer 099	Denmark	Retail	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Liam Nielsen
+10102	2026-02-22	C060	Customer 060	Norway	Retail	SMB	Analytics Pro	Analytics	2	499	0.0	998.0	Emma Jensen
+10103	2025-04-25	C011	Customer 011	Denmark	Technology	Mid-Market	Analytics Pro	Analytics	1	499	0.1	449.1	Noah Andersen
+10104	2025-07-15	C063	Customer 063	United Kingdom	Healthcare	SMB	Data Platform	Data	10	799	0.05	7590.5	Lucas Thomsen
+10105	2026-05-16	C021	Customer 021	Germany	Technology	SMB	Analytics Basic	Analytics	4	249	0.1	896.4	Noah Andersen
+10106	2026-05-08	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Data Platform	Data	5	799	0.0	3995.0	Oliver Pedersen
+10107	2025-03-16	C055	Customer 055	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	5	599	0.0	2995.0	Emma Jensen
+10108	2026-02-17	C026	Customer 026	United Kingdom	Healthcare	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Sofia Hansen
+10109	2026-01-11	C068	Customer 068	United Kingdom	Technology	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Liam Nielsen
+10110	2026-02-24	C034	Customer 034	Belgium	Professional Services	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Sofia Hansen
+10111	2025-10-04	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Workflow Automation	Automation	1	449	0.15	381.65	Noah Andersen
+10112	2026-01-29	C082	Customer 082	Germany	Manufacturing	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Lucas Thomsen
+10113	2026-04-02	C099	Customer 099	Denmark	Retail	Mid-Market	CRM Suite	CRM	2	399	0.05	758.1	Liam Nielsen
+10114	2025-07-11	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Customer Support	Customer Experience	2	299	0.2	478.4	Freja Larsen
+10115	2025-04-09	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Marketing Automation	Marketing	1	599	0.1	539.1	Noah Andersen
+10116	2025-04-06	C029	Customer 029	Germany	Professional Services	Mid-Market	Customer Support	Customer Experience	1	299	0.15	254.15	Sofia Hansen
+10117	2025-07-09	C038	Customer 038	Denmark	Financial Services	SMB	Data Platform	Data	1	799	0.05	759.05	Sofia Hansen
+10118	2025-02-06	C042	Customer 042	Germany	Technology	SMB	Marketing Automation	Marketing	10	599	0.0	5990.0	Oliver Pedersen
+10119	2026-01-04	C021	Customer 021	Germany	Technology	SMB	Data Platform	Data	4	799	0.0	3196.0	Sofia Hansen
+10120	2026-06-09	C042	Customer 042	Germany	Technology	SMB	CRM Suite	CRM	10	399	0.1	3591.0	Emma Jensen
+10121	2025-10-06	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Pro	Analytics	2	499	0.0	998.0	Noah Andersen
+10122	2025-08-05	C064	Customer 064	Norway	Professional Services	Mid-Market	Workflow Automation	Automation	2	449	0.0	898.0	Clara Madsen
+10123	2025-09-30	C017	Customer 017	Norway	Manufacturing	SMB	CRM Suite	CRM	4	399	0.05	1516.2	Clara Madsen
+10124	2025-03-03	C009	Customer 009	Germany	Technology	Enterprise	Workflow Automation	Automation	2	449	0.05	853.1	Lucas Thomsen
+10125	2025-12-08	C041	Customer 041	Denmark	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.1	898.2	Liam Nielsen
+10126	2026-02-01	C001	Customer 001	Norway	Retail	SMB	Data Platform	Data	1	799	0.0	799.0	Sofia Hansen
+10127	2025-01-19	C002	Customer 002	Belgium	Healthcare	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Oliver Pedersen
+10128	2025-06-26	C060	Customer 060	Norway	Retail	SMB	Workflow Automation	Automation	2	449	0.1	808.2	Oliver Pedersen
+10129	2026-01-31	C048	Customer 048	Germany	Professional Services	Enterprise	Workflow Automation	Automation	2	449	0.2	718.4	Sofia Hansen
+10130	2026-03-21	C029	Customer 029	Germany	Professional Services	Mid-Market	Customer Support	Customer Experience	3	299	0.1	807.3	Emma Jensen
+10131	2025-08-21	C097	Customer 097	Germany	Financial Services	Mid-Market	Business Intelligence	Analytics	1	699	0.15	594.15	Oliver Pedersen
+10132	2025-03-17	C010	Customer 010	Netherlands	Healthcare	SMB	CRM Suite	CRM	1	399	0.1	359.1	Clara Madsen
+10133	2025-09-22	C058	Customer 058	Sweden	Retail	SMB	Marketing Automation	Marketing	4	599	0.05	2276.2	Liam Nielsen
+10134	2026-03-31	C060	Customer 060	Norway	Retail	SMB	Workflow Automation	Automation	1	449	0.0	449.0	Noah Andersen
+10135	2026-01-19	C021	Customer 021	Germany	Technology	SMB	CRM Suite	CRM	2	399	0.1	718.2	Freja Larsen
+10136	2026-05-21	C028	Customer 028	Germany	Professional Services	Mid-Market	Customer Support	Customer Experience	5	299	0.1	1345.5	Emma Jensen
+10137	2026-01-02	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Analytics Pro	Analytics	1	499	0.1	449.1	Lucas Thomsen
+10138	2025-05-24	C034	Customer 034	Belgium	Professional Services	SMB	Customer Support	Customer Experience	1	299	0.05	284.05	Lucas Thomsen
+10139	2025-03-10	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Analytics Basic	Analytics	2	249	0.05	473.1	Oliver Pedersen
+10140	2025-04-09	C059	Customer 059	Denmark	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.0	498.0	Noah Andersen
+10141	2026-01-31	C086	Customer 086	Norway	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.05	1707.15	Freja Larsen
+10142	2025-01-25	C072	Customer 072	Sweden	Retail	SMB	Customer Support	Customer Experience	4	299	0.0	1196.0	Lucas Thomsen
+10143	2026-04-14	C049	Customer 049	Germany	Technology	Enterprise	Data Platform	Data	1	799	0.1	719.1	Sofia Hansen
+10144	2026-04-29	C079	Customer 079	Norway	Retail	SMB	Marketing Automation	Marketing	3	599	0.0	1797.0	Sofia Hansen
+10145	2025-05-31	C017	Customer 017	Norway	Manufacturing	SMB	Data Platform	Data	3	799	0.0	2397.0	Liam Nielsen
+10146	2025-05-24	C060	Customer 060	Norway	Retail	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Freja Larsen
+10147	2025-02-08	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Analytics Basic	Analytics	3	249	0.1	672.3	Sofia Hansen
+10148	2025-04-19	C088	Customer 088	Germany	Financial Services	Mid-Market	Marketing Automation	Marketing	2	599	0.05	1138.1	Lucas Thomsen
+10149	2025-02-11	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.0	498.0	Sofia Hansen
+10150	2025-07-05	C083	Customer 083	Norway	Technology	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Clara Madsen
+10151	2026-02-02	C069	Customer 069	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	2	499	0.0	998.0	Oliver Pedersen
+10152	2025-08-11	C032	Customer 032	Denmark	Healthcare	SMB	Data Platform	Data	2	799	0.15	1358.3	Lucas Thomsen
+10153	2025-05-13	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Customer Support	Customer Experience	4	299	0.15	1016.6	Lucas Thomsen
+10154	2025-06-12	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Workflow Automation	Automation	1	449	0.05	426.55	Lucas Thomsen
+10155	2025-08-03	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Workflow Automation	Automation	2	449	0.0	898.0	Liam Nielsen
+10156	2025-08-23	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Marketing Automation	Marketing	2	599	0.1	1078.2	Noah Andersen
+10157	2025-01-09	C077	Customer 077	United Kingdom	Technology	SMB	Analytics Basic	Analytics	4	249	0.0	996.0	Lucas Thomsen
+10158	2025-03-15	C072	Customer 072	Sweden	Retail	SMB	CRM Suite	CRM	3	399	0.05	1137.15	Sofia Hansen
+10159	2026-05-07	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Clara Madsen
+10160	2025-09-10	C043	Customer 043	Denmark	Retail	Mid-Market	Workflow Automation	Automation	4	449	0.15	1526.6	Lucas Thomsen
+10161	2025-08-18	C001	Customer 001	Norway	Retail	SMB	Marketing Automation	Marketing	5	599	0.0	2995.0	Emma Jensen
+10162	2026-06-03	C051	Customer 051	Belgium	Financial Services	Enterprise	Business Intelligence	Analytics	2	699	0.05	1328.1	Emma Jensen
+10163	2025-06-23	C024	Customer 024	Norway	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.1	1347.3	Noah Andersen
+10164	2025-06-17	C099	Customer 099	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	4	499	0.05	1896.2	Freja Larsen
+10165	2025-06-19	C024	Customer 024	Norway	Healthcare	SMB	CRM Suite	CRM	10	399	0.0	3990.0	Liam Nielsen
+10166	2026-01-28	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Basic	Analytics	5	249	0.2	996.0	Clara Madsen
+10167	2025-07-13	C005	Customer 005	Denmark	Professional Services	Mid-Market	Marketing Automation	Marketing	2	599	0.05	1138.1	Oliver Pedersen
+10168	2026-06-01	C020	Customer 020	Sweden	Retail	Enterprise	Data Platform	Data	1	799	0.1	719.1	Clara Madsen
+10169	2025-01-29	C021	Customer 021	Germany	Technology	SMB	Analytics Basic	Analytics	2	249	0.0	498.0	Emma Jensen
+10170	2025-06-14	C058	Customer 058	Sweden	Retail	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Emma Jensen
+10171	2026-02-26	C031	Customer 031	Germany	Manufacturing	SMB	Analytics Basic	Analytics	2	249	0.05	473.1	Noah Andersen
+10172	2025-12-05	C100	Customer 100	Denmark	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.0	998.0	Freja Larsen
+10173	2026-05-11	C011	Customer 011	Denmark	Technology	Mid-Market	Analytics Basic	Analytics	4	249	0.0	996.0	Freja Larsen
+10174	2025-12-31	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	CRM Suite	CRM	2	399	0.1	718.2	Noah Andersen
+10175	2025-12-08	C015	Customer 015	Sweden	Healthcare	SMB	Customer Support	Customer Experience	5	299	0.0	1495.0	Lucas Thomsen
+10176	2026-05-15	C083	Customer 083	Norway	Technology	SMB	CRM Suite	CRM	2	399	0.0	798.0	Clara Madsen
+10177	2026-05-26	C007	Customer 007	Denmark	Technology	SMB	CRM Suite	CRM	2	399	0.05	758.1	Emma Jensen
+10178	2025-11-23	C028	Customer 028	Germany	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.1	538.2	Clara Madsen
+10179	2025-08-05	C051	Customer 051	Belgium	Financial Services	Enterprise	Customer Support	Customer Experience	4	299	0.0	1196.0	Clara Madsen
+10180	2025-10-28	C058	Customer 058	Sweden	Retail	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Liam Nielsen
+10181	2025-05-12	C005	Customer 005	Denmark	Professional Services	Mid-Market	Workflow Automation	Automation	1	449	0.0	449.0	Emma Jensen
+10182	2025-03-11	C005	Customer 005	Denmark	Professional Services	Mid-Market	Marketing Automation	Marketing	10	599	0.0	5990.0	Freja Larsen
+10183	2025-09-09	C094	Customer 094	Germany	Manufacturing	Mid-Market	Data Platform	Data	1	799	0.0	799.0	Oliver Pedersen
+10184	2026-02-19	C096	Customer 096	Germany	Professional Services	Mid-Market	Data Platform	Data	3	799	0.1	2157.3	Clara Madsen
+10185	2026-03-21	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Marketing Automation	Marketing	3	599	0.0	1797.0	Emma Jensen
+10186	2025-07-01	C064	Customer 064	Norway	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Clara Madsen
+10187	2025-06-16	C010	Customer 010	Netherlands	Healthcare	SMB	CRM Suite	CRM	3	399	0.05	1137.15	Liam Nielsen
+10188	2025-04-01	C038	Customer 038	Denmark	Financial Services	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Lucas Thomsen
+10189	2026-06-15	C096	Customer 096	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Sofia Hansen
+10190	2025-02-08	C092	Customer 092	Netherlands	Technology	SMB	Data Platform	Data	2	799	0.05	1518.1	Emma Jensen
+10191	2025-05-06	C081	Customer 081	United Kingdom	Professional Services	SMB	Marketing Automation	Marketing	3	599	0.0	1797.0	Noah Andersen
+10192	2026-03-27	C095	Customer 095	United Kingdom	Professional Services	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Sofia Hansen
+10193	2025-06-22	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Workflow Automation	Automation	3	449	0.05	1279.65	Clara Madsen
+10194	2025-08-08	C025	Customer 025	Finland	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Noah Andersen
+10195	2025-02-27	C073	Customer 073	Denmark	Manufacturing	Enterprise	Marketing Automation	Marketing	2	599	0.0	1198.0	Noah Andersen
+10196	2026-04-21	C066	Customer 066	Germany	Financial Services	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Noah Andersen
+10197	2026-04-01	C079	Customer 079	Norway	Retail	SMB	Data Platform	Data	1	799	0.0	799.0	Emma Jensen
+10198	2025-12-27	C050	Customer 050	Sweden	Retail	Mid-Market	Data Platform	Data	4	799	0.05	3036.2	Freja Larsen
+10199	2025-01-01	C067	Customer 067	Denmark	Retail	SMB	Analytics Pro	Analytics	2	499	0.0	998.0	Clara Madsen
+10200	2026-01-22	C049	Customer 049	Germany	Technology	Enterprise	Business Intelligence	Analytics	5	699	0.1	3145.5	Sofia Hansen
+10201	2025-12-14	C036	Customer 036	United Kingdom	Retail	SMB	Analytics Basic	Analytics	10	249	0.2	1992.0	Liam Nielsen
+10202	2025-07-09	C068	Customer 068	United Kingdom	Technology	SMB	Analytics Basic	Analytics	3	249	0.2	597.6	Freja Larsen
+10203	2026-05-20	C078	Customer 078	Denmark	Retail	SMB	Analytics Pro	Analytics	1	499	0.15	424.15	Clara Madsen
+10204	2025-07-10	C041	Customer 041	Denmark	Healthcare	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Lucas Thomsen
+10205	2026-05-23	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Customer Support	Customer Experience	4	299	0.1	1076.4	Lucas Thomsen
+10206	2026-01-04	C062	Customer 062	Sweden	Healthcare	Mid-Market	Marketing Automation	Marketing	2	599	0.0	1198.0	Emma Jensen
+10207	2026-02-13	C010	Customer 010	Netherlands	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Noah Andersen
+10208	2025-04-27	C021	Customer 021	Germany	Technology	SMB	Analytics Pro	Analytics	3	499	0.05	1422.15	Liam Nielsen
+10209	2025-05-14	C036	Customer 036	United Kingdom	Retail	SMB	CRM Suite	CRM	4	399	0.05	1516.2	Clara Madsen
+10210	2025-02-27	C012	Customer 012	Belgium	Financial Services	SMB	Workflow Automation	Automation	4	449	0.1	1616.4	Sofia Hansen
+10211	2025-06-22	C091	Customer 091	Denmark	Professional Services	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Clara Madsen
+10212	2025-05-29	C002	Customer 002	Belgium	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.0	1497.0	Freja Larsen
+10213	2025-03-21	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	1	249	0.15	211.65	Lucas Thomsen
+10214	2025-08-01	C053	Customer 053	Belgium	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Oliver Pedersen
+10215	2025-07-22	C032	Customer 032	Denmark	Healthcare	SMB	CRM Suite	CRM	5	399	0.05	1895.25	Freja Larsen
+10216	2025-08-17	C095	Customer 095	United Kingdom	Professional Services	SMB	Analytics Basic	Analytics	1	249	0.15	211.65	Clara Madsen
+10217	2025-08-15	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Data Platform	Data	2	799	0.1	1438.2	Liam Nielsen
+10218	2026-06-16	C032	Customer 032	Denmark	Healthcare	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Clara Madsen
+10219	2026-03-17	C032	Customer 032	Denmark	Healthcare	SMB	Customer Support	Customer Experience	5	299	0.0	1495.0	Clara Madsen
+10220	2026-02-06	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Basic	Analytics	4	249	0.0	996.0	Emma Jensen
+10221	2025-02-16	C011	Customer 011	Denmark	Technology	Mid-Market	Customer Support	Customer Experience	3	299	0.15	762.45	Sofia Hansen
+10222	2025-08-21	C010	Customer 010	Netherlands	Healthcare	SMB	Business Intelligence	Analytics	4	699	0.05	2656.2	Liam Nielsen
+10223	2025-11-01	C015	Customer 015	Sweden	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.05	284.05	Clara Madsen
+10224	2026-06-10	C017	Customer 017	Norway	Manufacturing	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Noah Andersen
+10225	2025-05-23	C040	Customer 040	Finland	Retail	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Sofia Hansen
+10226	2026-02-19	C018	Customer 018	Germany	Technology	SMB	Business Intelligence	Analytics	1	699	0.2	559.2	Freja Larsen
+10227	2026-05-28	C055	Customer 055	Germany	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.05	1328.1	Liam Nielsen
+10228	2026-01-08	C073	Customer 073	Denmark	Manufacturing	Enterprise	Business Intelligence	Analytics	5	699	0.1	3145.5	Freja Larsen
+10229	2025-09-16	C025	Customer 025	Finland	Healthcare	SMB	Analytics Basic	Analytics	1	249	0.0	249.0	Lucas Thomsen
+10230	2026-04-16	C059	Customer 059	Denmark	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.1	1258.2	Clara Madsen
+10231	2025-01-12	C078	Customer 078	Denmark	Retail	SMB	Analytics Basic	Analytics	1	249	0.15	211.65	Freja Larsen
+10232	2025-11-26	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Freja Larsen
+10233	2025-12-24	C022	Customer 022	Denmark	Professional Services	SMB	Customer Support	Customer Experience	5	299	0.0	1495.0	Emma Jensen
+10234	2026-02-12	C030	Customer 030	Denmark	Financial Services	SMB	Data Platform	Data	2	799	0.05	1518.1	Freja Larsen
+10235	2026-01-08	C084	Customer 084	Denmark	Healthcare	Enterprise	Business Intelligence	Analytics	2	699	0.1	1258.2	Noah Andersen
+10236	2025-01-08	C085	Customer 085	Norway	Manufacturing	Mid-Market	CRM Suite	CRM	4	399	0.05	1516.2	Noah Andersen
+10237	2025-05-02	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	1	699	0.15	594.15	Sofia Hansen
+10238	2025-12-14	C032	Customer 032	Denmark	Healthcare	SMB	Business Intelligence	Analytics	2	699	0.1	1258.2	Clara Madsen
+10239	2025-03-31	C051	Customer 051	Belgium	Financial Services	Enterprise	Customer Support	Customer Experience	2	299	0.15	508.3	Oliver Pedersen
+10240	2025-11-12	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Lucas Thomsen
+10241	2025-06-27	C021	Customer 021	Germany	Technology	SMB	Marketing Automation	Marketing	10	599	0.0	5990.0	Freja Larsen
+10242	2026-06-24	C099	Customer 099	Denmark	Retail	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Freja Larsen
+10243	2025-02-10	C032	Customer 032	Denmark	Healthcare	SMB	CRM Suite	CRM	2	399	0.0	798.0	Liam Nielsen
+10244	2026-05-17	C094	Customer 094	Germany	Manufacturing	Mid-Market	Marketing Automation	Marketing	4	599	0.15	2036.6	Emma Jensen
+10245	2025-05-25	C039	Customer 039	Netherlands	Professional Services	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Oliver Pedersen
+10246	2025-07-20	C012	Customer 012	Belgium	Financial Services	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Sofia Hansen
+10247	2026-04-06	C047	Customer 047	Norway	Retail	SMB	Workflow Automation	Automation	1	449	0.0	449.0	Lucas Thomsen
+10248	2025-09-10	C018	Customer 018	Germany	Technology	SMB	CRM Suite	CRM	2	399	0.0	798.0	Oliver Pedersen
+10249	2026-01-25	C021	Customer 021	Germany	Technology	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Freja Larsen
+10250	2025-09-13	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	3	249	0.05	709.65	Liam Nielsen
+10251	2026-03-26	C021	Customer 021	Germany	Technology	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Clara Madsen
+10252	2025-01-10	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Data Platform	Data	3	799	0.1	2157.3	Emma Jensen
+10253	2025-08-30	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Marketing Automation	Marketing	3	599	0.0	1797.0	Clara Madsen
+10254	2025-09-08	C007	Customer 007	Denmark	Technology	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Sofia Hansen
+10255	2025-01-05	C023	Customer 023	Sweden	Healthcare	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Oliver Pedersen
+10256	2025-04-29	C096	Customer 096	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Sofia Hansen
+10257	2026-01-09	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Workflow Automation	Automation	2	449	0.2	718.4	Freja Larsen
+10258	2025-03-06	C086	Customer 086	Norway	Professional Services	Mid-Market	Marketing Automation	Marketing	4	599	0.0	2396.0	Sofia Hansen
+10259	2025-05-26	C022	Customer 022	Denmark	Professional Services	SMB	CRM Suite	CRM	1	399	0.0	399.0	Clara Madsen
+10260	2025-08-12	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Liam Nielsen
+10261	2025-08-27	C022	Customer 022	Denmark	Professional Services	SMB	Workflow Automation	Automation	2	449	0.1	808.2	Sofia Hansen
+10262	2025-06-26	C092	Customer 092	Netherlands	Technology	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Noah Andersen
+10263	2025-10-09	C029	Customer 029	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	1	449	0.05	426.55	Liam Nielsen
+10264	2025-03-04	C013	Customer 013	United Kingdom	Financial Services	SMB	CRM Suite	CRM	4	399	0.0	1596.0	Oliver Pedersen
+10265	2025-08-05	C082	Customer 082	Germany	Manufacturing	SMB	Analytics Basic	Analytics	1	249	0.0	249.0	Emma Jensen
+10266	2026-04-06	C002	Customer 002	Belgium	Healthcare	SMB	Business Intelligence	Analytics	3	699	0.05	1992.15	Emma Jensen
+10267	2025-04-15	C029	Customer 029	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	2	499	0.1	898.2	Freja Larsen
+10268	2025-04-09	C085	Customer 085	Norway	Manufacturing	Mid-Market	Marketing Automation	Marketing	1	599	0.15	509.15	Freja Larsen
+10269	2026-05-26	C079	Customer 079	Norway	Retail	SMB	CRM Suite	CRM	2	399	0.0	798.0	Noah Andersen
+10270	2026-01-20	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Customer Support	Customer Experience	4	299	0.05	1136.2	Oliver Pedersen
+10271	2026-02-09	C027	Customer 027	Sweden	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.15	848.3	Clara Madsen
+10272	2026-06-02	C050	Customer 050	Sweden	Retail	Mid-Market	Analytics Basic	Analytics	4	249	0.05	946.2	Emma Jensen
+10273	2026-04-21	C095	Customer 095	United Kingdom	Professional Services	SMB	CRM Suite	CRM	1	399	0.1	359.1	Emma Jensen
+10274	2026-03-13	C079	Customer 079	Norway	Retail	SMB	Data Platform	Data	4	799	0.0	3196.0	Emma Jensen
+10275	2025-01-23	C023	Customer 023	Sweden	Healthcare	Mid-Market	Data Platform	Data	1	799	0.15	679.15	Clara Madsen
+10276	2026-04-03	C088	Customer 088	Germany	Financial Services	Mid-Market	Business Intelligence	Analytics	3	699	0.1	1887.3	Emma Jensen
+10277	2025-03-24	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	3	699	0.15	1782.45	Sofia Hansen
+10278	2025-05-25	C077	Customer 077	United Kingdom	Technology	SMB	Analytics Basic	Analytics	5	249	0.1	1120.5	Oliver Pedersen
+10279	2025-03-26	C022	Customer 022	Denmark	Professional Services	SMB	Analytics Basic	Analytics	2	249	0.05	473.1	Liam Nielsen
+10280	2025-03-19	C043	Customer 043	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	1	699	0.15	594.15	Liam Nielsen
+10281	2026-04-02	C037	Customer 037	Norway	Retail	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Noah Andersen
+10282	2025-01-01	C061	Customer 061	Norway	Manufacturing	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Sofia Hansen
+10283	2025-02-20	C097	Customer 097	Germany	Financial Services	Mid-Market	CRM Suite	CRM	3	399	0.1	1077.3	Emma Jensen
+10284	2026-03-22	C056	Customer 056	Belgium	Retail	SMB	Customer Support	Customer Experience	4	299	0.1	1076.4	Emma Jensen
+10285	2026-03-25	C003	Customer 003	Netherlands	Technology	SMB	CRM Suite	CRM	1	399	0.15	339.15	Freja Larsen
+10286	2026-05-03	C063	Customer 063	United Kingdom	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.0	598.0	Freja Larsen
+10287	2025-02-03	C019	Customer 019	Finland	Professional Services	Mid-Market	Analytics Basic	Analytics	1	249	0.1	224.1	Noah Andersen
+10288	2025-12-14	C023	Customer 023	Sweden	Healthcare	Mid-Market	Analytics Pro	Analytics	10	499	0.1	4491.0	Emma Jensen
+10289	2025-04-05	C029	Customer 029	Germany	Professional Services	Mid-Market	CRM Suite	CRM	3	399	0.0	1197.0	Noah Andersen
+10290	2025-03-13	C030	Customer 030	Denmark	Financial Services	SMB	CRM Suite	CRM	5	399	0.05	1895.25	Sofia Hansen
+10291	2025-06-03	C039	Customer 039	Netherlands	Professional Services	SMB	Customer Support	Customer Experience	2	299	0.0	598.0	Liam Nielsen
+10292	2025-09-07	C025	Customer 025	Finland	Healthcare	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Emma Jensen
+10293	2026-03-14	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Analytics Basic	Analytics	3	249	0.2	597.6	Oliver Pedersen
+10294	2025-04-28	C058	Customer 058	Sweden	Retail	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Clara Madsen
+10295	2025-11-02	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Data Platform	Data	4	799	0.1	2876.4	Sofia Hansen
+10296	2025-09-25	C072	Customer 072	Sweden	Retail	SMB	Workflow Automation	Automation	5	449	0.2	1796.0	Emma Jensen
+10297	2025-02-23	C001	Customer 001	Norway	Retail	SMB	Customer Support	Customer Experience	5	299	0.05	1420.25	Clara Madsen
+10298	2025-08-24	C005	Customer 005	Denmark	Professional Services	Mid-Market	Analytics Basic	Analytics	4	249	0.1	896.4	Oliver Pedersen
+10299	2026-01-24	C003	Customer 003	Netherlands	Technology	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Freja Larsen
+10300	2026-02-05	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Business Intelligence	Analytics	2	699	0.15	1188.3	Noah Andersen
+10301	2025-10-30	C004	Customer 004	Germany	Healthcare	Mid-Market	Workflow Automation	Automation	10	449	0.0	4490.0	Freja Larsen
+10302	2025-07-26	C099	Customer 099	Denmark	Retail	Mid-Market	Marketing Automation	Marketing	1	599	0.15	509.15	Liam Nielsen
+10303	2025-08-17	C096	Customer 096	Germany	Professional Services	Mid-Market	Data Platform	Data	4	799	0.0	3196.0	Freja Larsen
+10304	2025-03-16	C064	Customer 064	Norway	Professional Services	Mid-Market	Business Intelligence	Analytics	4	699	0.0	2796.0	Emma Jensen
+10305	2026-03-11	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Pro	Analytics	3	499	0.1	1347.3	Oliver Pedersen
+10306	2025-04-13	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	CRM Suite	CRM	10	399	0.05	3790.5	Freja Larsen
+10307	2026-02-26	C010	Customer 010	Netherlands	Healthcare	SMB	Data Platform	Data	2	799	0.1	1438.2	Emma Jensen
+10308	2025-11-02	C021	Customer 021	Germany	Technology	SMB	Analytics Pro	Analytics	2	499	0.05	948.1	Liam Nielsen
+10309	2025-04-08	C046	Customer 046	Netherlands	Financial Services	Mid-Market	CRM Suite	CRM	1	399	0.1	359.1	Clara Madsen
+10310	2025-12-01	C091	Customer 091	Denmark	Professional Services	SMB	Marketing Automation	Marketing	2	599	0.0	1198.0	Oliver Pedersen
+10311	2026-03-11	C027	Customer 027	Sweden	Healthcare	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Freja Larsen
+10312	2026-03-23	C066	Customer 066	Germany	Financial Services	SMB	Analytics Basic	Analytics	2	249	0.0	498.0	Noah Andersen
+10313	2025-11-04	C041	Customer 041	Denmark	Healthcare	SMB	Business Intelligence	Analytics	4	699	0.05	2656.2	Noah Andersen
+10314	2025-09-06	C013	Customer 013	United Kingdom	Financial Services	SMB	Customer Support	Customer Experience	5	299	0.0	1495.0	Oliver Pedersen
+10315	2025-06-15	C009	Customer 009	Germany	Technology	Enterprise	Business Intelligence	Analytics	1	699	0.05	664.05	Noah Andersen
+10316	2026-04-26	C036	Customer 036	United Kingdom	Retail	SMB	Marketing Automation	Marketing	2	599	0.05	1138.1	Freja Larsen
+10317	2025-12-01	C086	Customer 086	Norway	Professional Services	Mid-Market	Analytics Pro	Analytics	5	499	0.0	2495.0	Freja Larsen
+10318	2026-06-26	C090	Customer 090	Finland	Retail	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Oliver Pedersen
+10319	2025-04-16	C058	Customer 058	Sweden	Retail	SMB	Analytics Basic	Analytics	1	249	0.15	211.65	Freja Larsen
+10320	2025-03-22	C054	Customer 054	United Kingdom	Financial Services	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Clara Madsen
+10321	2025-05-13	C012	Customer 012	Belgium	Financial Services	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+10322	2025-05-18	C081	Customer 081	United Kingdom	Professional Services	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Liam Nielsen
+10323	2025-07-03	C078	Customer 078	Denmark	Retail	SMB	Workflow Automation	Automation	10	449	0.05	4265.5	Clara Madsen
+10324	2026-02-05	C014	Customer 014	Sweden	Professional Services	SMB	Marketing Automation	Marketing	2	599	0.1	1078.2	Clara Madsen
+10325	2025-11-26	C034	Customer 034	Belgium	Professional Services	SMB	Analytics Basic	Analytics	3	249	0.05	709.65	Noah Andersen
+10326	2026-05-23	C053	Customer 053	Belgium	Healthcare	SMB	Data Platform	Data	1	799	0.05	759.05	Emma Jensen
+10327	2025-03-10	C020	Customer 020	Sweden	Retail	Enterprise	CRM Suite	CRM	2	399	0.0	798.0	Oliver Pedersen
+10328	2026-06-30	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Customer Support	Customer Experience	3	299	0.1	807.3	Lucas Thomsen
+10329	2025-02-22	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Workflow Automation	Automation	4	449	0.1	1616.4	Noah Andersen
+10330	2026-03-26	C095	Customer 095	United Kingdom	Professional Services	SMB	Analytics Basic	Analytics	4	249	0.0	996.0	Emma Jensen
+10331	2025-07-24	C070	Customer 070	Belgium	Retail	Mid-Market	Marketing Automation	Marketing	3	599	0.05	1707.15	Freja Larsen
+10332	2025-05-06	C056	Customer 056	Belgium	Retail	SMB	Workflow Automation	Automation	5	449	0.2	1796.0	Oliver Pedersen
+10333	2025-02-12	C083	Customer 083	Norway	Technology	SMB	Analytics Basic	Analytics	4	249	0.05	946.2	Lucas Thomsen
+10334	2025-04-21	C058	Customer 058	Sweden	Retail	SMB	Data Platform	Data	4	799	0.05	3036.2	Oliver Pedersen
+10335	2025-07-02	C004	Customer 004	Germany	Healthcare	Mid-Market	Workflow Automation	Automation	1	449	0.15	381.65	Lucas Thomsen
+10336	2025-04-05	C004	Customer 004	Germany	Healthcare	Mid-Market	Workflow Automation	Automation	1	449	0.1	404.1	Lucas Thomsen
+10337	2026-01-09	C020	Customer 020	Sweden	Retail	Enterprise	CRM Suite	CRM	1	399	0.05	379.05	Noah Andersen
+10338	2026-06-04	C010	Customer 010	Netherlands	Healthcare	SMB	Business Intelligence	Analytics	3	699	0.1	1887.3	Freja Larsen
+10339	2025-12-26	C024	Customer 024	Norway	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.15	508.3	Noah Andersen
+10340	2025-10-08	C099	Customer 099	Denmark	Retail	Mid-Market	CRM Suite	CRM	2	399	0.05	758.1	Lucas Thomsen
+10341	2025-07-14	C026	Customer 026	United Kingdom	Healthcare	SMB	Analytics Pro	Analytics	5	499	0.05	2370.25	Lucas Thomsen
+10342	2025-07-14	C037	Customer 037	Norway	Retail	SMB	Customer Support	Customer Experience	5	299	0.05	1420.25	Sofia Hansen
+10343	2025-04-03	C085	Customer 085	Norway	Manufacturing	Mid-Market	CRM Suite	CRM	5	399	0.2	1596.0	Emma Jensen
+10344	2025-03-02	C054	Customer 054	United Kingdom	Financial Services	SMB	Marketing Automation	Marketing	2	599	0.1	1078.2	Sofia Hansen
+10345	2025-02-20	C021	Customer 021	Germany	Technology	SMB	Customer Support	Customer Experience	3	299	0.0	897.0	Emma Jensen
+10346	2026-02-07	C074	Customer 074	United Kingdom	Manufacturing	SMB	Customer Support	Customer Experience	2	299	0.15	508.3	Liam Nielsen
+10347	2025-01-05	C038	Customer 038	Denmark	Financial Services	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Clara Madsen
+10348	2026-04-11	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Oliver Pedersen
+10349	2026-06-18	C004	Customer 004	Germany	Healthcare	Mid-Market	Analytics Pro	Analytics	2	499	0.05	948.1	Noah Andersen
+10350	2026-02-09	C060	Customer 060	Norway	Retail	SMB	Business Intelligence	Analytics	2	699	0.05	1328.1	Liam Nielsen
+10351	2026-05-28	C057	Customer 057	Denmark	Healthcare	SMB	Workflow Automation	Automation	4	449	0.15	1526.6	Liam Nielsen
+10352	2025-08-21	C045	Customer 045	Sweden	Professional Services	Mid-Market	Data Platform	Data	1	799	0.0	799.0	Oliver Pedersen
+10353	2026-06-08	C020	Customer 020	Sweden	Retail	Enterprise	CRM Suite	CRM	4	399	0.1	1436.4	Oliver Pedersen
+10354	2025-12-12	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Basic	Analytics	3	249	0.05	709.65	Emma Jensen
+10355	2025-02-15	C071	Customer 071	United Kingdom	Financial Services	SMB	CRM Suite	CRM	2	399	0.0	798.0	Sofia Hansen
+10356	2026-06-30	C004	Customer 004	Germany	Healthcare	Mid-Market	Analytics Pro	Analytics	2	499	0.2	798.4	Freja Larsen
+10357	2025-03-19	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Workflow Automation	Automation	2	449	0.05	853.1	Emma Jensen
+10358	2025-03-14	C014	Customer 014	Sweden	Professional Services	SMB	Analytics Pro	Analytics	3	499	0.0	1497.0	Freja Larsen
+10359	2025-09-06	C003	Customer 003	Netherlands	Technology	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Liam Nielsen
+10360	2025-02-16	C088	Customer 088	Germany	Financial Services	Mid-Market	Data Platform	Data	1	799	0.15	679.15	Freja Larsen
+10361	2025-05-01	C080	Customer 080	Denmark	Financial Services	Mid-Market	Analytics Pro	Analytics	1	499	0.0	499.0	Sofia Hansen
+10362	2025-08-02	C058	Customer 058	Sweden	Retail	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Emma Jensen
+10363	2025-08-27	C055	Customer 055	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	5	599	0.0	2995.0	Lucas Thomsen
+10364	2025-02-25	C004	Customer 004	Germany	Healthcare	Mid-Market	Marketing Automation	Marketing	2	599	0.0	1198.0	Oliver Pedersen
+10365	2025-12-16	C024	Customer 024	Norway	Healthcare	SMB	Customer Support	Customer Experience	4	299	0.1	1076.4	Lucas Thomsen
+10366	2025-04-17	C034	Customer 034	Belgium	Professional Services	SMB	Business Intelligence	Analytics	3	699	0.05	1992.15	Sofia Hansen
+10367	2025-02-17	C030	Customer 030	Denmark	Financial Services	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Clara Madsen
+10368	2025-12-03	C082	Customer 082	Germany	Manufacturing	SMB	CRM Suite	CRM	4	399	0.0	1596.0	Sofia Hansen
+10369	2025-01-26	C019	Customer 019	Finland	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Clara Madsen
+10370	2025-09-14	C031	Customer 031	Germany	Manufacturing	SMB	Data Platform	Data	3	799	0.15	2037.45	Emma Jensen
+10371	2025-01-08	C060	Customer 060	Norway	Retail	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Oliver Pedersen
+10372	2025-09-10	C060	Customer 060	Norway	Retail	SMB	Analytics Basic	Analytics	2	249	0.2	398.4	Sofia Hansen
+10373	2025-10-30	C019	Customer 019	Finland	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.05	1328.1	Lucas Thomsen
+10374	2025-02-25	C049	Customer 049	Germany	Technology	Enterprise	Analytics Pro	Analytics	1	499	0.0	499.0	Clara Madsen
+10375	2026-06-10	C063	Customer 063	United Kingdom	Healthcare	SMB	Analytics Basic	Analytics	4	249	0.15	846.6	Oliver Pedersen
+10376	2026-04-19	C083	Customer 083	Norway	Technology	SMB	Customer Support	Customer Experience	4	299	0.05	1136.2	Noah Andersen
+10377	2025-01-28	C022	Customer 022	Denmark	Professional Services	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Noah Andersen
+10378	2025-03-19	C024	Customer 024	Norway	Healthcare	SMB	Customer Support	Customer Experience	3	299	0.2	717.6	Noah Andersen
+10379	2025-08-04	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Marketing Automation	Marketing	2	599	0.0	1198.0	Freja Larsen
+10380	2026-01-21	C030	Customer 030	Denmark	Financial Services	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Sofia Hansen
+10381	2025-12-31	C058	Customer 058	Sweden	Retail	SMB	CRM Suite	CRM	10	399	0.1	3591.0	Emma Jensen
+10382	2026-06-10	C031	Customer 031	Germany	Manufacturing	SMB	Analytics Basic	Analytics	1	249	0.0	249.0	Lucas Thomsen
+10383	2025-11-08	C100	Customer 100	Denmark	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Emma Jensen
+10384	2025-01-07	C064	Customer 064	Norway	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Freja Larsen
+10385	2025-01-03	C019	Customer 019	Finland	Professional Services	Mid-Market	Analytics Basic	Analytics	4	249	0.0	996.0	Emma Jensen
+10386	2025-12-29	C048	Customer 048	Germany	Professional Services	Enterprise	Analytics Pro	Analytics	1	499	0.1	449.1	Clara Madsen
+10387	2026-05-23	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Basic	Analytics	3	249	0.0	747.0	Noah Andersen
+10388	2025-10-01	C100	Customer 100	Denmark	Healthcare	SMB	Analytics Basic	Analytics	3	249	0.05	709.65	Lucas Thomsen
+10389	2026-05-21	C094	Customer 094	Germany	Manufacturing	Mid-Market	Customer Support	Customer Experience	1	299	0.1	269.1	Sofia Hansen
+10390	2025-01-15	C055	Customer 055	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	1	599	0.05	569.05	Emma Jensen
+10391	2025-07-11	C055	Customer 055	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.0	1797.0	Emma Jensen
+10392	2026-04-30	C097	Customer 097	Germany	Financial Services	Mid-Market	Data Platform	Data	2	799	0.1	1438.2	Liam Nielsen
+10393	2025-01-28	C018	Customer 018	Germany	Technology	SMB	Analytics Basic	Analytics	5	249	0.0	1245.0	Liam Nielsen
+10394	2025-02-08	C063	Customer 063	United Kingdom	Healthcare	SMB	CRM Suite	CRM	4	399	0.1	1436.4	Liam Nielsen
+10395	2025-09-30	C092	Customer 092	Netherlands	Technology	SMB	CRM Suite	CRM	10	399	0.15	3391.5	Sofia Hansen
+10396	2025-08-19	C047	Customer 047	Norway	Retail	SMB	Analytics Pro	Analytics	2	499	0.05	948.1	Noah Andersen
+10397	2025-03-27	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Analytics Pro	Analytics	10	499	0.05	4740.5	Oliver Pedersen
+10398	2026-04-19	C057	Customer 057	Denmark	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Noah Andersen
+10399	2025-05-06	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.05	473.1	Lucas Thomsen
+10400	2026-06-21	C033	Customer 033	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	1	499	0.15	424.15	Noah Andersen
+10401	2025-05-25	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Pro	Analytics	1	499	0.15	424.15	Sofia Hansen
+10402	2026-06-09	C070	Customer 070	Belgium	Retail	Mid-Market	Business Intelligence	Analytics	3	699	0.0	2097.0	Clara Madsen
+10403	2025-07-31	C004	Customer 004	Germany	Healthcare	Mid-Market	Analytics Basic	Analytics	2	249	0.1	448.2	Clara Madsen
+10404	2025-01-25	C020	Customer 020	Sweden	Retail	Enterprise	Workflow Automation	Automation	1	449	0.15	381.65	Sofia Hansen
+10405	2026-01-29	C047	Customer 047	Norway	Retail	SMB	Customer Support	Customer Experience	3	299	0.2	717.6	Liam Nielsen
+10406	2025-03-08	C091	Customer 091	Denmark	Professional Services	SMB	Analytics Pro	Analytics	2	499	0.05	948.1	Emma Jensen
+10407	2025-08-21	C015	Customer 015	Sweden	Healthcare	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Freja Larsen
+10408	2025-04-19	C070	Customer 070	Belgium	Retail	Mid-Market	Marketing Automation	Marketing	2	599	0.0	1198.0	Freja Larsen
+10409	2025-05-26	C047	Customer 047	Norway	Retail	SMB	Customer Support	Customer Experience	4	299	0.2	956.8	Oliver Pedersen
+10410	2025-04-21	C078	Customer 078	Denmark	Retail	SMB	Workflow Automation	Automation	4	449	0.0	1796.0	Emma Jensen
+10411	2025-08-16	C075	Customer 075	Netherlands	Healthcare	Mid-Market	CRM Suite	CRM	2	399	0.05	758.1	Oliver Pedersen
+10412	2025-04-21	C009	Customer 009	Germany	Technology	Enterprise	Workflow Automation	Automation	2	449	0.0	898.0	Liam Nielsen
+10413	2026-04-15	C090	Customer 090	Finland	Retail	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Oliver Pedersen
+10414	2025-02-03	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Customer Support	Customer Experience	4	299	0.05	1136.2	Emma Jensen
+10415	2026-01-04	C069	Customer 069	Denmark	Retail	Mid-Market	CRM Suite	CRM	2	399	0.2	638.4	Lucas Thomsen
+10416	2026-03-01	C061	Customer 061	Norway	Manufacturing	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Emma Jensen
+10417	2026-06-02	C010	Customer 010	Netherlands	Healthcare	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Freja Larsen
+10418	2025-10-09	C050	Customer 050	Sweden	Retail	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Clara Madsen
+10419	2025-11-16	C003	Customer 003	Netherlands	Technology	SMB	CRM Suite	CRM	2	399	0.0	798.0	Liam Nielsen
+10420	2026-03-19	C077	Customer 077	United Kingdom	Technology	SMB	Customer Support	Customer Experience	4	299	0.05	1136.2	Lucas Thomsen
+10421	2025-11-11	C094	Customer 094	Germany	Manufacturing	Mid-Market	Marketing Automation	Marketing	1	599	0.05	569.05	Sofia Hansen
+10422	2026-01-12	C070	Customer 070	Belgium	Retail	Mid-Market	Data Platform	Data	2	799	0.0	1598.0	Lucas Thomsen
+10423	2025-10-16	C081	Customer 081	United Kingdom	Professional Services	SMB	Data Platform	Data	4	799	0.0	3196.0	Lucas Thomsen
+10424	2026-03-13	C051	Customer 051	Belgium	Financial Services	Enterprise	Data Platform	Data	4	799	0.0	3196.0	Oliver Pedersen
+10425	2025-10-04	C019	Customer 019	Finland	Professional Services	Mid-Market	Data Platform	Data	2	799	0.0	1598.0	Freja Larsen
+10426	2026-05-18	C042	Customer 042	Germany	Technology	SMB	Analytics Basic	Analytics	2	249	0.2	398.4	Oliver Pedersen
+10427	2026-05-31	C035	Customer 035	Belgium	Retail	SMB	Workflow Automation	Automation	2	449	0.15	763.3	Oliver Pedersen
+10428	2025-12-16	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Customer Support	Customer Experience	5	299	0.0	1495.0	Sofia Hansen
+10429	2026-03-22	C026	Customer 026	United Kingdom	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.05	284.05	Liam Nielsen
+10430	2025-12-16	C069	Customer 069	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	5	699	0.15	2970.75	Emma Jensen
+10431	2025-05-17	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Marketing Automation	Marketing	3	599	0.0	1797.0	Noah Andersen
+10432	2025-08-31	C064	Customer 064	Norway	Professional Services	Mid-Market	Data Platform	Data	3	799	0.1	2157.3	Oliver Pedersen
+10433	2026-06-27	C037	Customer 037	Norway	Retail	SMB	Analytics Basic	Analytics	1	249	0.15	211.65	Noah Andersen
+10434	2025-02-09	C084	Customer 084	Denmark	Healthcare	Enterprise	Marketing Automation	Marketing	2	599	0.0	1198.0	Liam Nielsen
+10435	2025-08-17	C049	Customer 049	Germany	Technology	Enterprise	Data Platform	Data	2	799	0.0	1598.0	Noah Andersen
+10436	2025-08-11	C021	Customer 021	Germany	Technology	SMB	Analytics Basic	Analytics	1	249	0.2	199.2	Oliver Pedersen
+10437	2025-01-06	C074	Customer 074	United Kingdom	Manufacturing	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Sofia Hansen
+10438	2025-11-18	C064	Customer 064	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	10	299	0.0	2990.0	Noah Andersen
+10439	2026-04-13	C005	Customer 005	Denmark	Professional Services	Mid-Market	Customer Support	Customer Experience	3	299	0.0	897.0	Liam Nielsen
+10440	2025-03-16	C100	Customer 100	Denmark	Healthcare	SMB	Workflow Automation	Automation	4	449	0.05	1706.2	Liam Nielsen
+10441	2025-01-04	C070	Customer 070	Belgium	Retail	Mid-Market	Analytics Pro	Analytics	1	499	0.1	449.1	Clara Madsen
+10442	2025-04-28	C090	Customer 090	Finland	Retail	Mid-Market	Workflow Automation	Automation	2	449	0.1	808.2	Clara Madsen
+10443	2026-05-19	C004	Customer 004	Germany	Healthcare	Mid-Market	CRM Suite	CRM	1	399	0.2	319.2	Sofia Hansen
+10444	2026-03-17	C039	Customer 039	Netherlands	Professional Services	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Noah Andersen
+10445	2025-07-13	C035	Customer 035	Belgium	Retail	SMB	Data Platform	Data	5	799	0.05	3795.25	Noah Andersen
+10446	2026-01-27	C001	Customer 001	Norway	Retail	SMB	Business Intelligence	Analytics	3	699	0.05	1992.15	Clara Madsen
+10447	2025-01-26	C024	Customer 024	Norway	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Emma Jensen
+10448	2026-03-11	C057	Customer 057	Denmark	Healthcare	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Freja Larsen
+10449	2025-06-22	C100	Customer 100	Denmark	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.2	1197.6	Liam Nielsen
+10450	2025-10-27	C070	Customer 070	Belgium	Retail	Mid-Market	CRM Suite	CRM	2	399	0.15	678.3	Emma Jensen
+10451	2025-11-22	C041	Customer 041	Denmark	Healthcare	SMB	Marketing Automation	Marketing	4	599	0.05	2276.2	Liam Nielsen
+10452	2026-02-14	C054	Customer 054	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	4	249	0.1	896.4	Lucas Thomsen
+10453	2025-04-28	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Lucas Thomsen
+10454	2025-08-13	C060	Customer 060	Norway	Retail	SMB	CRM Suite	CRM	2	399	0.05	758.1	Emma Jensen
+10455	2026-06-16	C060	Customer 060	Norway	Retail	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Lucas Thomsen
+10456	2025-04-23	C057	Customer 057	Denmark	Healthcare	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Clara Madsen
+10457	2025-05-20	C031	Customer 031	Germany	Manufacturing	SMB	CRM Suite	CRM	2	399	0.2	638.4	Clara Madsen
+10458	2025-01-01	C084	Customer 084	Denmark	Healthcare	Enterprise	Data Platform	Data	2	799	0.1	1438.2	Freja Larsen
+10459	2025-03-31	C024	Customer 024	Norway	Healthcare	SMB	Workflow Automation	Automation	3	449	0.05	1279.65	Emma Jensen
+10460	2025-11-16	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	CRM Suite	CRM	3	399	0.1	1077.3	Liam Nielsen
+10461	2025-05-19	C036	Customer 036	United Kingdom	Retail	SMB	Workflow Automation	Automation	1	449	0.0	449.0	Noah Andersen
+10462	2026-05-26	C085	Customer 085	Norway	Manufacturing	Mid-Market	Data Platform	Data	2	799	0.05	1518.1	Liam Nielsen
+10463	2025-09-16	C030	Customer 030	Denmark	Financial Services	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Oliver Pedersen
+10464	2025-01-10	C024	Customer 024	Norway	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Clara Madsen
+10465	2025-09-18	C030	Customer 030	Denmark	Financial Services	SMB	Analytics Basic	Analytics	4	249	0.1	896.4	Sofia Hansen
+10466	2025-06-21	C086	Customer 086	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Sofia Hansen
+10467	2025-01-13	C092	Customer 092	Netherlands	Technology	SMB	Workflow Automation	Automation	2	449	0.1	808.2	Clara Madsen
+10468	2025-06-17	C007	Customer 007	Denmark	Technology	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Oliver Pedersen
+10469	2025-11-17	C035	Customer 035	Belgium	Retail	SMB	Analytics Basic	Analytics	5	249	0.0	1245.0	Sofia Hansen
+10470	2025-11-15	C055	Customer 055	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.1	1617.3	Lucas Thomsen
+10471	2025-11-25	C092	Customer 092	Netherlands	Technology	SMB	CRM Suite	CRM	1	399	0.0	399.0	Clara Madsen
+10472	2026-02-23	C014	Customer 014	Sweden	Professional Services	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Sofia Hansen
+10473	2025-04-05	C010	Customer 010	Netherlands	Healthcare	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Clara Madsen
+10474	2025-11-14	C080	Customer 080	Denmark	Financial Services	Mid-Market	Analytics Pro	Analytics	10	499	0.0	4990.0	Freja Larsen
+10475	2025-08-24	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Data Platform	Data	1	799	0.0	799.0	Noah Andersen
+10476	2025-11-30	C054	Customer 054	United Kingdom	Financial Services	SMB	Customer Support	Customer Experience	5	299	0.1	1345.5	Noah Andersen
+10477	2026-01-11	C095	Customer 095	United Kingdom	Professional Services	SMB	Workflow Automation	Automation	5	449	0.05	2132.75	Liam Nielsen
+10478	2026-04-04	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Marketing Automation	Marketing	5	599	0.05	2845.25	Oliver Pedersen
+10479	2025-05-17	C077	Customer 077	United Kingdom	Technology	SMB	Data Platform	Data	3	799	0.2	1917.6	Clara Madsen
+10480	2026-05-28	C070	Customer 070	Belgium	Retail	Mid-Market	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+10481	2025-10-23	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Customer Support	Customer Experience	2	299	0.15	508.3	Liam Nielsen
+10482	2025-11-16	C073	Customer 073	Denmark	Manufacturing	Enterprise	Data Platform	Data	4	799	0.0	3196.0	Liam Nielsen
+10483	2025-12-15	C045	Customer 045	Sweden	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.05	1992.15	Clara Madsen
+10484	2025-08-17	C100	Customer 100	Denmark	Healthcare	SMB	Customer Support	Customer Experience	3	299	0.15	762.45	Clara Madsen
+10485	2025-09-27	C056	Customer 056	Belgium	Retail	SMB	Business Intelligence	Analytics	2	699	0.05	1328.1	Liam Nielsen
+10486	2025-10-18	C084	Customer 084	Denmark	Healthcare	Enterprise	Analytics Pro	Analytics	4	499	0.1	1796.4	Liam Nielsen
+10487	2025-06-14	C082	Customer 082	Germany	Manufacturing	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Noah Andersen
+10488	2025-01-05	C057	Customer 057	Denmark	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Emma Jensen
+10489	2026-01-14	C021	Customer 021	Germany	Technology	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Lucas Thomsen
+10490	2025-03-19	C068	Customer 068	United Kingdom	Technology	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Liam Nielsen
+10491	2026-02-14	C050	Customer 050	Sweden	Retail	Mid-Market	Business Intelligence	Analytics	4	699	0.15	2376.6	Lucas Thomsen
+10492	2025-05-12	C033	Customer 033	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Noah Andersen
+10493	2025-02-11	C091	Customer 091	Denmark	Professional Services	SMB	Customer Support	Customer Experience	2	299	0.2	478.4	Liam Nielsen
+10494	2025-03-30	C007	Customer 007	Denmark	Technology	SMB	Analytics Pro	Analytics	5	499	0.2	1996.0	Sofia Hansen
+10495	2026-02-06	C070	Customer 070	Belgium	Retail	Mid-Market	Analytics Basic	Analytics	2	249	0.0	498.0	Liam Nielsen
+10496	2025-10-23	C015	Customer 015	Sweden	Healthcare	SMB	Workflow Automation	Automation	4	449	0.0	1796.0	Clara Madsen
+10497	2025-10-22	C082	Customer 082	Germany	Manufacturing	SMB	Data Platform	Data	2	799	0.15	1358.3	Oliver Pedersen
+10498	2026-06-10	C032	Customer 032	Denmark	Healthcare	SMB	Data Platform	Data	3	799	0.2	1917.6	Oliver Pedersen
+10499	2026-02-26	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Business Intelligence	Analytics	2	699	0.05	1328.1	Liam Nielsen
+10500	2025-01-23	C020	Customer 020	Sweden	Retail	Enterprise	Customer Support	Customer Experience	3	299	0.0	897.0	Freja Larsen
+10501	2025-05-23	C088	Customer 088	Germany	Financial Services	Mid-Market	Customer Support	Customer Experience	2	299	0.05	568.1	Sofia Hansen
+10502	2025-05-25	C015	Customer 015	Sweden	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Emma Jensen
+10503	2025-08-13	C048	Customer 048	Germany	Professional Services	Enterprise	CRM Suite	CRM	2	399	0.0	798.0	Liam Nielsen
+10504	2026-05-18	C071	Customer 071	United Kingdom	Financial Services	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Lucas Thomsen
+10505	2025-04-14	C021	Customer 021	Germany	Technology	SMB	CRM Suite	CRM	10	399	0.0	3990.0	Emma Jensen
+10506	2025-02-08	C042	Customer 042	Germany	Technology	SMB	Business Intelligence	Analytics	10	699	0.0	6990.0	Sofia Hansen
+10507	2025-07-17	C026	Customer 026	United Kingdom	Healthcare	SMB	Data Platform	Data	2	799	0.05	1518.1	Liam Nielsen
+10508	2026-01-26	C014	Customer 014	Sweden	Professional Services	SMB	Marketing Automation	Marketing	4	599	0.05	2276.2	Freja Larsen
+10509	2025-06-28	C057	Customer 057	Denmark	Healthcare	SMB	Marketing Automation	Marketing	2	599	0.0	1198.0	Noah Andersen
+10510	2026-03-24	C037	Customer 037	Norway	Retail	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Freja Larsen
+10511	2026-05-15	C058	Customer 058	Sweden	Retail	SMB	Business Intelligence	Analytics	4	699	0.0	2796.0	Clara Madsen
+10512	2025-01-15	C021	Customer 021	Germany	Technology	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Freja Larsen
+10513	2025-10-16	C082	Customer 082	Germany	Manufacturing	SMB	Data Platform	Data	2	799	0.0	1598.0	Lucas Thomsen
+10514	2026-04-23	C069	Customer 069	Denmark	Retail	Mid-Market	Marketing Automation	Marketing	4	599	0.2	1916.8	Noah Andersen
+10515	2025-08-19	C003	Customer 003	Netherlands	Technology	SMB	Data Platform	Data	2	799	0.05	1518.1	Clara Madsen
+10516	2026-02-24	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Analytics Pro	Analytics	10	499	0.05	4740.5	Noah Andersen
+10517	2025-06-06	C090	Customer 090	Finland	Retail	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Oliver Pedersen
+10518	2026-03-17	C037	Customer 037	Norway	Retail	SMB	Customer Support	Customer Experience	3	299	0.2	717.6	Noah Andersen
+10519	2025-04-07	C088	Customer 088	Germany	Financial Services	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Liam Nielsen
+10520	2026-02-15	C049	Customer 049	Germany	Technology	Enterprise	Analytics Basic	Analytics	3	249	0.1	672.3	Emma Jensen
+10521	2025-10-16	C019	Customer 019	Finland	Professional Services	Mid-Market	Analytics Basic	Analytics	1	249	0.1	224.1	Oliver Pedersen
+10522	2025-09-11	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	5	699	0.1	3145.5	Oliver Pedersen
+10523	2025-07-15	C085	Customer 085	Norway	Manufacturing	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Emma Jensen
+10524	2026-06-06	C012	Customer 012	Belgium	Financial Services	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Lucas Thomsen
+10525	2026-06-01	C061	Customer 061	Norway	Manufacturing	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Oliver Pedersen
+10526	2025-04-28	C041	Customer 041	Denmark	Healthcare	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Noah Andersen
+10527	2025-06-08	C033	Customer 033	Denmark	Retail	Mid-Market	CRM Suite	CRM	3	399	0.1	1077.3	Freja Larsen
+10528	2025-08-16	C050	Customer 050	Sweden	Retail	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Sofia Hansen
+10529	2025-08-04	C068	Customer 068	United Kingdom	Technology	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Lucas Thomsen
+10530	2025-01-15	C071	Customer 071	United Kingdom	Financial Services	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Noah Andersen
+10531	2025-06-06	C086	Customer 086	Norway	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.1	1258.2	Clara Madsen
+10532	2025-09-18	C033	Customer 033	Denmark	Retail	Mid-Market	Workflow Automation	Automation	4	449	0.05	1706.2	Clara Madsen
+10533	2025-06-06	C081	Customer 081	United Kingdom	Professional Services	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Freja Larsen
+10534	2025-02-16	C024	Customer 024	Norway	Healthcare	SMB	Data Platform	Data	1	799	0.0	799.0	Lucas Thomsen
+10535	2025-11-20	C061	Customer 061	Norway	Manufacturing	SMB	Business Intelligence	Analytics	2	699	0.2	1118.4	Lucas Thomsen
+10536	2025-05-10	C061	Customer 061	Norway	Manufacturing	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Freja Larsen
+10537	2026-02-15	C098	Customer 098	Finland	Retail	Mid-Market	Data Platform	Data	1	799	0.0	799.0	Lucas Thomsen
+10538	2025-04-05	C028	Customer 028	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	3	449	0.0	1347.0	Oliver Pedersen
+10539	2025-10-19	C058	Customer 058	Sweden	Retail	SMB	Workflow Automation	Automation	3	449	0.1	1212.3	Liam Nielsen
+10540	2025-10-10	C043	Customer 043	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Liam Nielsen
+10541	2025-03-10	C041	Customer 041	Denmark	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Lucas Thomsen
+10542	2025-01-11	C039	Customer 039	Netherlands	Professional Services	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Oliver Pedersen
+10543	2025-09-11	C086	Customer 086	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Oliver Pedersen
+10544	2025-05-14	C049	Customer 049	Germany	Technology	Enterprise	Workflow Automation	Automation	10	449	0.0	4490.0	Emma Jensen
+10545	2025-01-23	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Emma Jensen
+10546	2025-12-12	C098	Customer 098	Finland	Retail	Mid-Market	Workflow Automation	Automation	1	449	0.1	404.1	Sofia Hansen
+10547	2025-10-29	C070	Customer 070	Belgium	Retail	Mid-Market	CRM Suite	CRM	5	399	0.0	1995.0	Sofia Hansen
+10548	2025-12-29	C070	Customer 070	Belgium	Retail	Mid-Market	Data Platform	Data	5	799	0.05	3795.25	Sofia Hansen
+10549	2026-01-31	C098	Customer 098	Finland	Retail	Mid-Market	Data Platform	Data	2	799	0.05	1518.1	Sofia Hansen
+10550	2025-08-06	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Analytics Basic	Analytics	1	249	0.2	199.2	Freja Larsen
+10551	2025-05-21	C074	Customer 074	United Kingdom	Manufacturing	SMB	Analytics Basic	Analytics	1	249	0.2	199.2	Freja Larsen
+10552	2025-07-29	C085	Customer 085	Norway	Manufacturing	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Emma Jensen
+10553	2026-04-05	C005	Customer 005	Denmark	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Liam Nielsen
+10554	2025-12-22	C002	Customer 002	Belgium	Healthcare	SMB	Analytics Basic	Analytics	1	249	0.0	249.0	Oliver Pedersen
+10555	2025-11-20	C022	Customer 022	Denmark	Professional Services	SMB	Data Platform	Data	3	799	0.0	2397.0	Clara Madsen
+10556	2025-05-13	C057	Customer 057	Denmark	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Liam Nielsen
+10557	2025-05-07	C066	Customer 066	Germany	Financial Services	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Noah Andersen
+10558	2025-04-16	C074	Customer 074	United Kingdom	Manufacturing	SMB	Analytics Pro	Analytics	2	499	0.1	898.2	Freja Larsen
+10559	2026-01-13	C098	Customer 098	Finland	Retail	Mid-Market	CRM Suite	CRM	1	399	0.15	339.15	Sofia Hansen
+10560	2025-02-20	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Sofia Hansen
+10561	2025-01-29	C051	Customer 051	Belgium	Financial Services	Enterprise	Analytics Basic	Analytics	2	249	0.05	473.1	Noah Andersen
+10562	2026-04-07	C039	Customer 039	Netherlands	Professional Services	SMB	Business Intelligence	Analytics	10	699	0.1	6291.0	Liam Nielsen
+10563	2025-10-23	C086	Customer 086	Norway	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Sofia Hansen
+10564	2025-10-24	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Analytics Pro	Analytics	2	499	0.0	998.0	Liam Nielsen
+10565	2026-02-11	C088	Customer 088	Germany	Financial Services	Mid-Market	Marketing Automation	Marketing	4	599	0.1	2156.4	Oliver Pedersen
+10566	2026-02-09	C040	Customer 040	Finland	Retail	Mid-Market	Workflow Automation	Automation	2	449	0.0	898.0	Noah Andersen
+10567	2025-12-12	C038	Customer 038	Denmark	Financial Services	SMB	Marketing Automation	Marketing	5	599	0.05	2845.25	Clara Madsen
+10568	2026-02-24	C060	Customer 060	Norway	Retail	SMB	Data Platform	Data	2	799	0.0	1598.0	Liam Nielsen
+10569	2025-07-01	C059	Customer 059	Denmark	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.1	1347.3	Oliver Pedersen
+10570	2025-01-01	C010	Customer 010	Netherlands	Healthcare	SMB	CRM Suite	CRM	1	399	0.1	359.1	Lucas Thomsen
+10571	2026-01-06	C099	Customer 099	Denmark	Retail	Mid-Market	Customer Support	Customer Experience	2	299	0.0	598.0	Lucas Thomsen
+10572	2026-03-07	C064	Customer 064	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	4	299	0.1	1076.4	Liam Nielsen
+10573	2025-11-05	C063	Customer 063	United Kingdom	Healthcare	SMB	Business Intelligence	Analytics	4	699	0.0	2796.0	Lucas Thomsen
+10574	2025-05-17	C049	Customer 049	Germany	Technology	Enterprise	Analytics Pro	Analytics	1	499	0.05	474.05	Liam Nielsen
+10575	2025-07-21	C064	Customer 064	Norway	Professional Services	Mid-Market	Analytics Pro	Analytics	1	499	0.1	449.1	Sofia Hansen
+10576	2026-03-12	C032	Customer 032	Denmark	Healthcare	SMB	Data Platform	Data	4	799	0.1	2876.4	Emma Jensen
+10577	2025-11-09	C007	Customer 007	Denmark	Technology	SMB	Analytics Pro	Analytics	5	499	0.2	1996.0	Lucas Thomsen
+10578	2025-04-27	C021	Customer 021	Germany	Technology	SMB	CRM Suite	CRM	1	399	0.0	399.0	Freja Larsen
+10579	2025-09-01	C020	Customer 020	Sweden	Retail	Enterprise	Marketing Automation	Marketing	2	599	0.1	1078.2	Liam Nielsen
+10580	2026-06-21	C026	Customer 026	United Kingdom	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.1	898.2	Liam Nielsen
+10581	2025-03-16	C068	Customer 068	United Kingdom	Technology	SMB	Analytics Pro	Analytics	5	499	0.15	2120.75	Liam Nielsen
+10582	2026-01-21	C086	Customer 086	Norway	Professional Services	Mid-Market	Data Platform	Data	1	799	0.0	799.0	Emma Jensen
+10583	2025-07-29	C015	Customer 015	Sweden	Healthcare	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Oliver Pedersen
+10584	2026-04-20	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Basic	Analytics	4	249	0.05	946.2	Lucas Thomsen
+10585	2026-02-22	C079	Customer 079	Norway	Retail	SMB	Workflow Automation	Automation	1	449	0.0	449.0	Clara Madsen
+10586	2025-12-13	C086	Customer 086	Norway	Professional Services	Mid-Market	Data Platform	Data	2	799	0.05	1518.1	Clara Madsen
+10587	2026-06-13	C092	Customer 092	Netherlands	Technology	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Noah Andersen
+10588	2025-06-28	C014	Customer 014	Sweden	Professional Services	SMB	Data Platform	Data	2	799	0.05	1518.1	Sofia Hansen
+10589	2025-07-01	C027	Customer 027	Sweden	Healthcare	SMB	CRM Suite	CRM	2	399	0.15	678.3	Emma Jensen
+10590	2025-01-25	C040	Customer 040	Finland	Retail	Mid-Market	Business Intelligence	Analytics	3	699	0.05	1992.15	Oliver Pedersen
+10591	2025-06-29	C058	Customer 058	Sweden	Retail	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Liam Nielsen
+10592	2026-05-16	C028	Customer 028	Germany	Professional Services	Mid-Market	Data Platform	Data	3	799	0.05	2277.15	Oliver Pedersen
+10593	2025-06-10	C026	Customer 026	United Kingdom	Healthcare	SMB	Data Platform	Data	4	799	0.0	3196.0	Emma Jensen
+10594	2025-06-26	C063	Customer 063	United Kingdom	Healthcare	SMB	Analytics Basic	Analytics	4	249	0.0	996.0	Emma Jensen
+10595	2025-10-12	C066	Customer 066	Germany	Financial Services	SMB	Data Platform	Data	1	799	0.05	759.05	Emma Jensen
+10596	2025-03-04	C025	Customer 025	Finland	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Noah Andersen
+10597	2025-06-05	C003	Customer 003	Netherlands	Technology	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Freja Larsen
+10598	2026-04-14	C072	Customer 072	Sweden	Retail	SMB	Analytics Pro	Analytics	2	499	0.05	948.1	Sofia Hansen
+10599	2025-02-18	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Analytics Pro	Analytics	2	499	0.0	998.0	Noah Andersen
+10600	2025-03-25	C097	Customer 097	Germany	Financial Services	Mid-Market	Analytics Basic	Analytics	3	249	0.0	747.0	Noah Andersen
+10601	2025-12-27	C042	Customer 042	Germany	Technology	SMB	CRM Suite	CRM	1	399	0.05	379.05	Lucas Thomsen
+10602	2025-05-28	C099	Customer 099	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	1	499	0.0	499.0	Freja Larsen
+10603	2025-12-08	C006	Customer 006	Denmark	Technology	SMB	Customer Support	Customer Experience	2	299	0.15	508.3	Noah Andersen
+10604	2026-04-21	C039	Customer 039	Netherlands	Professional Services	SMB	Analytics Pro	Analytics	3	499	0.15	1272.45	Emma Jensen
+10605	2025-03-04	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Customer Support	Customer Experience	1	299	0.1	269.1	Emma Jensen
+10606	2025-12-26	C023	Customer 023	Sweden	Healthcare	Mid-Market	Business Intelligence	Analytics	3	699	0.0	2097.0	Lucas Thomsen
+10607	2025-11-23	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	2	699	0.1	1258.2	Oliver Pedersen
+10608	2025-05-21	C050	Customer 050	Sweden	Retail	Mid-Market	Marketing Automation	Marketing	5	599	0.1	2695.5	Liam Nielsen
+10609	2025-08-03	C043	Customer 043	Denmark	Retail	Mid-Market	Marketing Automation	Marketing	5	599	0.1	2695.5	Noah Andersen
+10610	2026-03-11	C019	Customer 019	Finland	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.0	598.0	Liam Nielsen
+10611	2025-11-14	C069	Customer 069	Denmark	Retail	Mid-Market	CRM Suite	CRM	1	399	0.1	359.1	Sofia Hansen
+10612	2025-02-01	C051	Customer 051	Belgium	Financial Services	Enterprise	Analytics Pro	Analytics	2	499	0.1	898.2	Clara Madsen
+10613	2025-10-12	C011	Customer 011	Denmark	Technology	Mid-Market	Data Platform	Data	1	799	0.05	759.05	Emma Jensen
+10614	2025-11-01	C012	Customer 012	Belgium	Financial Services	SMB	Analytics Pro	Analytics	3	499	0.1	1347.3	Oliver Pedersen
+10615	2026-03-05	C074	Customer 074	United Kingdom	Manufacturing	SMB	Marketing Automation	Marketing	4	599	0.05	2276.2	Sofia Hansen
+10616	2026-04-22	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Workflow Automation	Automation	3	449	0.05	1279.65	Lucas Thomsen
+10617	2025-10-13	C024	Customer 024	Norway	Healthcare	SMB	Data Platform	Data	4	799	0.0	3196.0	Oliver Pedersen
+10618	2025-05-24	C092	Customer 092	Netherlands	Technology	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Clara Madsen
+10619	2026-02-28	C041	Customer 041	Denmark	Healthcare	SMB	Data Platform	Data	1	799	0.0	799.0	Clara Madsen
+10620	2025-01-19	C036	Customer 036	United Kingdom	Retail	SMB	Workflow Automation	Automation	4	449	0.05	1706.2	Lucas Thomsen
+10621	2025-01-18	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Pro	Analytics	2	499	0.0	998.0	Freja Larsen
+10622	2026-01-06	C072	Customer 072	Sweden	Retail	SMB	Analytics Pro	Analytics	3	499	0.05	1422.15	Lucas Thomsen
+10623	2025-06-24	C055	Customer 055	Germany	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Emma Jensen
+10624	2025-07-13	C009	Customer 009	Germany	Technology	Enterprise	Analytics Basic	Analytics	1	249	0.1	224.1	Sofia Hansen
+10625	2026-05-17	C047	Customer 047	Norway	Retail	SMB	Data Platform	Data	10	799	0.1	7191.0	Freja Larsen
+10626	2025-04-23	C015	Customer 015	Sweden	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Clara Madsen
+10627	2025-04-24	C048	Customer 048	Germany	Professional Services	Enterprise	Workflow Automation	Automation	10	449	0.0	4490.0	Sofia Hansen
+10628	2025-08-10	C082	Customer 082	Germany	Manufacturing	SMB	Workflow Automation	Automation	10	449	0.0	4490.0	Oliver Pedersen
+10629	2025-09-21	C042	Customer 042	Germany	Technology	SMB	Workflow Automation	Automation	4	449	0.15	1526.6	Freja Larsen
+10630	2025-02-24	C060	Customer 060	Norway	Retail	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Freja Larsen
+10631	2026-04-03	C084	Customer 084	Denmark	Healthcare	Enterprise	Analytics Basic	Analytics	3	249	0.05	709.65	Emma Jensen
+10632	2025-06-11	C070	Customer 070	Belgium	Retail	Mid-Market	Analytics Pro	Analytics	5	499	0.0	2495.0	Lucas Thomsen
+10633	2026-01-15	C012	Customer 012	Belgium	Financial Services	SMB	CRM Suite	CRM	2	399	0.1	718.2	Liam Nielsen
+10634	2025-03-28	C002	Customer 002	Belgium	Healthcare	SMB	CRM Suite	CRM	2	399	0.15	678.3	Oliver Pedersen
+10635	2025-02-24	C007	Customer 007	Denmark	Technology	SMB	Marketing Automation	Marketing	3	599	0.1	1617.3	Oliver Pedersen
+10636	2026-04-21	C080	Customer 080	Denmark	Financial Services	Mid-Market	CRM Suite	CRM	2	399	0.1	718.2	Lucas Thomsen
+10637	2025-06-27	C003	Customer 003	Netherlands	Technology	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Freja Larsen
+10638	2026-01-26	C003	Customer 003	Netherlands	Technology	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Freja Larsen
+10639	2025-12-15	C027	Customer 027	Sweden	Healthcare	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Emma Jensen
+10640	2025-01-08	C040	Customer 040	Finland	Retail	Mid-Market	Analytics Pro	Analytics	5	499	0.0	2495.0	Liam Nielsen
+10641	2025-11-09	C033	Customer 033	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Oliver Pedersen
+10642	2026-03-19	C092	Customer 092	Netherlands	Technology	SMB	Analytics Basic	Analytics	5	249	0.0	1245.0	Clara Madsen
+10643	2025-11-24	C001	Customer 001	Norway	Retail	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Noah Andersen
+10644	2025-02-23	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Data Platform	Data	4	799	0.15	2716.6	Noah Andersen
+10645	2025-08-27	C032	Customer 032	Denmark	Healthcare	SMB	Marketing Automation	Marketing	3	599	0.1	1617.3	Liam Nielsen
+10646	2025-08-17	C048	Customer 048	Germany	Professional Services	Enterprise	Workflow Automation	Automation	4	449	0.1	1616.4	Sofia Hansen
+10647	2025-02-20	C004	Customer 004	Germany	Healthcare	Mid-Market	CRM Suite	CRM	1	399	0.1	359.1	Emma Jensen
+10648	2025-09-21	C094	Customer 094	Germany	Manufacturing	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Liam Nielsen
+10649	2026-02-22	C070	Customer 070	Belgium	Retail	Mid-Market	CRM Suite	CRM	1	399	0.1	359.1	Lucas Thomsen
+10650	2025-04-06	C019	Customer 019	Finland	Professional Services	Mid-Market	Business Intelligence	Analytics	5	699	0.0	3495.0	Lucas Thomsen
+10651	2025-03-29	C032	Customer 032	Denmark	Healthcare	SMB	Analytics Pro	Analytics	10	499	0.1	4491.0	Noah Andersen
+10652	2025-03-19	C009	Customer 009	Germany	Technology	Enterprise	Analytics Pro	Analytics	2	499	0.0	998.0	Freja Larsen
+10653	2025-10-15	C012	Customer 012	Belgium	Financial Services	SMB	Analytics Pro	Analytics	1	499	0.2	399.2	Noah Andersen
+10654	2025-04-30	C011	Customer 011	Denmark	Technology	Mid-Market	Workflow Automation	Automation	4	449	0.0	1796.0	Freja Larsen
+10655	2026-05-06	C046	Customer 046	Netherlands	Financial Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Emma Jensen
+10656	2026-03-28	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Customer Support	Customer Experience	5	299	0.15	1270.75	Freja Larsen
+10657	2026-05-15	C001	Customer 001	Norway	Retail	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Liam Nielsen
+10658	2025-06-14	C063	Customer 063	United Kingdom	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.1	269.1	Freja Larsen
+10659	2025-07-01	C021	Customer 021	Germany	Technology	SMB	CRM Suite	CRM	10	399	0.1	3591.0	Sofia Hansen
+10660	2026-04-14	C030	Customer 030	Denmark	Financial Services	SMB	Workflow Automation	Automation	3	449	0.1	1212.3	Lucas Thomsen
+10661	2025-01-07	C013	Customer 013	United Kingdom	Financial Services	SMB	Business Intelligence	Analytics	4	699	0.2	2236.8	Liam Nielsen
+10662	2025-11-26	C034	Customer 034	Belgium	Professional Services	SMB	Workflow Automation	Automation	2	449	0.2	718.4	Lucas Thomsen
+10663	2025-05-31	C004	Customer 004	Germany	Healthcare	Mid-Market	Customer Support	Customer Experience	3	299	0.0	897.0	Emma Jensen
+10664	2025-03-26	C028	Customer 028	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Liam Nielsen
+10665	2025-05-27	C095	Customer 095	United Kingdom	Professional Services	SMB	Workflow Automation	Automation	3	449	0.1	1212.3	Sofia Hansen
+10666	2026-01-16	C059	Customer 059	Denmark	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.1	1887.3	Emma Jensen
+10667	2025-10-12	C027	Customer 027	Sweden	Healthcare	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Noah Andersen
+10668	2025-03-23	C069	Customer 069	Denmark	Retail	Mid-Market	CRM Suite	CRM	2	399	0.1	718.2	Sofia Hansen
+10669	2026-05-29	C025	Customer 025	Finland	Healthcare	SMB	Marketing Automation	Marketing	2	599	0.2	958.4	Emma Jensen
+10670	2026-06-07	C003	Customer 003	Netherlands	Technology	SMB	Workflow Automation	Automation	4	449	0.15	1526.6	Clara Madsen
+10671	2026-01-21	C097	Customer 097	Germany	Financial Services	Mid-Market	CRM Suite	CRM	1	399	0.05	379.05	Freja Larsen
+10672	2026-04-16	C068	Customer 068	United Kingdom	Technology	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Liam Nielsen
+10673	2025-04-29	C025	Customer 025	Finland	Healthcare	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Emma Jensen
+10674	2026-01-31	C020	Customer 020	Sweden	Retail	Enterprise	Analytics Pro	Analytics	3	499	0.1	1347.3	Liam Nielsen
+10675	2026-06-16	C034	Customer 034	Belgium	Professional Services	SMB	Marketing Automation	Marketing	4	599	0.1	2156.4	Freja Larsen
+10676	2025-09-18	C026	Customer 026	United Kingdom	Healthcare	SMB	Data Platform	Data	1	799	0.05	759.05	Emma Jensen
+10677	2025-09-13	C005	Customer 005	Denmark	Professional Services	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Noah Andersen
+10678	2025-08-14	C099	Customer 099	Denmark	Retail	Mid-Market	Marketing Automation	Marketing	1	599	0.05	569.05	Clara Madsen
+10679	2025-02-22	C061	Customer 061	Norway	Manufacturing	SMB	Data Platform	Data	3	799	0.05	2277.15	Clara Madsen
+10680	2026-05-15	C092	Customer 092	Netherlands	Technology	SMB	Analytics Basic	Analytics	4	249	0.15	846.6	Sofia Hansen
+10681	2026-05-21	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Workflow Automation	Automation	1	449	0.1	404.1	Emma Jensen
+10682	2025-12-30	C009	Customer 009	Germany	Technology	Enterprise	Business Intelligence	Analytics	4	699	0.0	2796.0	Freja Larsen
+10683	2025-10-07	C050	Customer 050	Sweden	Retail	Mid-Market	CRM Suite	CRM	2	399	0.05	758.1	Emma Jensen
+10684	2025-06-07	C006	Customer 006	Denmark	Technology	SMB	Analytics Pro	Analytics	2	499	0.0	998.0	Liam Nielsen
+10685	2025-02-28	C083	Customer 083	Norway	Technology	SMB	Customer Support	Customer Experience	5	299	0.2	1196.0	Oliver Pedersen
+10686	2025-05-08	C060	Customer 060	Norway	Retail	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Lucas Thomsen
+10687	2025-04-25	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Data Platform	Data	2	799	0.05	1518.1	Emma Jensen
+10688	2025-07-28	C011	Customer 011	Denmark	Technology	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Clara Madsen
+10689	2026-06-10	C066	Customer 066	Germany	Financial Services	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Clara Madsen
+10690	2026-06-05	C047	Customer 047	Norway	Retail	SMB	Data Platform	Data	2	799	0.1	1438.2	Lucas Thomsen
+10691	2025-08-25	C073	Customer 073	Denmark	Manufacturing	Enterprise	CRM Suite	CRM	1	399	0.1	359.1	Clara Madsen
+10692	2025-10-08	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Basic	Analytics	3	249	0.0	747.0	Noah Andersen
+10693	2025-12-25	C088	Customer 088	Germany	Financial Services	Mid-Market	Workflow Automation	Automation	2	449	0.0	898.0	Emma Jensen
+10694	2025-07-20	C098	Customer 098	Finland	Retail	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Sofia Hansen
+10695	2025-10-05	C086	Customer 086	Norway	Professional Services	Mid-Market	CRM Suite	CRM	1	399	0.1	359.1	Emma Jensen
+10696	2025-08-23	C003	Customer 003	Netherlands	Technology	SMB	CRM Suite	CRM	2	399	0.0	798.0	Oliver Pedersen
+10697	2026-05-09	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Analytics Basic	Analytics	3	249	0.05	709.65	Clara Madsen
+10698	2025-01-04	C092	Customer 092	Netherlands	Technology	SMB	Marketing Automation	Marketing	10	599	0.15	5091.5	Liam Nielsen
+10699	2026-03-18	C030	Customer 030	Denmark	Financial Services	SMB	Workflow Automation	Automation	1	449	0.15	381.65	Clara Madsen
+10700	2025-01-29	C090	Customer 090	Finland	Retail	Mid-Market	Workflow Automation	Automation	5	449	0.05	2132.75	Emma Jensen
+10701	2025-04-19	C021	Customer 021	Germany	Technology	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Noah Andersen
+10702	2025-03-16	C028	Customer 028	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Freja Larsen
+10703	2025-05-26	C090	Customer 090	Finland	Retail	Mid-Market	Analytics Pro	Analytics	3	499	0.1	1347.3	Emma Jensen
+10704	2025-05-08	C062	Customer 062	Sweden	Healthcare	Mid-Market	Marketing Automation	Marketing	1	599	0.1	539.1	Emma Jensen
+10705	2025-02-11	C033	Customer 033	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Sofia Hansen
+10706	2025-12-22	C085	Customer 085	Norway	Manufacturing	Mid-Market	Customer Support	Customer Experience	3	299	0.05	852.15	Noah Andersen
+10707	2025-02-10	C035	Customer 035	Belgium	Retail	SMB	CRM Suite	CRM	2	399	0.1	718.2	Oliver Pedersen
+10708	2025-02-03	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Customer Support	Customer Experience	5	299	0.15	1270.75	Freja Larsen
+10709	2025-01-17	C034	Customer 034	Belgium	Professional Services	SMB	CRM Suite	CRM	2	399	0.0	798.0	Clara Madsen
+10710	2025-06-02	C041	Customer 041	Denmark	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Liam Nielsen
+10711	2026-01-13	C051	Customer 051	Belgium	Financial Services	Enterprise	Analytics Pro	Analytics	4	499	0.0	1996.0	Emma Jensen
+10712	2025-12-08	C047	Customer 047	Norway	Retail	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Oliver Pedersen
+10713	2025-01-27	C082	Customer 082	Germany	Manufacturing	SMB	Analytics Pro	Analytics	3	499	0.15	1272.45	Freja Larsen
+10714	2025-10-14	C058	Customer 058	Sweden	Retail	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Liam Nielsen
+10715	2025-06-17	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Analytics Pro	Analytics	5	499	0.1	2245.5	Oliver Pedersen
+10716	2025-09-25	C057	Customer 057	Denmark	Healthcare	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Noah Andersen
+10717	2026-03-31	C023	Customer 023	Sweden	Healthcare	Mid-Market	Business Intelligence	Analytics	3	699	0.1	1887.3	Noah Andersen
+10718	2026-02-05	C048	Customer 048	Germany	Professional Services	Enterprise	Customer Support	Customer Experience	3	299	0.05	852.15	Freja Larsen
+10719	2026-04-21	C022	Customer 022	Denmark	Professional Services	SMB	Business Intelligence	Analytics	5	699	0.0	3495.0	Clara Madsen
+10720	2025-05-10	C017	Customer 017	Norway	Manufacturing	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Lucas Thomsen
+10721	2025-12-29	C069	Customer 069	Denmark	Retail	Mid-Market	CRM Suite	CRM	1	399	0.0	399.0	Liam Nielsen
+10722	2025-10-19	C011	Customer 011	Denmark	Technology	Mid-Market	Analytics Pro	Analytics	2	499	0.1	898.2	Noah Andersen
+10723	2026-01-06	C094	Customer 094	Germany	Manufacturing	Mid-Market	Business Intelligence	Analytics	1	699	0.05	664.05	Lucas Thomsen
+10724	2025-01-29	C015	Customer 015	Sweden	Healthcare	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Freja Larsen
+10725	2025-05-29	C091	Customer 091	Denmark	Professional Services	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Noah Andersen
+10726	2025-10-23	C035	Customer 035	Belgium	Retail	SMB	Analytics Pro	Analytics	3	499	0.0	1497.0	Noah Andersen
+10727	2025-01-11	C033	Customer 033	Denmark	Retail	Mid-Market	CRM Suite	CRM	1	399	0.0	399.0	Oliver Pedersen
+10728	2026-05-27	C084	Customer 084	Denmark	Healthcare	Enterprise	Business Intelligence	Analytics	4	699	0.05	2656.2	Lucas Thomsen
+10729	2025-04-23	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Customer Support	Customer Experience	2	299	0.1	538.2	Oliver Pedersen
+10730	2025-07-06	C034	Customer 034	Belgium	Professional Services	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Noah Andersen
+10731	2025-08-15	C066	Customer 066	Germany	Financial Services	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Lucas Thomsen
+10732	2025-11-06	C099	Customer 099	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	2	699	0.05	1328.1	Sofia Hansen
+10733	2025-04-08	C040	Customer 040	Finland	Retail	Mid-Market	Data Platform	Data	1	799	0.1	719.1	Lucas Thomsen
+10734	2025-02-24	C028	Customer 028	Germany	Professional Services	Mid-Market	Data Platform	Data	1	799	0.0	799.0	Oliver Pedersen
+10735	2026-02-10	C047	Customer 047	Norway	Retail	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Liam Nielsen
+10736	2025-03-10	C039	Customer 039	Netherlands	Professional Services	SMB	Analytics Pro	Analytics	5	499	0.05	2370.25	Freja Larsen
+10737	2025-11-08	C070	Customer 070	Belgium	Retail	Mid-Market	Customer Support	Customer Experience	3	299	0.0	897.0	Freja Larsen
+10738	2025-10-16	C073	Customer 073	Denmark	Manufacturing	Enterprise	Marketing Automation	Marketing	1	599	0.0	599.0	Clara Madsen
+10739	2025-05-28	C020	Customer 020	Sweden	Retail	Enterprise	Business Intelligence	Analytics	2	699	0.1	1258.2	Liam Nielsen
+10740	2026-04-12	C001	Customer 001	Norway	Retail	SMB	Data Platform	Data	4	799	0.1	2876.4	Liam Nielsen
+10741	2025-09-01	C072	Customer 072	Sweden	Retail	SMB	Data Platform	Data	4	799	0.05	3036.2	Liam Nielsen
+10742	2026-05-06	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Data Platform	Data	1	799	0.1	719.1	Clara Madsen
+10743	2026-05-22	C063	Customer 063	United Kingdom	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Liam Nielsen
+10744	2025-12-31	C067	Customer 067	Denmark	Retail	SMB	Data Platform	Data	4	799	0.0	3196.0	Emma Jensen
+10745	2026-04-27	C004	Customer 004	Germany	Healthcare	Mid-Market	CRM Suite	CRM	2	399	0.05	758.1	Clara Madsen
+10746	2025-07-20	C058	Customer 058	Sweden	Retail	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Freja Larsen
+10747	2025-06-03	C025	Customer 025	Finland	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Emma Jensen
+10748	2026-03-26	C047	Customer 047	Norway	Retail	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Clara Madsen
+10749	2026-05-16	C038	Customer 038	Denmark	Financial Services	SMB	Workflow Automation	Automation	5	449	0.15	1908.25	Noah Andersen
+10750	2025-03-14	C015	Customer 015	Sweden	Healthcare	SMB	Marketing Automation	Marketing	10	599	0.2	4792.0	Noah Andersen
+10751	2025-10-23	C063	Customer 063	United Kingdom	Healthcare	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Freja Larsen
+10752	2025-01-17	C021	Customer 021	Germany	Technology	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Noah Andersen
+10753	2025-08-05	C099	Customer 099	Denmark	Retail	Mid-Market	Analytics Basic	Analytics	1	249	0.0	249.0	Liam Nielsen
+10754	2025-03-02	C057	Customer 057	Denmark	Healthcare	SMB	Data Platform	Data	3	799	0.1	2157.3	Clara Madsen
+10755	2025-02-11	C053	Customer 053	Belgium	Healthcare	SMB	Analytics Basic	Analytics	2	249	0.05	473.1	Emma Jensen
+10756	2025-01-25	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Analytics Pro	Analytics	3	499	0.1	1347.3	Liam Nielsen
+10757	2025-02-08	C014	Customer 014	Sweden	Professional Services	SMB	Analytics Pro	Analytics	2	499	0.1	898.2	Noah Andersen
+10758	2025-05-11	C100	Customer 100	Denmark	Healthcare	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Oliver Pedersen
+10759	2026-05-13	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Analytics Basic	Analytics	1	249	0.1	224.1	Lucas Thomsen
+10760	2025-08-17	C017	Customer 017	Norway	Manufacturing	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Emma Jensen
+10761	2025-04-18	C039	Customer 039	Netherlands	Professional Services	SMB	Customer Support	Customer Experience	1	299	0.1	269.1	Liam Nielsen
+10762	2025-06-21	C009	Customer 009	Germany	Technology	Enterprise	Analytics Basic	Analytics	1	249	0.15	211.65	Clara Madsen
+10763	2026-03-11	C099	Customer 099	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	10	499	0.0	4990.0	Freja Larsen
+10764	2026-04-23	C077	Customer 077	United Kingdom	Technology	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Liam Nielsen
+10765	2025-04-12	C079	Customer 079	Norway	Retail	SMB	Business Intelligence	Analytics	3	699	0.0	2097.0	Oliver Pedersen
+10766	2026-06-08	C082	Customer 082	Germany	Manufacturing	SMB	Analytics Basic	Analytics	5	249	0.2	996.0	Noah Andersen
+10767	2025-10-02	C097	Customer 097	Germany	Financial Services	Mid-Market	Customer Support	Customer Experience	10	299	0.0	2990.0	Emma Jensen
+10768	2025-02-13	C006	Customer 006	Denmark	Technology	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Freja Larsen
+10769	2025-01-17	C091	Customer 091	Denmark	Professional Services	SMB	Business Intelligence	Analytics	4	699	0.0	2796.0	Emma Jensen
+10770	2025-11-26	C023	Customer 023	Sweden	Healthcare	Mid-Market	Analytics Pro	Analytics	2	499	0.1	898.2	Freja Larsen
+10771	2026-05-12	C059	Customer 059	Denmark	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.0	598.0	Lucas Thomsen
+10772	2025-01-12	C091	Customer 091	Denmark	Professional Services	SMB	Analytics Basic	Analytics	2	249	0.0	498.0	Clara Madsen
+10773	2025-11-14	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Basic	Analytics	3	249	0.05	709.65	Emma Jensen
+10774	2025-08-04	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Marketing Automation	Marketing	3	599	0.15	1527.45	Noah Andersen
+10775	2025-12-05	C038	Customer 038	Denmark	Financial Services	SMB	Analytics Pro	Analytics	2	499	0.0	998.0	Clara Madsen
+10776	2025-03-22	C014	Customer 014	Sweden	Professional Services	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Clara Madsen
+10777	2026-04-30	C100	Customer 100	Denmark	Healthcare	SMB	CRM Suite	CRM	3	399	0.1	1077.3	Lucas Thomsen
+10778	2026-01-09	C072	Customer 072	Sweden	Retail	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Freja Larsen
+10779	2025-07-19	C062	Customer 062	Sweden	Healthcare	Mid-Market	Marketing Automation	Marketing	3	599	0.15	1527.45	Sofia Hansen
+10780	2026-06-21	C035	Customer 035	Belgium	Retail	SMB	Data Platform	Data	3	799	0.0	2397.0	Emma Jensen
+10781	2026-04-11	C019	Customer 019	Finland	Professional Services	Mid-Market	CRM Suite	CRM	4	399	0.1	1436.4	Emma Jensen
+10782	2025-03-30	C030	Customer 030	Denmark	Financial Services	SMB	CRM Suite	CRM	4	399	0.0	1596.0	Liam Nielsen
+10783	2025-09-25	C078	Customer 078	Denmark	Retail	SMB	Analytics Basic	Analytics	5	249	0.0	1245.0	Freja Larsen
+10784	2026-05-04	C084	Customer 084	Denmark	Healthcare	Enterprise	Analytics Basic	Analytics	2	249	0.1	448.2	Oliver Pedersen
+10785	2026-06-22	C025	Customer 025	Finland	Healthcare	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Sofia Hansen
+10786	2025-02-16	C040	Customer 040	Finland	Retail	Mid-Market	CRM Suite	CRM	3	399	0.1	1077.3	Noah Andersen
+10787	2025-10-15	C088	Customer 088	Germany	Financial Services	Mid-Market	Workflow Automation	Automation	1	449	0.0	449.0	Liam Nielsen
+10788	2025-01-16	C014	Customer 014	Sweden	Professional Services	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Lucas Thomsen
+10789	2026-02-05	C026	Customer 026	United Kingdom	Healthcare	SMB	Marketing Automation	Marketing	2	599	0.05	1138.1	Sofia Hansen
+10790	2025-03-27	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Workflow Automation	Automation	2	449	0.2	718.4	Freja Larsen
+10791	2025-09-07	C022	Customer 022	Denmark	Professional Services	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Sofia Hansen
+10792	2026-01-26	C048	Customer 048	Germany	Professional Services	Enterprise	Business Intelligence	Analytics	4	699	0.0	2796.0	Lucas Thomsen
+10793	2025-12-01	C083	Customer 083	Norway	Technology	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Clara Madsen
+10794	2026-06-03	C051	Customer 051	Belgium	Financial Services	Enterprise	Analytics Basic	Analytics	1	249	0.05	236.55	Emma Jensen
+10795	2025-05-17	C003	Customer 003	Netherlands	Technology	SMB	CRM Suite	CRM	10	399	0.0	3990.0	Clara Madsen
+10796	2026-05-13	C042	Customer 042	Germany	Technology	SMB	Data Platform	Data	1	799	0.15	679.15	Emma Jensen
+10797	2026-04-22	C019	Customer 019	Finland	Professional Services	Mid-Market	Data Platform	Data	2	799	0.0	1598.0	Liam Nielsen
+10798	2025-08-11	C073	Customer 073	Denmark	Manufacturing	Enterprise	CRM Suite	CRM	3	399	0.15	1017.45	Lucas Thomsen
+10799	2026-01-07	C028	Customer 028	Germany	Professional Services	Mid-Market	Customer Support	Customer Experience	3	299	0.0	897.0	Freja Larsen
+10800	2026-02-06	C084	Customer 084	Denmark	Healthcare	Enterprise	Data Platform	Data	1	799	0.1	719.1	Freja Larsen
+10801	2026-03-19	C045	Customer 045	Sweden	Professional Services	Mid-Market	Business Intelligence	Analytics	1	699	0.15	594.15	Sofia Hansen
+10802	2026-05-05	C071	Customer 071	United Kingdom	Financial Services	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Liam Nielsen
+10803	2025-09-30	C078	Customer 078	Denmark	Retail	SMB	CRM Suite	CRM	3	399	0.2	957.6	Freja Larsen
+10804	2026-06-10	C063	Customer 063	United Kingdom	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.05	1422.15	Oliver Pedersen
+10805	2025-06-08	C073	Customer 073	Denmark	Manufacturing	Enterprise	Business Intelligence	Analytics	1	699	0.15	594.15	Oliver Pedersen
+10806	2025-06-01	C019	Customer 019	Finland	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.1	1617.3	Clara Madsen
+10807	2025-07-07	C047	Customer 047	Norway	Retail	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Emma Jensen
+10808	2025-04-08	C014	Customer 014	Sweden	Professional Services	SMB	CRM Suite	CRM	1	399	0.0	399.0	Sofia Hansen
+10809	2025-05-11	C038	Customer 038	Denmark	Financial Services	SMB	Marketing Automation	Marketing	2	599	0.0	1198.0	Noah Andersen
+10810	2025-06-20	C053	Customer 053	Belgium	Healthcare	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Lucas Thomsen
+10811	2025-07-02	C061	Customer 061	Norway	Manufacturing	SMB	Data Platform	Data	2	799	0.0	1598.0	Emma Jensen
+10812	2025-12-30	C036	Customer 036	United Kingdom	Retail	SMB	Analytics Basic	Analytics	2	249	0.0	498.0	Liam Nielsen
+10813	2025-02-08	C040	Customer 040	Finland	Retail	Mid-Market	Business Intelligence	Analytics	3	699	0.05	1992.15	Freja Larsen
+10814	2026-06-11	C081	Customer 081	United Kingdom	Professional Services	SMB	Customer Support	Customer Experience	5	299	0.1	1345.5	Emma Jensen
+10815	2026-05-12	C030	Customer 030	Denmark	Financial Services	SMB	Analytics Basic	Analytics	4	249	0.0	996.0	Noah Andersen
+10816	2026-05-31	C009	Customer 009	Germany	Technology	Enterprise	Business Intelligence	Analytics	3	699	0.0	2097.0	Noah Andersen
+10817	2025-12-15	C064	Customer 064	Norway	Professional Services	Mid-Market	CRM Suite	CRM	4	399	0.1	1436.4	Oliver Pedersen
+10818	2026-02-01	C033	Customer 033	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Liam Nielsen
+10819	2025-06-10	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Emma Jensen
+10820	2025-01-16	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Sofia Hansen
+10821	2026-05-08	C014	Customer 014	Sweden	Professional Services	SMB	Analytics Basic	Analytics	1	249	0.15	211.65	Emma Jensen
+10822	2026-03-02	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Analytics Pro	Analytics	4	499	0.1	1796.4	Oliver Pedersen
+10823	2025-04-18	C053	Customer 053	Belgium	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.05	1422.15	Clara Madsen
+10824	2026-03-26	C099	Customer 099	Denmark	Retail	Mid-Market	Workflow Automation	Automation	2	449	0.1	808.2	Noah Andersen
+10825	2025-11-07	C059	Customer 059	Denmark	Professional Services	Mid-Market	Workflow Automation	Automation	5	449	0.05	2132.75	Liam Nielsen
+10826	2025-06-19	C078	Customer 078	Denmark	Retail	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Liam Nielsen
+10827	2026-06-30	C094	Customer 094	Germany	Manufacturing	Mid-Market	Analytics Pro	Analytics	2	499	0.1	898.2	Sofia Hansen
+10828	2026-02-18	C041	Customer 041	Denmark	Healthcare	SMB	CRM Suite	CRM	1	399	0.1	359.1	Liam Nielsen
+10829	2025-09-08	C068	Customer 068	United Kingdom	Technology	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Oliver Pedersen
+10830	2025-05-21	C068	Customer 068	United Kingdom	Technology	SMB	CRM Suite	CRM	4	399	0.0	1596.0	Oliver Pedersen
+10831	2025-10-01	C092	Customer 092	Netherlands	Technology	SMB	Marketing Automation	Marketing	2	599	0.05	1138.1	Oliver Pedersen
+10832	2026-02-20	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Analytics Basic	Analytics	3	249	0.15	634.95	Liam Nielsen
+10833	2025-02-08	C002	Customer 002	Belgium	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Liam Nielsen
+10834	2025-01-29	C086	Customer 086	Norway	Professional Services	Mid-Market	Marketing Automation	Marketing	4	599	0.1	2156.4	Oliver Pedersen
+10835	2026-04-22	C041	Customer 041	Denmark	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.2	798.4	Liam Nielsen
+10836	2025-11-14	C055	Customer 055	Germany	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Lucas Thomsen
+10837	2025-09-02	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Analytics Basic	Analytics	5	249	0.1	1120.5	Liam Nielsen
+10838	2025-09-29	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Analytics Pro	Analytics	2	499	0.1	898.2	Lucas Thomsen
+10839	2026-03-16	C062	Customer 062	Sweden	Healthcare	Mid-Market	Analytics Basic	Analytics	1	249	0.2	199.2	Noah Andersen
+10840	2025-08-27	C048	Customer 048	Germany	Professional Services	Enterprise	Customer Support	Customer Experience	3	299	0.2	717.6	Emma Jensen
+10841	2026-01-12	C030	Customer 030	Denmark	Financial Services	SMB	Data Platform	Data	10	799	0.1	7191.0	Freja Larsen
+10842	2025-09-23	C012	Customer 012	Belgium	Financial Services	SMB	CRM Suite	CRM	2	399	0.0	798.0	Lucas Thomsen
+10843	2025-12-25	C035	Customer 035	Belgium	Retail	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Lucas Thomsen
+10844	2025-12-06	C011	Customer 011	Denmark	Technology	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Liam Nielsen
+10845	2026-01-24	C064	Customer 064	Norway	Professional Services	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Freja Larsen
+10846	2025-01-03	C050	Customer 050	Sweden	Retail	Mid-Market	Customer Support	Customer Experience	1	299	0.15	254.15	Clara Madsen
+10847	2026-03-05	C085	Customer 085	Norway	Manufacturing	Mid-Market	CRM Suite	CRM	3	399	0.05	1137.15	Freja Larsen
+10848	2025-05-22	C021	Customer 021	Germany	Technology	SMB	Workflow Automation	Automation	10	449	0.1	4041.0	Noah Andersen
+10849	2026-01-11	C069	Customer 069	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	2	699	0.05	1328.1	Lucas Thomsen
+10850	2025-11-20	C048	Customer 048	Germany	Professional Services	Enterprise	Marketing Automation	Marketing	2	599	0.05	1138.1	Liam Nielsen
+10851	2025-05-26	C020	Customer 020	Sweden	Retail	Enterprise	Analytics Basic	Analytics	2	249	0.0	498.0	Oliver Pedersen
+10852	2025-10-20	C067	Customer 067	Denmark	Retail	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Freja Larsen
+10853	2026-03-08	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Analytics Pro	Analytics	5	499	0.15	2120.75	Liam Nielsen
+10854	2026-02-03	C033	Customer 033	Denmark	Retail	Mid-Market	Customer Support	Customer Experience	2	299	0.15	508.3	Sofia Hansen
+10855	2025-12-10	C073	Customer 073	Denmark	Manufacturing	Enterprise	Marketing Automation	Marketing	2	599	0.0	1198.0	Clara Madsen
+10856	2025-05-20	C061	Customer 061	Norway	Manufacturing	SMB	Analytics Pro	Analytics	3	499	0.15	1272.45	Oliver Pedersen
+10857	2025-07-06	C009	Customer 009	Germany	Technology	Enterprise	Analytics Pro	Analytics	2	499	0.1	898.2	Sofia Hansen
+10858	2025-03-02	C068	Customer 068	United Kingdom	Technology	SMB	Customer Support	Customer Experience	3	299	0.0	897.0	Sofia Hansen
+10859	2026-01-15	C035	Customer 035	Belgium	Retail	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Freja Larsen
+10860	2026-03-16	C081	Customer 081	United Kingdom	Professional Services	SMB	Data Platform	Data	4	799	0.0	3196.0	Sofia Hansen
+10861	2025-11-15	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Pro	Analytics	5	499	0.15	2120.75	Noah Andersen
+10862	2025-10-29	C088	Customer 088	Germany	Financial Services	Mid-Market	Analytics Pro	Analytics	3	499	0.1	1347.3	Noah Andersen
+10863	2025-12-10	C096	Customer 096	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	10	599	0.1	5391.0	Freja Larsen
+10864	2025-01-11	C065	Customer 065	Sweden	Manufacturing	Mid-Market	CRM Suite	CRM	1	399	0.0	399.0	Liam Nielsen
+10865	2025-03-03	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Analytics Pro	Analytics	2	499	0.1	898.2	Emma Jensen
+10866	2025-08-14	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Basic	Analytics	3	249	0.0	747.0	Liam Nielsen
+10867	2025-06-02	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Marketing Automation	Marketing	3	599	0.05	1707.15	Liam Nielsen
+10868	2025-11-06	C047	Customer 047	Norway	Retail	SMB	Analytics Pro	Analytics	2	499	0.1	898.2	Liam Nielsen
+10869	2025-08-31	C040	Customer 040	Finland	Retail	Mid-Market	Customer Support	Customer Experience	2	299	0.0	598.0	Liam Nielsen
+10870	2026-05-08	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Business Intelligence	Analytics	1	699	0.1	629.1	Oliver Pedersen
+10871	2026-01-01	C054	Customer 054	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	2	249	0.0	498.0	Emma Jensen
+10872	2025-11-26	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Workflow Automation	Automation	1	449	0.1	404.1	Oliver Pedersen
+10873	2025-04-17	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Workflow Automation	Automation	4	449	0.05	1706.2	Sofia Hansen
+10874	2025-08-14	C047	Customer 047	Norway	Retail	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Clara Madsen
+10875	2025-08-06	C015	Customer 015	Sweden	Healthcare	SMB	Workflow Automation	Automation	1	449	0.0	449.0	Liam Nielsen
+10876	2026-05-21	C019	Customer 019	Finland	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.0	2097.0	Clara Madsen
+10877	2025-09-16	C026	Customer 026	United Kingdom	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.15	1272.45	Noah Andersen
+10878	2026-06-01	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Analytics Basic	Analytics	5	249	0.0	1245.0	Freja Larsen
+10879	2025-02-23	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Analytics Basic	Analytics	3	249	0.1	672.3	Freja Larsen
+10880	2025-02-16	C022	Customer 022	Denmark	Professional Services	SMB	CRM Suite	CRM	2	399	0.2	638.4	Oliver Pedersen
+10881	2026-06-05	C021	Customer 021	Germany	Technology	SMB	Business Intelligence	Analytics	4	699	0.0	2796.0	Oliver Pedersen
+10882	2025-04-09	C051	Customer 051	Belgium	Financial Services	Enterprise	Analytics Basic	Analytics	3	249	0.0	747.0	Noah Andersen
+10883	2025-01-20	C038	Customer 038	Denmark	Financial Services	SMB	CRM Suite	CRM	1	399	0.1	359.1	Liam Nielsen
+10884	2026-05-05	C020	Customer 020	Sweden	Retail	Enterprise	Marketing Automation	Marketing	3	599	0.2	1437.6	Clara Madsen
+10885	2026-02-23	C029	Customer 029	Germany	Professional Services	Mid-Market	CRM Suite	CRM	5	399	0.15	1695.75	Lucas Thomsen
+10886	2025-03-03	C051	Customer 051	Belgium	Financial Services	Enterprise	Customer Support	Customer Experience	2	299	0.05	568.1	Clara Madsen
+10887	2025-05-25	C004	Customer 004	Germany	Healthcare	Mid-Market	Data Platform	Data	2	799	0.1	1438.2	Emma Jensen
+10888	2025-08-04	C055	Customer 055	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	1	499	0.0	499.0	Sofia Hansen
+10889	2025-01-03	C071	Customer 071	United Kingdom	Financial Services	SMB	Marketing Automation	Marketing	1	599	0.2	479.2	Freja Larsen
+10890	2025-06-09	C092	Customer 092	Netherlands	Technology	SMB	Data Platform	Data	2	799	0.2	1278.4	Sofia Hansen
+10891	2025-04-30	C028	Customer 028	Germany	Professional Services	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Emma Jensen
+10892	2025-03-30	C004	Customer 004	Germany	Healthcare	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Oliver Pedersen
+10893	2025-11-25	C022	Customer 022	Denmark	Professional Services	SMB	Customer Support	Customer Experience	5	299	0.0	1495.0	Clara Madsen
+10894	2025-12-23	C076	Customer 076	Netherlands	Professional Services	Mid-Market	CRM Suite	CRM	4	399	0.0	1596.0	Freja Larsen
+10895	2025-09-24	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.1	1347.3	Sofia Hansen
+10896	2025-11-19	C067	Customer 067	Denmark	Retail	SMB	CRM Suite	CRM	4	399	0.05	1516.2	Lucas Thomsen
+10897	2026-06-25	C086	Customer 086	Norway	Professional Services	Mid-Market	Analytics Basic	Analytics	1	249	0.0	249.0	Oliver Pedersen
+10898	2025-07-14	C066	Customer 066	Germany	Financial Services	SMB	CRM Suite	CRM	2	399	0.0	798.0	Emma Jensen
+10899	2025-11-28	C088	Customer 088	Germany	Financial Services	Mid-Market	Workflow Automation	Automation	3	449	0.2	1077.6	Lucas Thomsen
+10900	2025-06-19	C034	Customer 034	Belgium	Professional Services	SMB	Marketing Automation	Marketing	4	599	0.1	2156.4	Sofia Hansen
+10901	2026-06-05	C091	Customer 091	Denmark	Professional Services	SMB	Analytics Pro	Analytics	4	499	0.05	1896.2	Lucas Thomsen
+10902	2026-04-08	C055	Customer 055	Germany	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Clara Madsen
+10903	2025-02-09	C001	Customer 001	Norway	Retail	SMB	Analytics Pro	Analytics	5	499	0.2	1996.0	Liam Nielsen
+10904	2026-06-21	C072	Customer 072	Sweden	Retail	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Lucas Thomsen
+10905	2025-09-18	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Analytics Basic	Analytics	5	249	0.0	1245.0	Oliver Pedersen
+10906	2026-01-30	C038	Customer 038	Denmark	Financial Services	SMB	Analytics Basic	Analytics	10	249	0.0	2490.0	Emma Jensen
+10907	2025-08-14	C006	Customer 006	Denmark	Technology	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Sofia Hansen
+10908	2025-05-04	C086	Customer 086	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Clara Madsen
+10909	2025-02-07	C025	Customer 025	Finland	Healthcare	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Liam Nielsen
+10910	2025-11-24	C082	Customer 082	Germany	Manufacturing	SMB	Data Platform	Data	2	799	0.15	1358.3	Liam Nielsen
+10911	2025-09-08	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Pro	Analytics	3	499	0.05	1422.15	Emma Jensen
+10912	2025-06-25	C061	Customer 061	Norway	Manufacturing	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Noah Andersen
+10913	2026-03-30	C012	Customer 012	Belgium	Financial Services	SMB	Data Platform	Data	5	799	0.05	3795.25	Clara Madsen
+10914	2025-02-06	C006	Customer 006	Denmark	Technology	SMB	Data Platform	Data	3	799	0.1	2157.3	Clara Madsen
+10915	2025-11-12	C090	Customer 090	Finland	Retail	Mid-Market	Workflow Automation	Automation	2	449	0.1	808.2	Freja Larsen
+10916	2025-04-24	C027	Customer 027	Sweden	Healthcare	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Emma Jensen
+10917	2025-02-09	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Data Platform	Data	10	799	0.05	7590.5	Liam Nielsen
+10918	2025-10-28	C083	Customer 083	Norway	Technology	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Liam Nielsen
+10919	2025-08-12	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Data Platform	Data	10	799	0.0	7990.0	Lucas Thomsen
+10920	2025-11-14	C057	Customer 057	Denmark	Healthcare	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Emma Jensen
+10921	2025-12-15	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Analytics Pro	Analytics	4	499	0.05	1896.2	Noah Andersen
+10922	2025-04-25	C099	Customer 099	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	2	699	0.2	1118.4	Freja Larsen
+10923	2025-11-19	C040	Customer 040	Finland	Retail	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Sofia Hansen
+10924	2025-02-09	C014	Customer 014	Sweden	Professional Services	SMB	CRM Suite	CRM	2	399	0.1	718.2	Emma Jensen
+10925	2025-02-09	C035	Customer 035	Belgium	Retail	SMB	Workflow Automation	Automation	3	449	0.05	1279.65	Freja Larsen
+10926	2025-10-16	C048	Customer 048	Germany	Professional Services	Enterprise	Analytics Basic	Analytics	2	249	0.1	448.2	Clara Madsen
+10927	2025-09-19	C084	Customer 084	Denmark	Healthcare	Enterprise	Workflow Automation	Automation	1	449	0.05	426.55	Freja Larsen
+10928	2025-08-04	C056	Customer 056	Belgium	Retail	SMB	CRM Suite	CRM	3	399	0.15	1017.45	Lucas Thomsen
+10929	2025-05-27	C049	Customer 049	Germany	Technology	Enterprise	Customer Support	Customer Experience	5	299	0.05	1420.25	Oliver Pedersen
+10930	2025-12-02	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Liam Nielsen
+10931	2025-06-17	C061	Customer 061	Norway	Manufacturing	SMB	CRM Suite	CRM	1	399	0.1	359.1	Lucas Thomsen
+10932	2025-04-02	C049	Customer 049	Germany	Technology	Enterprise	Business Intelligence	Analytics	2	699	0.05	1328.1	Sofia Hansen
+10933	2025-12-19	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Analytics Basic	Analytics	1	249	0.0	249.0	Emma Jensen
+10934	2025-12-29	C062	Customer 062	Sweden	Healthcare	Mid-Market	Analytics Pro	Analytics	4	499	0.0	1996.0	Lucas Thomsen
+10935	2025-12-11	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	CRM Suite	CRM	4	399	0.0	1596.0	Liam Nielsen
+10936	2025-06-19	C043	Customer 043	Denmark	Retail	Mid-Market	Workflow Automation	Automation	3	449	0.15	1144.95	Oliver Pedersen
+10937	2025-12-22	C020	Customer 020	Sweden	Retail	Enterprise	Analytics Basic	Analytics	2	249	0.0	498.0	Lucas Thomsen
+10938	2025-07-10	C097	Customer 097	Germany	Financial Services	Mid-Market	Business Intelligence	Analytics	4	699	0.0	2796.0	Oliver Pedersen
+10939	2026-02-26	C090	Customer 090	Finland	Retail	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Lucas Thomsen
+10940	2025-01-07	C039	Customer 039	Netherlands	Professional Services	SMB	Data Platform	Data	4	799	0.0	3196.0	Liam Nielsen
+10941	2025-05-13	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Basic	Analytics	3	249	0.05	709.65	Noah Andersen
+10942	2025-01-31	C049	Customer 049	Germany	Technology	Enterprise	Analytics Basic	Analytics	4	249	0.0	996.0	Freja Larsen
+10943	2026-06-19	C064	Customer 064	Norway	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.2	1677.6	Emma Jensen
+10944	2026-03-02	C062	Customer 062	Sweden	Healthcare	Mid-Market	Data Platform	Data	2	799	0.15	1358.3	Emma Jensen
+10945	2026-01-29	C054	Customer 054	United Kingdom	Financial Services	SMB	CRM Suite	CRM	10	399	0.15	3391.5	Emma Jensen
+10946	2025-12-29	C009	Customer 009	Germany	Technology	Enterprise	Marketing Automation	Marketing	3	599	0.05	1707.15	Liam Nielsen
+10947	2026-03-13	C088	Customer 088	Germany	Financial Services	Mid-Market	CRM Suite	CRM	3	399	0.1	1077.3	Clara Madsen
+10948	2025-03-23	C037	Customer 037	Norway	Retail	SMB	Data Platform	Data	1	799	0.0	799.0	Noah Andersen
+10949	2025-12-22	C049	Customer 049	Germany	Technology	Enterprise	Customer Support	Customer Experience	3	299	0.0	897.0	Sofia Hansen
+10950	2025-09-15	C041	Customer 041	Denmark	Healthcare	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Oliver Pedersen
+10951	2026-06-08	C017	Customer 017	Norway	Manufacturing	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Liam Nielsen
+10952	2025-10-22	C088	Customer 088	Germany	Financial Services	Mid-Market	CRM Suite	CRM	1	399	0.05	379.05	Clara Madsen
+10953	2025-08-12	C021	Customer 021	Germany	Technology	SMB	Analytics Basic	Analytics	3	249	0.05	709.65	Sofia Hansen
+10954	2026-06-09	C051	Customer 051	Belgium	Financial Services	Enterprise	Business Intelligence	Analytics	4	699	0.0	2796.0	Oliver Pedersen
+10955	2025-02-15	C059	Customer 059	Denmark	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.05	1422.15	Oliver Pedersen
+10956	2025-04-23	C039	Customer 039	Netherlands	Professional Services	SMB	Data Platform	Data	1	799	0.1	719.1	Noah Andersen
+10957	2025-08-21	C055	Customer 055	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	3	449	0.05	1279.65	Freja Larsen
+10958	2025-01-17	C041	Customer 041	Denmark	Healthcare	SMB	CRM Suite	CRM	1	399	0.1	359.1	Emma Jensen
+10959	2025-12-26	C039	Customer 039	Netherlands	Professional Services	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Lucas Thomsen
+10960	2025-08-11	C013	Customer 013	United Kingdom	Financial Services	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Sofia Hansen
+10961	2026-03-24	C064	Customer 064	Norway	Professional Services	Mid-Market	CRM Suite	CRM	1	399	0.05	379.05	Liam Nielsen
+10962	2025-12-31	C011	Customer 011	Denmark	Technology	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Sofia Hansen
+10963	2025-11-22	C019	Customer 019	Finland	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.0	498.0	Freja Larsen
+10964	2026-04-12	C011	Customer 011	Denmark	Technology	Mid-Market	Analytics Pro	Analytics	1	499	0.1	449.1	Emma Jensen
+10965	2026-02-18	C077	Customer 077	United Kingdom	Technology	SMB	Analytics Pro	Analytics	2	499	0.1	898.2	Sofia Hansen
+10966	2026-03-31	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Customer Support	Customer Experience	3	299	0.05	852.15	Freja Larsen
+10967	2025-08-21	C045	Customer 045	Sweden	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Liam Nielsen
+10968	2025-08-12	C001	Customer 001	Norway	Retail	SMB	CRM Suite	CRM	2	399	0.15	678.3	Noah Andersen
+10969	2026-02-16	C040	Customer 040	Finland	Retail	Mid-Market	Analytics Pro	Analytics	4	499	0.1	1796.4	Clara Madsen
+10970	2025-12-01	C019	Customer 019	Finland	Professional Services	Mid-Market	Data Platform	Data	1	799	0.05	759.05	Oliver Pedersen
+10971	2025-08-10	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Analytics Pro	Analytics	3	499	0.05	1422.15	Liam Nielsen
+10972	2025-02-06	C072	Customer 072	Sweden	Retail	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Emma Jensen
+10973	2025-10-05	C072	Customer 072	Sweden	Retail	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Oliver Pedersen
+10974	2025-07-15	C061	Customer 061	Norway	Manufacturing	SMB	Analytics Pro	Analytics	3	499	0.05	1422.15	Clara Madsen
+10975	2026-04-29	C012	Customer 012	Belgium	Financial Services	SMB	Business Intelligence	Analytics	3	699	0.2	1677.6	Liam Nielsen
+10976	2025-08-30	C061	Customer 061	Norway	Manufacturing	SMB	Customer Support	Customer Experience	5	299	0.05	1420.25	Lucas Thomsen
+10977	2025-11-20	C033	Customer 033	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	3	499	0.05	1422.15	Liam Nielsen
+10978	2025-07-11	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Basic	Analytics	10	249	0.05	2365.5	Liam Nielsen
+10979	2025-01-17	C090	Customer 090	Finland	Retail	Mid-Market	Workflow Automation	Automation	1	449	0.15	381.65	Lucas Thomsen
+10980	2026-06-08	C092	Customer 092	Netherlands	Technology	SMB	CRM Suite	CRM	1	399	0.1	359.1	Liam Nielsen
+10981	2026-02-05	C069	Customer 069	Denmark	Retail	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Oliver Pedersen
+10982	2025-01-22	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Analytics Basic	Analytics	1	249	0.1	224.1	Emma Jensen
+10983	2026-04-19	C025	Customer 025	Finland	Healthcare	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Clara Madsen
+10984	2025-04-30	C091	Customer 091	Denmark	Professional Services	SMB	Analytics Basic	Analytics	3	249	0.05	709.65	Freja Larsen
+10985	2025-07-29	C046	Customer 046	Netherlands	Financial Services	Mid-Market	CRM Suite	CRM	1	399	0.0	399.0	Sofia Hansen
+10986	2025-11-02	C087	Customer 087	Netherlands	Healthcare	Mid-Market	CRM Suite	CRM	5	399	0.05	1895.25	Lucas Thomsen
+10987	2025-09-27	C030	Customer 030	Denmark	Financial Services	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Noah Andersen
+10988	2025-10-12	C047	Customer 047	Norway	Retail	SMB	Business Intelligence	Analytics	2	699	0.15	1188.3	Lucas Thomsen
+10989	2025-08-15	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Analytics Basic	Analytics	1	249	0.0	249.0	Clara Madsen
+10990	2026-01-16	C049	Customer 049	Germany	Technology	Enterprise	Workflow Automation	Automation	1	449	0.2	359.2	Sofia Hansen
+10991	2026-04-05	C047	Customer 047	Norway	Retail	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Sofia Hansen
+10992	2025-01-07	C084	Customer 084	Denmark	Healthcare	Enterprise	Analytics Basic	Analytics	1	249	0.1	224.1	Noah Andersen
+10993	2025-01-29	C082	Customer 082	Germany	Manufacturing	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Clara Madsen
+10994	2025-02-02	C018	Customer 018	Germany	Technology	SMB	CRM Suite	CRM	1	399	0.0	399.0	Oliver Pedersen
+10995	2025-03-20	C066	Customer 066	Germany	Financial Services	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Emma Jensen
+10996	2026-04-04	C068	Customer 068	United Kingdom	Technology	SMB	Data Platform	Data	10	799	0.0	7990.0	Noah Andersen
+10997	2026-06-22	C094	Customer 094	Germany	Manufacturing	Mid-Market	Marketing Automation	Marketing	3	599	0.1	1617.3	Emma Jensen
+10998	2026-04-27	C033	Customer 033	Denmark	Retail	Mid-Market	Analytics Basic	Analytics	5	249	0.05	1182.75	Oliver Pedersen
+10999	2026-03-06	C036	Customer 036	United Kingdom	Retail	SMB	Analytics Basic	Analytics	1	249	0.1	224.1	Sofia Hansen
+11000	2025-10-12	C082	Customer 082	Germany	Manufacturing	SMB	Data Platform	Data	2	799	0.0	1598.0	Emma Jensen
+11001	2026-05-31	C019	Customer 019	Finland	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.0	2097.0	Oliver Pedersen
+11002	2025-04-09	C028	Customer 028	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	1	449	0.05	426.55	Oliver Pedersen
+11003	2026-02-01	C040	Customer 040	Finland	Retail	Mid-Market	CRM Suite	CRM	1	399	0.15	339.15	Freja Larsen
+11004	2026-05-04	C084	Customer 084	Denmark	Healthcare	Enterprise	Analytics Basic	Analytics	3	249	0.1	672.3	Noah Andersen
+11005	2025-02-08	C097	Customer 097	Germany	Financial Services	Mid-Market	Analytics Pro	Analytics	3	499	0.05	1422.15	Freja Larsen
+11006	2025-09-28	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.05	568.1	Lucas Thomsen
+11007	2025-06-06	C015	Customer 015	Sweden	Healthcare	SMB	Marketing Automation	Marketing	2	599	0.0	1198.0	Sofia Hansen
+11008	2025-03-16	C041	Customer 041	Denmark	Healthcare	SMB	Business Intelligence	Analytics	2	699	0.2	1118.4	Noah Andersen
+11009	2025-05-10	C039	Customer 039	Netherlands	Professional Services	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Sofia Hansen
+11010	2025-03-25	C002	Customer 002	Belgium	Healthcare	SMB	Data Platform	Data	2	799	0.0	1598.0	Freja Larsen
+11011	2025-01-22	C063	Customer 063	United Kingdom	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.05	284.05	Clara Madsen
+11012	2026-04-04	C029	Customer 029	Germany	Professional Services	Mid-Market	CRM Suite	CRM	1	399	0.0	399.0	Oliver Pedersen
+11013	2026-06-23	C074	Customer 074	United Kingdom	Manufacturing	SMB	Business Intelligence	Analytics	10	699	0.2	5592.0	Sofia Hansen
+11014	2026-01-17	C066	Customer 066	Germany	Financial Services	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Noah Andersen
+11015	2026-03-16	C051	Customer 051	Belgium	Financial Services	Enterprise	Marketing Automation	Marketing	4	599	0.1	2156.4	Lucas Thomsen
+11016	2025-01-21	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Marketing Automation	Marketing	2	599	0.0	1198.0	Noah Andersen
+11017	2025-10-30	C077	Customer 077	United Kingdom	Technology	SMB	Data Platform	Data	2	799	0.1	1438.2	Sofia Hansen
+11018	2025-03-25	C010	Customer 010	Netherlands	Healthcare	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Noah Andersen
+11019	2026-03-29	C014	Customer 014	Sweden	Professional Services	SMB	Data Platform	Data	1	799	0.1	719.1	Lucas Thomsen
+11020	2026-01-22	C082	Customer 082	Germany	Manufacturing	SMB	CRM Suite	CRM	1	399	0.1	359.1	Oliver Pedersen
+11021	2026-05-22	C051	Customer 051	Belgium	Financial Services	Enterprise	Business Intelligence	Analytics	4	699	0.15	2376.6	Clara Madsen
+11022	2025-09-14	C073	Customer 073	Denmark	Manufacturing	Enterprise	Business Intelligence	Analytics	3	699	0.0	2097.0	Oliver Pedersen
+11023	2026-06-11	C039	Customer 039	Netherlands	Professional Services	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Noah Andersen
+11024	2025-06-11	C028	Customer 028	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	2	499	0.0	998.0	Lucas Thomsen
+11025	2025-06-12	C003	Customer 003	Netherlands	Technology	SMB	Analytics Pro	Analytics	5	499	0.2	1996.0	Lucas Thomsen
+11026	2026-06-08	C084	Customer 084	Denmark	Healthcare	Enterprise	Business Intelligence	Analytics	1	699	0.05	664.05	Sofia Hansen
+11027	2025-09-28	C070	Customer 070	Belgium	Retail	Mid-Market	Business Intelligence	Analytics	2	699	0.1	1258.2	Freja Larsen
+11028	2026-05-07	C027	Customer 027	Sweden	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Noah Andersen
+11029	2025-07-27	C002	Customer 002	Belgium	Healthcare	SMB	Workflow Automation	Automation	4	449	0.0	1796.0	Noah Andersen
+11030	2026-06-23	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Customer Support	Customer Experience	10	299	0.0	2990.0	Noah Andersen
+11031	2025-03-01	C038	Customer 038	Denmark	Financial Services	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Noah Andersen
+11032	2026-03-06	C003	Customer 003	Netherlands	Technology	SMB	Analytics Pro	Analytics	5	499	0.05	2370.25	Sofia Hansen
+11033	2025-11-05	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Analytics Basic	Analytics	4	249	0.0	996.0	Freja Larsen
+11034	2026-06-04	C094	Customer 094	Germany	Manufacturing	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Freja Larsen
+11035	2025-01-27	C040	Customer 040	Finland	Retail	Mid-Market	Customer Support	Customer Experience	2	299	0.15	508.3	Emma Jensen
+11036	2025-07-18	C002	Customer 002	Belgium	Healthcare	SMB	Analytics Basic	Analytics	2	249	0.2	398.4	Noah Andersen
+11037	2026-01-22	C081	Customer 081	United Kingdom	Professional Services	SMB	Data Platform	Data	10	799	0.0	7990.0	Noah Andersen
+11038	2025-12-15	C041	Customer 041	Denmark	Healthcare	SMB	CRM Suite	CRM	1	399	0.0	399.0	Emma Jensen
+11039	2026-06-20	C012	Customer 012	Belgium	Financial Services	SMB	Customer Support	Customer Experience	4	299	0.0	1196.0	Freja Larsen
+11040	2026-01-13	C035	Customer 035	Belgium	Retail	SMB	Data Platform	Data	2	799	0.1	1438.2	Lucas Thomsen
+11041	2026-06-11	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Marketing Automation	Marketing	4	599	0.1	2156.4	Lucas Thomsen
+11042	2025-06-02	C055	Customer 055	Germany	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.0	798.0	Liam Nielsen
+11043	2025-07-25	C045	Customer 045	Sweden	Professional Services	Mid-Market	CRM Suite	CRM	3	399	0.0	1197.0	Oliver Pedersen
+11044	2026-03-31	C079	Customer 079	Norway	Retail	SMB	Marketing Automation	Marketing	4	599	0.1	2156.4	Liam Nielsen
+11045	2025-09-30	C090	Customer 090	Finland	Retail	Mid-Market	Customer Support	Customer Experience	4	299	0.1	1076.4	Freja Larsen
+11046	2025-08-24	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Pro	Analytics	5	499	0.0	2495.0	Clara Madsen
+11047	2026-06-05	C062	Customer 062	Sweden	Healthcare	Mid-Market	Marketing Automation	Marketing	1	599	0.1	539.1	Noah Andersen
+11048	2026-05-16	C049	Customer 049	Germany	Technology	Enterprise	Marketing Automation	Marketing	3	599	0.0	1797.0	Liam Nielsen
+11049	2025-04-27	C095	Customer 095	United Kingdom	Professional Services	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Sofia Hansen
+11050	2026-01-21	C025	Customer 025	Finland	Healthcare	SMB	CRM Suite	CRM	2	399	0.1	718.2	Lucas Thomsen
+11051	2025-12-10	C023	Customer 023	Sweden	Healthcare	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Sofia Hansen
+11052	2026-01-30	C024	Customer 024	Norway	Healthcare	SMB	Analytics Basic	Analytics	2	249	0.05	473.1	Emma Jensen
+11053	2025-03-05	C038	Customer 038	Denmark	Financial Services	SMB	Data Platform	Data	3	799	0.15	2037.45	Freja Larsen
+11054	2025-03-13	C028	Customer 028	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	10	499	0.05	4740.5	Freja Larsen
+11055	2025-10-01	C021	Customer 021	Germany	Technology	SMB	Customer Support	Customer Experience	1	299	0.1	269.1	Liam Nielsen
+11056	2025-11-16	C054	Customer 054	United Kingdom	Financial Services	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Noah Andersen
+11057	2025-12-04	C018	Customer 018	Germany	Technology	SMB	Data Platform	Data	2	799	0.15	1358.3	Freja Larsen
+11058	2026-01-01	C036	Customer 036	United Kingdom	Retail	SMB	Analytics Basic	Analytics	1	249	0.15	211.65	Liam Nielsen
+11059	2026-05-10	C099	Customer 099	Denmark	Retail	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Liam Nielsen
+11060	2025-06-15	C045	Customer 045	Sweden	Professional Services	Mid-Market	Workflow Automation	Automation	5	449	0.15	1908.25	Oliver Pedersen
+11061	2026-06-28	C073	Customer 073	Denmark	Manufacturing	Enterprise	Analytics Pro	Analytics	5	499	0.1	2245.5	Oliver Pedersen
+11062	2025-01-11	C053	Customer 053	Belgium	Healthcare	SMB	Customer Support	Customer Experience	5	299	0.1	1345.5	Freja Larsen
+11063	2025-10-28	C030	Customer 030	Denmark	Financial Services	SMB	Data Platform	Data	10	799	0.0	7990.0	Liam Nielsen
+11064	2025-04-12	C060	Customer 060	Norway	Retail	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Emma Jensen
+11065	2026-03-01	C098	Customer 098	Finland	Retail	Mid-Market	Workflow Automation	Automation	2	449	0.15	763.3	Emma Jensen
+11066	2026-01-27	C032	Customer 032	Denmark	Healthcare	SMB	Data Platform	Data	3	799	0.0	2397.0	Oliver Pedersen
+11067	2025-08-02	C067	Customer 067	Denmark	Retail	SMB	Workflow Automation	Automation	2	449	0.2	718.4	Freja Larsen
+11068	2025-03-29	C067	Customer 067	Denmark	Retail	SMB	Customer Support	Customer Experience	2	299	0.0	598.0	Lucas Thomsen
+11069	2026-02-05	C028	Customer 028	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	2	599	0.0	1198.0	Noah Andersen
+11070	2025-02-15	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	3	699	0.05	1992.15	Clara Madsen
+11071	2026-04-08	C079	Customer 079	Norway	Retail	SMB	Analytics Basic	Analytics	3	249	0.05	709.65	Lucas Thomsen
+11072	2025-11-06	C041	Customer 041	Denmark	Healthcare	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Emma Jensen
+11073	2025-03-27	C063	Customer 063	United Kingdom	Healthcare	SMB	Analytics Basic	Analytics	2	249	0.0	498.0	Emma Jensen
+11074	2025-04-02	C023	Customer 023	Sweden	Healthcare	Mid-Market	Analytics Basic	Analytics	3	249	0.2	597.6	Lucas Thomsen
+11075	2025-08-30	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Oliver Pedersen
+11076	2025-01-02	C048	Customer 048	Germany	Professional Services	Enterprise	Workflow Automation	Automation	1	449	0.0	449.0	Oliver Pedersen
+11077	2025-08-13	C032	Customer 032	Denmark	Healthcare	SMB	Analytics Pro	Analytics	4	499	0.0	1996.0	Freja Larsen
+11078	2025-04-26	C057	Customer 057	Denmark	Healthcare	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Oliver Pedersen
+11079	2025-04-13	C100	Customer 100	Denmark	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.15	508.3	Sofia Hansen
+11080	2025-07-13	C033	Customer 033	Denmark	Retail	Mid-Market	Customer Support	Customer Experience	4	299	0.1	1076.4	Clara Madsen
+11081	2025-06-15	C024	Customer 024	Norway	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.1	1347.3	Lucas Thomsen
+11082	2025-03-31	C039	Customer 039	Netherlands	Professional Services	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Lucas Thomsen
+11083	2025-05-02	C034	Customer 034	Belgium	Professional Services	SMB	CRM Suite	CRM	3	399	0.05	1137.15	Liam Nielsen
+11084	2025-05-23	C056	Customer 056	Belgium	Retail	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+11085	2025-04-16	C028	Customer 028	Germany	Professional Services	Mid-Market	CRM Suite	CRM	4	399	0.05	1516.2	Lucas Thomsen
+11086	2026-03-04	C037	Customer 037	Norway	Retail	SMB	Data Platform	Data	4	799	0.0	3196.0	Sofia Hansen
+11087	2025-11-01	C007	Customer 007	Denmark	Technology	SMB	Business Intelligence	Analytics	3	699	0.1	1887.3	Lucas Thomsen
+11088	2025-11-13	C068	Customer 068	United Kingdom	Technology	SMB	Analytics Pro	Analytics	2	499	0.05	948.1	Noah Andersen
+11089	2025-01-09	C037	Customer 037	Norway	Retail	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Sofia Hansen
+11090	2025-03-14	C056	Customer 056	Belgium	Retail	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Freja Larsen
+11091	2025-12-25	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Analytics Basic	Analytics	2	249	0.0	498.0	Noah Andersen
+11092	2025-08-11	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Data Platform	Data	3	799	0.1	2157.3	Noah Andersen
+11093	2026-02-20	C047	Customer 047	Norway	Retail	SMB	Analytics Pro	Analytics	3	499	0.0	1497.0	Lucas Thomsen
+11094	2026-01-05	C020	Customer 020	Sweden	Retail	Enterprise	Marketing Automation	Marketing	2	599	0.15	1018.3	Oliver Pedersen
+11095	2025-09-21	C019	Customer 019	Finland	Professional Services	Mid-Market	Data Platform	Data	1	799	0.1	719.1	Lucas Thomsen
+11096	2025-11-14	C029	Customer 029	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	2	449	0.0	898.0	Sofia Hansen
+11097	2025-03-25	C074	Customer 074	United Kingdom	Manufacturing	SMB	CRM Suite	CRM	2	399	0.2	638.4	Freja Larsen
+11098	2025-11-14	C060	Customer 060	Norway	Retail	SMB	Business Intelligence	Analytics	4	699	0.05	2656.2	Emma Jensen
+11099	2025-04-21	C018	Customer 018	Germany	Technology	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Clara Madsen
+11100	2025-09-08	C092	Customer 092	Netherlands	Technology	SMB	Data Platform	Data	3	799	0.1	2157.3	Oliver Pedersen
+11101	2026-01-18	C035	Customer 035	Belgium	Retail	SMB	Business Intelligence	Analytics	5	699	0.0	3495.0	Sofia Hansen
+11102	2025-01-07	C043	Customer 043	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	1	499	0.1	449.1	Emma Jensen
+11103	2026-04-04	C095	Customer 095	United Kingdom	Professional Services	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Sofia Hansen
+11104	2025-03-25	C091	Customer 091	Denmark	Professional Services	SMB	Data Platform	Data	1	799	0.2	639.2	Oliver Pedersen
+11105	2025-07-27	C011	Customer 011	Denmark	Technology	Mid-Market	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+11106	2026-01-25	C049	Customer 049	Germany	Technology	Enterprise	Data Platform	Data	3	799	0.05	2277.15	Oliver Pedersen
+11107	2025-11-10	C038	Customer 038	Denmark	Financial Services	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Sofia Hansen
+11108	2025-01-22	C064	Customer 064	Norway	Professional Services	Mid-Market	Workflow Automation	Automation	3	449	0.0	1347.0	Noah Andersen
+11109	2026-02-14	C069	Customer 069	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	5	699	0.05	3320.25	Clara Madsen
+11110	2026-05-30	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Marketing Automation	Marketing	1	599	0.05	569.05	Liam Nielsen
+11111	2025-05-07	C034	Customer 034	Belgium	Professional Services	SMB	Data Platform	Data	1	799	0.0	799.0	Clara Madsen
+11112	2025-01-14	C048	Customer 048	Germany	Professional Services	Enterprise	Workflow Automation	Automation	5	449	0.05	2132.75	Noah Andersen
+11113	2025-01-12	C056	Customer 056	Belgium	Retail	SMB	Data Platform	Data	3	799	0.15	2037.45	Oliver Pedersen
+11114	2025-03-28	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Customer Support	Customer Experience	5	299	0.15	1270.75	Clara Madsen
+11115	2026-06-08	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Analytics Pro	Analytics	3	499	0.0	1497.0	Oliver Pedersen
+11116	2026-06-21	C031	Customer 031	Germany	Manufacturing	SMB	Data Platform	Data	4	799	0.0	3196.0	Oliver Pedersen
+11117	2025-10-28	C004	Customer 004	Germany	Healthcare	Mid-Market	Workflow Automation	Automation	2	449	0.0	898.0	Emma Jensen
+11118	2025-08-31	C050	Customer 050	Sweden	Retail	Mid-Market	Customer Support	Customer Experience	4	299	0.15	1016.6	Freja Larsen
+11119	2025-05-02	C069	Customer 069	Denmark	Retail	Mid-Market	Analytics Basic	Analytics	5	249	0.0	1245.0	Oliver Pedersen
+11120	2025-05-27	C030	Customer 030	Denmark	Financial Services	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Clara Madsen
+11121	2025-12-22	C088	Customer 088	Germany	Financial Services	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Clara Madsen
+11122	2025-11-05	C059	Customer 059	Denmark	Professional Services	Mid-Market	Marketing Automation	Marketing	2	599	0.1	1078.2	Clara Madsen
+11123	2025-10-15	C067	Customer 067	Denmark	Retail	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Noah Andersen
+11124	2025-11-03	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Business Intelligence	Analytics	1	699	0.1	629.1	Liam Nielsen
+11125	2025-12-18	C045	Customer 045	Sweden	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Oliver Pedersen
+11126	2025-11-08	C004	Customer 004	Germany	Healthcare	Mid-Market	Business Intelligence	Analytics	3	699	0.1	1887.3	Lucas Thomsen
+11127	2025-02-28	C026	Customer 026	United Kingdom	Healthcare	SMB	Analytics Pro	Analytics	3	499	0.0	1497.0	Oliver Pedersen
+11128	2025-02-04	C027	Customer 027	Sweden	Healthcare	SMB	Business Intelligence	Analytics	2	699	0.1	1258.2	Oliver Pedersen
+11129	2026-03-21	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Analytics Pro	Analytics	3	499	0.15	1272.45	Lucas Thomsen
+11130	2025-04-03	C064	Customer 064	Norway	Professional Services	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Emma Jensen
+11131	2025-07-26	C091	Customer 091	Denmark	Professional Services	SMB	CRM Suite	CRM	1	399	0.15	339.15	Oliver Pedersen
+11132	2025-12-19	C051	Customer 051	Belgium	Financial Services	Enterprise	Workflow Automation	Automation	1	449	0.05	426.55	Noah Andersen
+11133	2025-11-28	C050	Customer 050	Sweden	Retail	Mid-Market	Analytics Basic	Analytics	3	249	0.0	747.0	Sofia Hansen
+11134	2025-06-08	C006	Customer 006	Denmark	Technology	SMB	CRM Suite	CRM	1	399	0.05	379.05	Freja Larsen
+11135	2025-01-24	C059	Customer 059	Denmark	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Clara Madsen
+11136	2026-02-08	C015	Customer 015	Sweden	Healthcare	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Oliver Pedersen
+11137	2026-05-31	C030	Customer 030	Denmark	Financial Services	SMB	Analytics Basic	Analytics	4	249	0.1	896.4	Emma Jensen
+11138	2025-12-30	C042	Customer 042	Germany	Technology	SMB	Data Platform	Data	1	799	0.0	799.0	Noah Andersen
+11139	2026-01-17	C037	Customer 037	Norway	Retail	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Oliver Pedersen
+11140	2026-06-16	C042	Customer 042	Germany	Technology	SMB	CRM Suite	CRM	3	399	0.1	1077.3	Lucas Thomsen
+11141	2025-06-01	C035	Customer 035	Belgium	Retail	SMB	Marketing Automation	Marketing	4	599	0.15	2036.6	Emma Jensen
+11142	2026-02-24	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Analytics Basic	Analytics	5	249	0.05	1182.75	Sofia Hansen
+11143	2025-09-07	C006	Customer 006	Denmark	Technology	SMB	Analytics Pro	Analytics	1	499	0.2	399.2	Liam Nielsen
+11144	2025-04-27	C068	Customer 068	United Kingdom	Technology	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Oliver Pedersen
+11145	2026-05-27	C018	Customer 018	Germany	Technology	SMB	Marketing Automation	Marketing	5	599	0.05	2845.25	Noah Andersen
+11146	2025-12-01	C073	Customer 073	Denmark	Manufacturing	Enterprise	CRM Suite	CRM	2	399	0.1	718.2	Emma Jensen
+11147	2026-02-22	C029	Customer 029	Germany	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.05	1992.15	Lucas Thomsen
+11148	2025-10-22	C077	Customer 077	United Kingdom	Technology	SMB	Data Platform	Data	3	799	0.05	2277.15	Emma Jensen
+11149	2026-01-06	C059	Customer 059	Denmark	Professional Services	Mid-Market	Data Platform	Data	3	799	0.05	2277.15	Oliver Pedersen
+11150	2025-07-05	C047	Customer 047	Norway	Retail	SMB	Data Platform	Data	5	799	0.1	3595.5	Emma Jensen
+11151	2025-09-03	C017	Customer 017	Norway	Manufacturing	SMB	Business Intelligence	Analytics	10	699	0.1	6291.0	Liam Nielsen
+11152	2025-09-25	C096	Customer 096	Germany	Professional Services	Mid-Market	Data Platform	Data	4	799	0.05	3036.2	Emma Jensen
+11153	2025-08-25	C022	Customer 022	Denmark	Professional Services	SMB	CRM Suite	CRM	2	399	0.0	798.0	Clara Madsen
+11154	2026-06-14	C068	Customer 068	United Kingdom	Technology	SMB	Business Intelligence	Analytics	5	699	0.05	3320.25	Freja Larsen
+11155	2025-01-21	C069	Customer 069	Denmark	Retail	Mid-Market	Data Platform	Data	1	799	0.05	759.05	Clara Madsen
+11156	2026-06-04	C037	Customer 037	Norway	Retail	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Freja Larsen
+11157	2025-04-10	C049	Customer 049	Germany	Technology	Enterprise	Marketing Automation	Marketing	5	599	0.1	2695.5	Emma Jensen
+11158	2026-04-23	C013	Customer 013	United Kingdom	Financial Services	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Lucas Thomsen
+11159	2025-10-25	C034	Customer 034	Belgium	Professional Services	SMB	Workflow Automation	Automation	1	449	0.0	449.0	Lucas Thomsen
+11160	2026-06-10	C086	Customer 086	Norway	Professional Services	Mid-Market	CRM Suite	CRM	1	399	0.0	399.0	Oliver Pedersen
+11161	2025-11-30	C053	Customer 053	Belgium	Healthcare	SMB	Customer Support	Customer Experience	5	299	0.0	1495.0	Lucas Thomsen
+11162	2025-01-02	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Analytics Pro	Analytics	3	499	0.15	1272.45	Freja Larsen
+11163	2026-01-10	C051	Customer 051	Belgium	Financial Services	Enterprise	Data Platform	Data	3	799	0.0	2397.0	Noah Andersen
+11164	2025-10-20	C003	Customer 003	Netherlands	Technology	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Freja Larsen
+11165	2025-11-14	C042	Customer 042	Germany	Technology	SMB	Business Intelligence	Analytics	4	699	0.05	2656.2	Clara Madsen
+11166	2026-05-17	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Pro	Analytics	4	499	0.0	1996.0	Emma Jensen
+11167	2026-01-16	C032	Customer 032	Denmark	Healthcare	SMB	CRM Suite	CRM	2	399	0.0	798.0	Oliver Pedersen
+11168	2025-01-14	C051	Customer 051	Belgium	Financial Services	Enterprise	CRM Suite	CRM	2	399	0.0	798.0	Sofia Hansen
+11169	2026-05-19	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Basic	Analytics	1	249	0.05	236.55	Oliver Pedersen
+11170	2025-08-19	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Workflow Automation	Automation	10	449	0.05	4265.5	Oliver Pedersen
+11171	2025-03-25	C021	Customer 021	Germany	Technology	SMB	Data Platform	Data	3	799	0.05	2277.15	Oliver Pedersen
+11172	2025-05-10	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Analytics Basic	Analytics	5	249	0.05	1182.75	Noah Andersen
+11173	2025-05-25	C011	Customer 011	Denmark	Technology	Mid-Market	Analytics Pro	Analytics	2	499	0.2	798.4	Liam Nielsen
+11174	2025-01-28	C068	Customer 068	United Kingdom	Technology	SMB	Customer Support	Customer Experience	4	299	0.05	1136.2	Clara Madsen
+11175	2025-03-07	C001	Customer 001	Norway	Retail	SMB	Analytics Basic	Analytics	4	249	0.0	996.0	Emma Jensen
+11176	2025-06-12	C092	Customer 092	Netherlands	Technology	SMB	Analytics Basic	Analytics	3	249	0.0	747.0	Liam Nielsen
+11177	2025-08-17	C063	Customer 063	United Kingdom	Healthcare	SMB	CRM Suite	CRM	10	399	0.05	3790.5	Sofia Hansen
+11178	2025-09-18	C024	Customer 024	Norway	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Liam Nielsen
+11179	2026-03-25	C099	Customer 099	Denmark	Retail	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Emma Jensen
+11180	2026-02-28	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Pro	Analytics	3	499	0.1	1347.3	Clara Madsen
+11181	2026-04-05	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Basic	Analytics	4	249	0.0	996.0	Clara Madsen
+11182	2025-10-28	C011	Customer 011	Denmark	Technology	Mid-Market	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+11183	2025-10-30	C100	Customer 100	Denmark	Healthcare	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Sofia Hansen
+11184	2025-10-14	C051	Customer 051	Belgium	Financial Services	Enterprise	Data Platform	Data	3	799	0.0	2397.0	Emma Jensen
+11185	2026-01-30	C017	Customer 017	Norway	Manufacturing	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Sofia Hansen
+11186	2025-01-10	C099	Customer 099	Denmark	Retail	Mid-Market	Workflow Automation	Automation	2	449	0.0	898.0	Sofia Hansen
+11187	2025-09-27	C082	Customer 082	Germany	Manufacturing	SMB	Analytics Pro	Analytics	3	499	0.1	1347.3	Emma Jensen
+11188	2025-12-27	C086	Customer 086	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Freja Larsen
+11189	2025-09-14	C024	Customer 024	Norway	Healthcare	SMB	Workflow Automation	Automation	1	449	0.15	381.65	Clara Madsen
+11190	2025-05-13	C019	Customer 019	Finland	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.0	598.0	Sofia Hansen
+11191	2025-10-03	C037	Customer 037	Norway	Retail	SMB	Customer Support	Customer Experience	2	299	0.15	508.3	Emma Jensen
+11192	2026-05-28	C085	Customer 085	Norway	Manufacturing	Mid-Market	Data Platform	Data	1	799	0.05	759.05	Lucas Thomsen
+11193	2025-11-09	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Workflow Automation	Automation	4	449	0.1	1616.4	Freja Larsen
+11194	2025-10-11	C028	Customer 028	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	5	449	0.0	2245.0	Clara Madsen
+11195	2025-05-01	C005	Customer 005	Denmark	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.15	423.3	Sofia Hansen
+11196	2025-04-17	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Pro	Analytics	4	499	0.0	1996.0	Clara Madsen
+11197	2025-07-23	C036	Customer 036	United Kingdom	Retail	SMB	Data Platform	Data	5	799	0.0	3995.0	Freja Larsen
+11198	2025-06-14	C019	Customer 019	Finland	Professional Services	Mid-Market	Customer Support	Customer Experience	4	299	0.05	1136.2	Clara Madsen
+11199	2025-11-01	C064	Customer 064	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	1	299	0.0	299.0	Noah Andersen
+11200	2026-05-12	C091	Customer 091	Denmark	Professional Services	SMB	Analytics Basic	Analytics	10	249	0.0	2490.0	Oliver Pedersen
+11201	2025-06-05	C098	Customer 098	Finland	Retail	Mid-Market	Analytics Pro	Analytics	2	499	0.15	848.3	Noah Andersen
+11202	2026-01-02	C011	Customer 011	Denmark	Technology	Mid-Market	CRM Suite	CRM	2	399	0.2	638.4	Freja Larsen
+11203	2025-09-08	C054	Customer 054	United Kingdom	Financial Services	SMB	Data Platform	Data	1	799	0.05	759.05	Sofia Hansen
+11204	2025-11-30	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.15	423.3	Emma Jensen
+11205	2026-05-26	C047	Customer 047	Norway	Retail	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Liam Nielsen
+11206	2025-10-20	C012	Customer 012	Belgium	Financial Services	SMB	Data Platform	Data	1	799	0.0	799.0	Emma Jensen
+11207	2025-01-20	C021	Customer 021	Germany	Technology	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Clara Madsen
+11208	2025-10-09	C011	Customer 011	Denmark	Technology	Mid-Market	Analytics Pro	Analytics	4	499	0.1	1796.4	Liam Nielsen
+11209	2025-01-01	C092	Customer 092	Netherlands	Technology	SMB	Analytics Pro	Analytics	5	499	0.2	1996.0	Liam Nielsen
+11210	2025-04-29	C005	Customer 005	Denmark	Professional Services	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Clara Madsen
+11211	2025-02-04	C081	Customer 081	United Kingdom	Professional Services	SMB	Analytics Pro	Analytics	5	499	0.1	2245.5	Clara Madsen
+11212	2025-07-17	C056	Customer 056	Belgium	Retail	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Sofia Hansen
+11213	2026-04-30	C020	Customer 020	Sweden	Retail	Enterprise	Analytics Pro	Analytics	4	499	0.0	1996.0	Freja Larsen
+11214	2025-02-28	C041	Customer 041	Denmark	Healthcare	SMB	CRM Suite	CRM	1	399	0.0	399.0	Lucas Thomsen
+11215	2025-06-10	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Customer Support	Customer Experience	3	299	0.2	717.6	Emma Jensen
+11216	2025-07-25	C012	Customer 012	Belgium	Financial Services	SMB	CRM Suite	CRM	5	399	0.1	1795.5	Freja Larsen
+11217	2025-01-12	C070	Customer 070	Belgium	Retail	Mid-Market	Data Platform	Data	3	799	0.1	2157.3	Noah Andersen
+11218	2026-05-05	C017	Customer 017	Norway	Manufacturing	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Sofia Hansen
+11219	2025-10-03	C019	Customer 019	Finland	Professional Services	Mid-Market	Customer Support	Customer Experience	3	299	0.0	897.0	Sofia Hansen
+11220	2025-08-30	C026	Customer 026	United Kingdom	Healthcare	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Lucas Thomsen
+11221	2025-08-04	C048	Customer 048	Germany	Professional Services	Enterprise	Workflow Automation	Automation	3	449	0.0	1347.0	Noah Andersen
+11222	2025-09-08	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	Analytics Basic	Analytics	1	249	0.05	236.55	Emma Jensen
+11223	2025-05-06	C096	Customer 096	Germany	Professional Services	Mid-Market	Marketing Automation	Marketing	2	599	0.1	1078.2	Oliver Pedersen
+11224	2025-08-05	C070	Customer 070	Belgium	Retail	Mid-Market	Workflow Automation	Automation	4	449	0.05	1706.2	Noah Andersen
+11225	2025-11-02	C055	Customer 055	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	5	499	0.0	2495.0	Emma Jensen
+11226	2025-07-04	C100	Customer 100	Denmark	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Liam Nielsen
+11227	2025-02-08	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Marketing Automation	Marketing	10	599	0.0	5990.0	Clara Madsen
+11228	2025-08-11	C033	Customer 033	Denmark	Retail	Mid-Market	Analytics Pro	Analytics	2	499	0.05	948.1	Sofia Hansen
+11229	2025-07-03	C062	Customer 062	Sweden	Healthcare	Mid-Market	Workflow Automation	Automation	3	449	0.15	1144.95	Emma Jensen
+11230	2026-05-10	C088	Customer 088	Germany	Financial Services	Mid-Market	Workflow Automation	Automation	4	449	0.1	1616.4	Freja Larsen
+11231	2026-03-03	C023	Customer 023	Sweden	Healthcare	Mid-Market	Analytics Pro	Analytics	4	499	0.1	1796.4	Lucas Thomsen
+11232	2025-06-27	C015	Customer 015	Sweden	Healthcare	SMB	Customer Support	Customer Experience	5	299	0.05	1420.25	Clara Madsen
+11233	2026-03-04	C027	Customer 027	Sweden	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.05	948.1	Freja Larsen
+11234	2025-10-21	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Business Intelligence	Analytics	5	699	0.0	3495.0	Clara Madsen
+11235	2025-05-31	C064	Customer 064	Norway	Professional Services	Mid-Market	Workflow Automation	Automation	1	449	0.15	381.65	Sofia Hansen
+11236	2026-01-19	C081	Customer 081	United Kingdom	Professional Services	SMB	Analytics Pro	Analytics	4	499	0.1	1796.4	Noah Andersen
+11237	2025-11-04	C051	Customer 051	Belgium	Financial Services	Enterprise	CRM Suite	CRM	4	399	0.0	1596.0	Oliver Pedersen
+11238	2025-12-02	C053	Customer 053	Belgium	Healthcare	SMB	Marketing Automation	Marketing	3	599	0.05	1707.15	Noah Andersen
+11239	2026-01-10	C078	Customer 078	Denmark	Retail	SMB	CRM Suite	CRM	2	399	0.05	758.1	Emma Jensen
+11240	2025-01-08	C091	Customer 091	Denmark	Professional Services	SMB	Business Intelligence	Analytics	5	699	0.1	3145.5	Lucas Thomsen
+11241	2025-12-07	C082	Customer 082	Germany	Manufacturing	SMB	Analytics Pro	Analytics	1	499	0.15	424.15	Noah Andersen
+11242	2025-05-09	C092	Customer 092	Netherlands	Technology	SMB	Data Platform	Data	1	799	0.05	759.05	Sofia Hansen
+11243	2025-12-18	C051	Customer 051	Belgium	Financial Services	Enterprise	Business Intelligence	Analytics	4	699	0.05	2656.2	Lucas Thomsen
+11244	2025-12-24	C047	Customer 047	Norway	Retail	SMB	Customer Support	Customer Experience	2	299	0.0	598.0	Emma Jensen
+11245	2026-06-01	C004	Customer 004	Germany	Healthcare	Mid-Market	CRM Suite	CRM	4	399	0.0	1596.0	Liam Nielsen
+11246	2026-05-10	C007	Customer 007	Denmark	Technology	SMB	CRM Suite	CRM	2	399	0.0	798.0	Noah Andersen
+11247	2025-03-27	C035	Customer 035	Belgium	Retail	SMB	Analytics Basic	Analytics	1	249	0.0	249.0	Noah Andersen
+11248	2025-06-24	C048	Customer 048	Germany	Professional Services	Enterprise	Analytics Pro	Analytics	4	499	0.1	1796.4	Oliver Pedersen
+11249	2025-07-12	C073	Customer 073	Denmark	Manufacturing	Enterprise	Customer Support	Customer Experience	3	299	0.1	807.3	Emma Jensen
+11250	2025-11-07	C072	Customer 072	Sweden	Retail	SMB	Data Platform	Data	1	799	0.0	799.0	Freja Larsen
+11251	2025-04-29	C045	Customer 045	Sweden	Professional Services	Mid-Market	CRM Suite	CRM	4	399	0.1	1436.4	Noah Andersen
+11252	2025-08-06	C081	Customer 081	United Kingdom	Professional Services	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Sofia Hansen
+11253	2026-03-03	C081	Customer 081	United Kingdom	Professional Services	SMB	Customer Support	Customer Experience	3	299	0.0	897.0	Noah Andersen
+11254	2026-02-18	C097	Customer 097	Germany	Financial Services	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Oliver Pedersen
+11255	2025-04-24	C096	Customer 096	Germany	Professional Services	Mid-Market	Business Intelligence	Analytics	4	699	0.05	2656.2	Liam Nielsen
+11256	2025-05-25	C072	Customer 072	Sweden	Retail	SMB	Analytics Pro	Analytics	4	499	0.0	1996.0	Oliver Pedersen
+11257	2026-06-22	C019	Customer 019	Finland	Professional Services	Mid-Market	Workflow Automation	Automation	4	449	0.05	1706.2	Noah Andersen
+11258	2025-10-30	C063	Customer 063	United Kingdom	Healthcare	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Lucas Thomsen
+11259	2025-12-11	C038	Customer 038	Denmark	Financial Services	SMB	CRM Suite	CRM	4	399	0.2	1276.8	Freja Larsen
+11260	2025-01-01	C067	Customer 067	Denmark	Retail	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Clara Madsen
+11261	2025-05-27	C059	Customer 059	Denmark	Professional Services	Mid-Market	Workflow Automation	Automation	3	449	0.0	1347.0	Noah Andersen
+11262	2025-10-14	C069	Customer 069	Denmark	Retail	Mid-Market	Analytics Basic	Analytics	2	249	0.0	498.0	Emma Jensen
+11263	2025-02-22	C013	Customer 013	United Kingdom	Financial Services	SMB	Workflow Automation	Automation	5	449	0.1	2020.5	Noah Andersen
+11264	2025-10-31	C047	Customer 047	Norway	Retail	SMB	Workflow Automation	Automation	4	449	0.0	1796.0	Freja Larsen
+11265	2025-03-10	C061	Customer 061	Norway	Manufacturing	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Emma Jensen
+11266	2025-12-27	C031	Customer 031	Germany	Manufacturing	SMB	Business Intelligence	Analytics	2	699	0.05	1328.1	Sofia Hansen
+11267	2025-08-08	C080	Customer 080	Denmark	Financial Services	Mid-Market	Marketing Automation	Marketing	5	599	0.05	2845.25	Lucas Thomsen
+11268	2025-06-10	C096	Customer 096	Germany	Professional Services	Mid-Market	Data Platform	Data	1	799	0.05	759.05	Emma Jensen
+11269	2025-03-30	C022	Customer 022	Denmark	Professional Services	SMB	Analytics Pro	Analytics	10	499	0.0	4990.0	Oliver Pedersen
+11270	2025-06-08	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Workflow Automation	Automation	3	449	0.0	1347.0	Liam Nielsen
+11271	2026-05-04	C086	Customer 086	Norway	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.0	1797.0	Oliver Pedersen
+11272	2025-11-20	C043	Customer 043	Denmark	Retail	Mid-Market	Data Platform	Data	2	799	0.05	1518.1	Clara Madsen
+11273	2026-01-16	C067	Customer 067	Denmark	Retail	SMB	Marketing Automation	Marketing	1	599	0.0	599.0	Emma Jensen
+11274	2025-04-12	C054	Customer 054	United Kingdom	Financial Services	SMB	Marketing Automation	Marketing	5	599	0.0	2995.0	Sofia Hansen
+11275	2026-05-09	C010	Customer 010	Netherlands	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.2	798.4	Noah Andersen
+11276	2025-01-19	C042	Customer 042	Germany	Technology	SMB	Analytics Pro	Analytics	4	499	0.0	1996.0	Lucas Thomsen
+11277	2026-03-30	C064	Customer 064	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.1	538.2	Emma Jensen
+11278	2026-04-27	C021	Customer 021	Germany	Technology	SMB	Analytics Basic	Analytics	1	249	0.1	224.1	Oliver Pedersen
+11279	2026-02-01	C080	Customer 080	Denmark	Financial Services	Mid-Market	Analytics Basic	Analytics	1	249	0.0	249.0	Emma Jensen
+11280	2025-10-06	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Customer Support	Customer Experience	3	299	0.0	897.0	Emma Jensen
+11281	2025-12-31	C066	Customer 066	Germany	Financial Services	SMB	Customer Support	Customer Experience	10	299	0.0	2990.0	Emma Jensen
+11282	2025-11-27	C041	Customer 041	Denmark	Healthcare	SMB	Business Intelligence	Analytics	2	699	0.1	1258.2	Sofia Hansen
+11283	2025-12-10	C024	Customer 024	Norway	Healthcare	SMB	Data Platform	Data	2	799	0.1	1438.2	Lucas Thomsen
+11284	2026-03-31	C035	Customer 035	Belgium	Retail	SMB	Marketing Automation	Marketing	2	599	0.1	1078.2	Freja Larsen
+11285	2025-03-06	C056	Customer 056	Belgium	Retail	SMB	Workflow Automation	Automation	3	449	0.15	1144.95	Freja Larsen
+11286	2025-03-17	C030	Customer 030	Denmark	Financial Services	SMB	Customer Support	Customer Experience	2	299	0.1	538.2	Emma Jensen
+11287	2025-05-23	C057	Customer 057	Denmark	Healthcare	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Sofia Hansen
+11288	2026-04-18	C094	Customer 094	Germany	Manufacturing	Mid-Market	Analytics Basic	Analytics	3	249	0.0	747.0	Sofia Hansen
+11289	2026-02-21	C047	Customer 047	Norway	Retail	SMB	Customer Support	Customer Experience	3	299	0.1	807.3	Clara Madsen
+11290	2025-11-01	C035	Customer 035	Belgium	Retail	SMB	CRM Suite	CRM	1	399	0.0	399.0	Emma Jensen
+11291	2026-05-12	C019	Customer 019	Finland	Professional Services	Mid-Market	CRM Suite	CRM	10	399	0.0	3990.0	Oliver Pedersen
+11292	2025-10-18	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	CRM Suite	CRM	1	399	0.1	359.1	Oliver Pedersen
+11293	2025-04-12	C026	Customer 026	United Kingdom	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Liam Nielsen
+11294	2025-09-24	C071	Customer 071	United Kingdom	Financial Services	SMB	Business Intelligence	Analytics	3	699	0.15	1782.45	Lucas Thomsen
+11295	2025-01-03	C030	Customer 030	Denmark	Financial Services	SMB	Workflow Automation	Automation	3	449	0.1	1212.3	Emma Jensen
+11296	2025-03-26	C007	Customer 007	Denmark	Technology	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Liam Nielsen
+11297	2025-11-24	C067	Customer 067	Denmark	Retail	SMB	CRM Suite	CRM	2	399	0.15	678.3	Oliver Pedersen
+11298	2026-03-26	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Data Platform	Data	4	799	0.0	3196.0	Oliver Pedersen
+11299	2026-03-30	C036	Customer 036	United Kingdom	Retail	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Emma Jensen
+11300	2025-08-09	C025	Customer 025	Finland	Healthcare	SMB	Marketing Automation	Marketing	4	599	0.05	2276.2	Liam Nielsen
+11301	2025-06-03	C037	Customer 037	Norway	Retail	SMB	CRM Suite	CRM	3	399	0.0	1197.0	Liam Nielsen
+11302	2025-01-12	C001	Customer 001	Norway	Retail	SMB	Marketing Automation	Marketing	2	599	0.05	1138.1	Emma Jensen
+11303	2025-05-13	C015	Customer 015	Sweden	Healthcare	SMB	Marketing Automation	Marketing	2	599	0.0	1198.0	Lucas Thomsen
+11304	2025-10-31	C037	Customer 037	Norway	Retail	SMB	CRM Suite	CRM	2	399	0.05	758.1	Clara Madsen
+11305	2025-10-20	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	4	249	0.05	946.2	Liam Nielsen
+11306	2025-10-27	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Data Platform	Data	3	799	0.1	2157.3	Clara Madsen
+11307	2025-02-12	C005	Customer 005	Denmark	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.1	718.2	Noah Andersen
+11308	2025-12-09	C060	Customer 060	Norway	Retail	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Lucas Thomsen
+11309	2025-11-22	C073	Customer 073	Denmark	Manufacturing	Enterprise	CRM Suite	CRM	10	399	0.05	3790.5	Oliver Pedersen
+11310	2026-05-13	C001	Customer 001	Norway	Retail	SMB	Business Intelligence	Analytics	2	699	0.05	1328.1	Freja Larsen
+11311	2025-12-30	C036	Customer 036	United Kingdom	Retail	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Lucas Thomsen
+11312	2026-03-03	C035	Customer 035	Belgium	Retail	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Clara Madsen
+11313	2025-01-21	C066	Customer 066	Germany	Financial Services	SMB	Business Intelligence	Analytics	1	699	0.1	629.1	Clara Madsen
+11314	2026-02-11	C063	Customer 063	United Kingdom	Healthcare	SMB	Workflow Automation	Automation	1	449	0.0	449.0	Clara Madsen
+11315	2025-12-02	C023	Customer 023	Sweden	Healthcare	Mid-Market	Analytics Pro	Analytics	2	499	0.05	948.1	Sofia Hansen
+11316	2025-04-27	C009	Customer 009	Germany	Technology	Enterprise	Analytics Pro	Analytics	1	499	0.0	499.0	Lucas Thomsen
+11317	2025-05-04	C034	Customer 034	Belgium	Professional Services	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Liam Nielsen
+11318	2026-02-03	C046	Customer 046	Netherlands	Financial Services	Mid-Market	Data Platform	Data	5	799	0.0	3995.0	Liam Nielsen
+11319	2025-02-20	C078	Customer 078	Denmark	Retail	SMB	Marketing Automation	Marketing	4	599	0.2	1916.8	Sofia Hansen
+11320	2025-11-20	C004	Customer 004	Germany	Healthcare	Mid-Market	Analytics Basic	Analytics	4	249	0.1	896.4	Liam Nielsen
+11321	2025-05-21	C030	Customer 030	Denmark	Financial Services	SMB	Customer Support	Customer Experience	1	299	0.05	284.05	Sofia Hansen
+11322	2026-04-15	C095	Customer 095	United Kingdom	Professional Services	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Clara Madsen
+11323	2025-11-30	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Data Platform	Data	1	799	0.15	679.15	Emma Jensen
+11324	2026-01-08	C099	Customer 099	Denmark	Retail	Mid-Market	Workflow Automation	Automation	4	449	0.05	1706.2	Lucas Thomsen
+11325	2026-05-09	C072	Customer 072	Sweden	Retail	SMB	Analytics Pro	Analytics	5	499	0.0	2495.0	Noah Andersen
+11326	2026-06-23	C003	Customer 003	Netherlands	Technology	SMB	Marketing Automation	Marketing	2	599	0.05	1138.1	Clara Madsen
+11327	2025-06-05	C014	Customer 014	Sweden	Professional Services	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Noah Andersen
+11328	2025-10-18	C060	Customer 060	Norway	Retail	SMB	Analytics Pro	Analytics	3	499	0.1	1347.3	Oliver Pedersen
+11329	2025-05-24	C077	Customer 077	United Kingdom	Technology	SMB	Analytics Basic	Analytics	2	249	0.1	448.2	Clara Madsen
+11330	2025-04-16	C045	Customer 045	Sweden	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.15	423.3	Freja Larsen
+11331	2026-02-24	C096	Customer 096	Germany	Professional Services	Mid-Market	Customer Support	Customer Experience	3	299	0.15	762.45	Liam Nielsen
+11332	2025-01-02	C034	Customer 034	Belgium	Professional Services	SMB	Workflow Automation	Automation	4	449	0.15	1526.6	Freja Larsen
+11333	2025-03-31	C045	Customer 045	Sweden	Professional Services	Mid-Market	Customer Support	Customer Experience	1	299	0.0	299.0	Emma Jensen
+11334	2025-12-11	C061	Customer 061	Norway	Manufacturing	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Noah Andersen
+11335	2025-12-16	C083	Customer 083	Norway	Technology	SMB	Data Platform	Data	10	799	0.1	7191.0	Lucas Thomsen
+11336	2026-04-04	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Workflow Automation	Automation	1	449	0.1	404.1	Clara Madsen
+11337	2025-09-20	C066	Customer 066	Germany	Financial Services	SMB	Analytics Basic	Analytics	1	249	0.1	224.1	Lucas Thomsen
+11338	2025-12-17	C040	Customer 040	Finland	Retail	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Emma Jensen
+11339	2025-04-18	C017	Customer 017	Norway	Manufacturing	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Emma Jensen
+11340	2025-02-08	C034	Customer 034	Belgium	Professional Services	SMB	CRM Suite	CRM	2	399	0.1	718.2	Liam Nielsen
+11341	2025-06-08	C016	Customer 016	Sweden	Manufacturing	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Emma Jensen
+11342	2025-11-08	C060	Customer 060	Norway	Retail	SMB	CRM Suite	CRM	2	399	0.05	758.1	Clara Madsen
+11343	2025-08-29	C066	Customer 066	Germany	Financial Services	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Clara Madsen
+11344	2026-03-21	C066	Customer 066	Germany	Financial Services	SMB	Marketing Automation	Marketing	3	599	0.0	1797.0	Lucas Thomsen
+11345	2025-10-25	C090	Customer 090	Finland	Retail	Mid-Market	Customer Support	Customer Experience	3	299	0.0	897.0	Lucas Thomsen
+11346	2025-02-05	C013	Customer 013	United Kingdom	Financial Services	SMB	CRM Suite	CRM	5	399	0.05	1895.25	Noah Andersen
+11347	2025-03-25	C056	Customer 056	Belgium	Retail	SMB	Data Platform	Data	5	799	0.05	3795.25	Clara Madsen
+11348	2026-03-28	C031	Customer 031	Germany	Manufacturing	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Freja Larsen
+11349	2026-01-20	C034	Customer 034	Belgium	Professional Services	SMB	Analytics Pro	Analytics	4	499	0.1	1796.4	Noah Andersen
+11350	2025-06-21	C039	Customer 039	Netherlands	Professional Services	SMB	Data Platform	Data	2	799	0.1	1438.2	Liam Nielsen
+11351	2026-01-11	C067	Customer 067	Denmark	Retail	SMB	Marketing Automation	Marketing	10	599	0.0	5990.0	Noah Andersen
+11352	2025-12-28	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Sofia Hansen
+11353	2025-05-21	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Customer Support	Customer Experience	10	299	0.15	2541.5	Lucas Thomsen
+11354	2025-04-28	C078	Customer 078	Denmark	Retail	SMB	Analytics Basic	Analytics	4	249	0.0	996.0	Freja Larsen
+11355	2025-10-04	C055	Customer 055	Germany	Professional Services	Mid-Market	Analytics Pro	Analytics	1	499	0.2	399.2	Lucas Thomsen
+11356	2025-08-08	C027	Customer 027	Sweden	Healthcare	SMB	Workflow Automation	Automation	3	449	0.1	1212.3	Sofia Hansen
+11357	2025-01-26	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Data Platform	Data	10	799	0.05	7590.5	Sofia Hansen
+11358	2026-06-05	C053	Customer 053	Belgium	Healthcare	SMB	Data Platform	Data	5	799	0.2	3196.0	Oliver Pedersen
+11359	2025-01-10	C039	Customer 039	Netherlands	Professional Services	SMB	CRM Suite	CRM	1	399	0.0	399.0	Clara Madsen
+11360	2026-01-13	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Liam Nielsen
+11361	2025-06-01	C017	Customer 017	Norway	Manufacturing	SMB	Workflow Automation	Automation	2	449	0.1	808.2	Emma Jensen
+11362	2025-02-18	C030	Customer 030	Denmark	Financial Services	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Sofia Hansen
+11363	2025-06-03	C053	Customer 053	Belgium	Healthcare	SMB	Marketing Automation	Marketing	2	599	0.15	1018.3	Noah Andersen
+11364	2025-10-20	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	1	249	0.0	249.0	Emma Jensen
+11365	2025-02-19	C021	Customer 021	Germany	Technology	SMB	Customer Support	Customer Experience	4	299	0.05	1136.2	Noah Andersen
+11366	2026-06-15	C019	Customer 019	Finland	Professional Services	Mid-Market	Customer Support	Customer Experience	2	299	0.05	568.1	Lucas Thomsen
+11367	2025-03-01	C053	Customer 053	Belgium	Healthcare	SMB	Business Intelligence	Analytics	4	699	0.1	2516.4	Noah Andersen
+11368	2025-06-16	C019	Customer 019	Finland	Professional Services	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Emma Jensen
+11369	2025-07-21	C057	Customer 057	Denmark	Healthcare	SMB	Analytics Basic	Analytics	2	249	0.05	473.1	Emma Jensen
+11370	2025-05-26	C025	Customer 025	Finland	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.1	539.1	Clara Madsen
+11371	2026-03-15	C086	Customer 086	Norway	Professional Services	Mid-Market	Analytics Basic	Analytics	1	249	0.0	249.0	Noah Andersen
+11372	2025-08-30	C031	Customer 031	Germany	Manufacturing	SMB	Customer Support	Customer Experience	1	299	0.1	269.1	Liam Nielsen
+11373	2026-04-28	C081	Customer 081	United Kingdom	Professional Services	SMB	Customer Support	Customer Experience	1	299	0.05	284.05	Clara Madsen
+11374	2025-04-18	C055	Customer 055	Germany	Professional Services	Mid-Market	CRM Suite	CRM	3	399	0.1	1077.3	Freja Larsen
+11375	2025-08-14	C023	Customer 023	Sweden	Healthcare	Mid-Market	Business Intelligence	Analytics	2	699	0.1	1258.2	Oliver Pedersen
+11376	2026-03-08	C032	Customer 032	Denmark	Healthcare	SMB	Workflow Automation	Automation	2	449	0.0	898.0	Freja Larsen
+11377	2026-02-23	C062	Customer 062	Sweden	Healthcare	Mid-Market	Workflow Automation	Automation	2	449	0.05	853.1	Liam Nielsen
+11378	2026-03-31	C074	Customer 074	United Kingdom	Manufacturing	SMB	Workflow Automation	Automation	5	449	0.15	1908.25	Clara Madsen
+11379	2025-06-09	C010	Customer 010	Netherlands	Healthcare	SMB	CRM Suite	CRM	5	399	0.05	1895.25	Oliver Pedersen
+11380	2026-06-07	C100	Customer 100	Denmark	Healthcare	SMB	Analytics Pro	Analytics	2	499	0.2	798.4	Clara Madsen
+11381	2025-03-18	C072	Customer 072	Sweden	Retail	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Emma Jensen
+11382	2026-05-24	C054	Customer 054	United Kingdom	Financial Services	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Oliver Pedersen
+11383	2026-03-17	C052	Customer 052	United Kingdom	Manufacturing	Mid-Market	CRM Suite	CRM	10	399	0.05	3790.5	Lucas Thomsen
+11384	2025-09-11	C020	Customer 020	Sweden	Retail	Enterprise	Analytics Basic	Analytics	1	249	0.2	199.2	Noah Andersen
+11385	2025-11-16	C032	Customer 032	Denmark	Healthcare	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Freja Larsen
+11386	2025-09-20	C014	Customer 014	Sweden	Professional Services	SMB	Business Intelligence	Analytics	2	699	0.15	1188.3	Oliver Pedersen
+11387	2026-01-09	C050	Customer 050	Sweden	Retail	Mid-Market	Marketing Automation	Marketing	2	599	0.15	1018.3	Noah Andersen
+11388	2025-06-16	C028	Customer 028	Germany	Professional Services	Mid-Market	Analytics Basic	Analytics	1	249	0.05	236.55	Clara Madsen
+11389	2026-04-04	C053	Customer 053	Belgium	Healthcare	SMB	Marketing Automation	Marketing	4	599	0.0	2396.0	Liam Nielsen
+11390	2025-10-07	C024	Customer 024	Norway	Healthcare	SMB	CRM Suite	CRM	1	399	0.1	359.1	Oliver Pedersen
+11391	2025-10-29	C079	Customer 079	Norway	Retail	SMB	Data Platform	Data	3	799	0.0	2397.0	Noah Andersen
+11392	2026-06-15	C022	Customer 022	Denmark	Professional Services	SMB	Workflow Automation	Automation	1	449	0.1	404.1	Clara Madsen
+11393	2025-08-06	C030	Customer 030	Denmark	Financial Services	SMB	Analytics Pro	Analytics	1	499	0.05	474.05	Clara Madsen
+11394	2025-04-12	C063	Customer 063	United Kingdom	Healthcare	SMB	Analytics Basic	Analytics	5	249	0.05	1182.75	Clara Madsen
+11395	2025-10-15	C004	Customer 004	Germany	Healthcare	Mid-Market	Analytics Basic	Analytics	1	249	0.1	224.1	Liam Nielsen
+11396	2025-06-16	C077	Customer 077	United Kingdom	Technology	SMB	Analytics Basic	Analytics	4	249	0.05	946.2	Emma Jensen
+11397	2025-02-05	C059	Customer 059	Denmark	Professional Services	Mid-Market	Marketing Automation	Marketing	3	599	0.05	1707.15	Liam Nielsen
+11398	2025-12-19	C087	Customer 087	Netherlands	Healthcare	Mid-Market	CRM Suite	CRM	1	399	0.05	379.05	Liam Nielsen
+11399	2025-03-14	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Analytics Basic	Analytics	10	249	0.05	2365.5	Lucas Thomsen
+11400	2025-12-19	C082	Customer 082	Germany	Manufacturing	SMB	Data Platform	Data	1	799	0.05	759.05	Freja Larsen
+11401	2025-03-11	C012	Customer 012	Belgium	Financial Services	SMB	Analytics Basic	Analytics	5	249	0.1	1120.5	Clara Madsen
+11402	2026-03-01	C031	Customer 031	Germany	Manufacturing	SMB	Business Intelligence	Analytics	1	699	0.05	664.05	Noah Andersen
+11403	2026-06-01	C078	Customer 078	Denmark	Retail	SMB	Workflow Automation	Automation	5	449	0.05	2132.75	Oliver Pedersen
+11404	2026-03-04	C034	Customer 034	Belgium	Professional Services	SMB	Analytics Pro	Analytics	1	499	0.1	449.1	Freja Larsen
+11405	2026-06-23	C082	Customer 082	Germany	Manufacturing	SMB	Workflow Automation	Automation	3	449	0.0	1347.0	Clara Madsen
+11406	2025-06-09	C098	Customer 098	Finland	Retail	Mid-Market	Business Intelligence	Analytics	4	699	0.0	2796.0	Sofia Hansen
+11407	2025-05-29	C075	Customer 075	Netherlands	Healthcare	Mid-Market	Business Intelligence	Analytics	5	699	0.15	2970.75	Liam Nielsen
+11408	2025-08-18	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Analytics Pro	Analytics	5	499	0.1	2245.5	Sofia Hansen
+11409	2025-03-08	C049	Customer 049	Germany	Technology	Enterprise	Data Platform	Data	4	799	0.05	3036.2	Clara Madsen
+11410	2026-01-16	C079	Customer 079	Norway	Retail	SMB	CRM Suite	CRM	5	399	0.1	1795.5	Freja Larsen
+11411	2025-02-27	C057	Customer 057	Denmark	Healthcare	SMB	Business Intelligence	Analytics	1	699	0.0	699.0	Noah Andersen
+11412	2025-09-16	C095	Customer 095	United Kingdom	Professional Services	SMB	CRM Suite	CRM	2	399	0.1	718.2	Freja Larsen
+11413	2025-12-08	C093	Customer 093	United Kingdom	Healthcare	Enterprise	Business Intelligence	Analytics	2	699	0.05	1328.1	Lucas Thomsen
+11414	2025-05-10	C026	Customer 026	United Kingdom	Healthcare	SMB	Customer Support	Customer Experience	2	299	0.05	568.1	Noah Andersen
+11415	2025-06-21	C018	Customer 018	Germany	Technology	SMB	Analytics Pro	Analytics	2	499	0.05	948.1	Noah Andersen
+11416	2025-07-28	C096	Customer 096	Germany	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.0	2097.0	Clara Madsen
+11417	2025-12-20	C086	Customer 086	Norway	Professional Services	Mid-Market	Customer Support	Customer Experience	1	299	0.0	299.0	Emma Jensen
+11418	2026-04-16	C038	Customer 038	Denmark	Financial Services	SMB	Workflow Automation	Automation	3	449	0.2	1077.6	Clara Madsen
+11419	2025-04-26	C081	Customer 081	United Kingdom	Professional Services	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Liam Nielsen
+11420	2025-09-21	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Customer Support	Customer Experience	2	299	0.05	568.1	Freja Larsen
+11421	2026-03-18	C088	Customer 088	Germany	Financial Services	Mid-Market	Analytics Basic	Analytics	3	249	0.0	747.0	Noah Andersen
+11422	2026-03-29	C050	Customer 050	Sweden	Retail	Mid-Market	Business Intelligence	Analytics	4	699	0.0	2796.0	Clara Madsen
+11423	2026-04-22	C008	Customer 008	United Kingdom	Financial Services	Mid-Market	Customer Support	Customer Experience	4	299	0.1	1076.4	Clara Madsen
+11424	2025-10-14	C041	Customer 041	Denmark	Healthcare	SMB	CRM Suite	CRM	3	399	0.05	1137.15	Freja Larsen
+11425	2025-10-30	C006	Customer 006	Denmark	Technology	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Freja Larsen
+11426	2025-11-07	C069	Customer 069	Denmark	Retail	Mid-Market	Data Platform	Data	3	799	0.0	2397.0	Lucas Thomsen
+11427	2025-07-27	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	1	699	0.1	629.1	Noah Andersen
+11428	2026-03-22	C064	Customer 064	Norway	Professional Services	Mid-Market	Analytics Basic	Analytics	2	249	0.0	498.0	Oliver Pedersen
+11429	2025-02-24	C029	Customer 029	Germany	Professional Services	Mid-Market	Data Platform	Data	2	799	0.0	1598.0	Lucas Thomsen
+11430	2025-01-12	C028	Customer 028	Germany	Professional Services	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Sofia Hansen
+11431	2026-02-04	C011	Customer 011	Denmark	Technology	Mid-Market	Data Platform	Data	2	799	0.0	1598.0	Liam Nielsen
+11432	2026-05-30	C065	Customer 065	Sweden	Manufacturing	Mid-Market	Data Platform	Data	10	799	0.0	7990.0	Liam Nielsen
+11433	2026-06-26	C019	Customer 019	Finland	Professional Services	Mid-Market	Marketing Automation	Marketing	10	599	0.1	5391.0	Oliver Pedersen
+11434	2025-08-25	C009	Customer 009	Germany	Technology	Enterprise	Workflow Automation	Automation	2	449	0.1	808.2	Emma Jensen
+11435	2025-10-06	C027	Customer 027	Sweden	Healthcare	SMB	Data Platform	Data	1	799	0.1	719.1	Lucas Thomsen
+11436	2025-12-14	C034	Customer 034	Belgium	Professional Services	SMB	Data Platform	Data	1	799	0.05	759.05	Oliver Pedersen
+11437	2025-04-14	C044	Customer 044	United Kingdom	Financial Services	Mid-Market	Business Intelligence	Analytics	2	699	0.0	1398.0	Emma Jensen
+11438	2026-06-01	C068	Customer 068	United Kingdom	Technology	SMB	Workflow Automation	Automation	5	449	0.0	2245.0	Emma Jensen
+11439	2025-09-05	C100	Customer 100	Denmark	Healthcare	SMB	Marketing Automation	Marketing	1	599	0.2	479.2	Oliver Pedersen
+11440	2025-12-30	C082	Customer 082	Germany	Manufacturing	SMB	Analytics Basic	Analytics	4	249	0.05	946.2	Liam Nielsen
+11441	2025-11-17	C015	Customer 015	Sweden	Healthcare	SMB	Customer Support	Customer Experience	1	299	0.1	269.1	Sofia Hansen
+11442	2025-10-13	C051	Customer 051	Belgium	Financial Services	Enterprise	Marketing Automation	Marketing	10	599	0.0	5990.0	Liam Nielsen
+11443	2025-05-29	C013	Customer 013	United Kingdom	Financial Services	SMB	Marketing Automation	Marketing	2	599	0.05	1138.1	Clara Madsen
+11444	2025-03-25	C083	Customer 083	Norway	Technology	SMB	Analytics Pro	Analytics	4	499	0.0	1996.0	Liam Nielsen
+11445	2026-02-10	C049	Customer 049	Germany	Technology	Enterprise	Marketing Automation	Marketing	2	599	0.05	1138.1	Liam Nielsen
+11446	2026-04-01	C070	Customer 070	Belgium	Retail	Mid-Market	Workflow Automation	Automation	3	449	0.15	1144.95	Lucas Thomsen
+11447	2025-06-10	C056	Customer 056	Belgium	Retail	SMB	Analytics Pro	Analytics	1	499	0.2	399.2	Oliver Pedersen
+11448	2026-04-05	C076	Customer 076	Netherlands	Professional Services	Mid-Market	Customer Support	Customer Experience	1	299	0.05	284.05	Oliver Pedersen
+11449	2026-05-15	C051	Customer 051	Belgium	Financial Services	Enterprise	Data Platform	Data	5	799	0.05	3795.25	Clara Madsen
+11450	2026-05-24	C037	Customer 037	Norway	Retail	SMB	Business Intelligence	Analytics	5	699	0.15	2970.75	Clara Madsen
+11451	2026-04-26	C017	Customer 017	Norway	Manufacturing	SMB	Business Intelligence	Analytics	5	699	0.1	3145.5	Lucas Thomsen
+11452	2025-04-24	C058	Customer 058	Sweden	Retail	SMB	Customer Support	Customer Experience	3	299	0.0	897.0	Oliver Pedersen
+11453	2025-12-27	C087	Customer 087	Netherlands	Healthcare	Mid-Market	Customer Support	Customer Experience	4	299	0.05	1136.2	Liam Nielsen
+11454	2025-12-07	C090	Customer 090	Finland	Retail	Mid-Market	Workflow Automation	Automation	1	449	0.0	449.0	Sofia Hansen
+11455	2026-03-25	C029	Customer 029	Germany	Professional Services	Mid-Market	CRM Suite	CRM	2	399	0.05	758.1	Emma Jensen
+11456	2025-06-29	C033	Customer 033	Denmark	Retail	Mid-Market	Data Platform	Data	2	799	0.05	1518.1	Freja Larsen
+11457	2026-02-11	C060	Customer 060	Norway	Retail	SMB	Customer Support	Customer Experience	3	299	0.05	852.15	Emma Jensen
+11458	2025-07-15	C091	Customer 091	Denmark	Professional Services	SMB	Marketing Automation	Marketing	2	599	0.05	1138.1	Clara Madsen
+11459	2026-04-11	C089	Customer 089	United Kingdom	Financial Services	Mid-Market	Workflow Automation	Automation	1	449	0.0	449.0	Clara Madsen
+11460	2025-11-07	C055	Customer 055	Germany	Professional Services	Mid-Market	Business Intelligence	Analytics	3	699	0.05	1992.15	Emma Jensen
+11461	2025-09-19	C010	Customer 010	Netherlands	Healthcare	SMB	Analytics Basic	Analytics	4	249	0.1	896.4	Freja Larsen
+11462	2026-02-23	C047	Customer 047	Norway	Retail	SMB	Workflow Automation	Automation	2	449	0.1	808.2	Liam Nielsen
+11463	2026-02-10	C023	Customer 023	Sweden	Healthcare	Mid-Market	Business Intelligence	Analytics	1	699	0.0	699.0	Sofia Hansen
+11464	2025-05-23	C085	Customer 085	Norway	Manufacturing	Mid-Market	Analytics Pro	Analytics	1	499	0.15	424.15	Sofia Hansen
+11465	2025-12-08	C021	Customer 021	Germany	Technology	SMB	Workflow Automation	Automation	1	449	0.15	381.65	Emma Jensen
+11466	2025-11-12	C013	Customer 013	United Kingdom	Financial Services	SMB	Business Intelligence	Analytics	2	699	0.0	1398.0	Freja Larsen
+11467	2025-04-11	C033	Customer 033	Denmark	Retail	Mid-Market	CRM Suite	CRM	3	399	0.0	1197.0	Lucas Thomsen
+11468	2025-09-01	C024	Customer 024	Norway	Healthcare	SMB	Workflow Automation	Automation	3	449	0.1	1212.3	Clara Madsen
+11469	2026-05-05	C011	Customer 011	Denmark	Technology	Mid-Market	Workflow Automation	Automation	3	449	0.1	1212.3	Noah Andersen
+11470	2025-01-12	C017	Customer 017	Norway	Manufacturing	SMB	Data Platform	Data	2	799	0.2	1278.4	Liam Nielsen
+11471	2025-08-27	C068	Customer 068	United Kingdom	Technology	SMB	Customer Support	Customer Experience	4	299	0.15	1016.6	Lucas Thomsen
+11472	2025-02-11	C047	Customer 047	Norway	Retail	SMB	Data Platform	Data	1	799	0.1	719.1	Emma Jensen
+11473	2026-03-05	C025	Customer 025	Finland	Healthcare	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Sofia Hansen
+11474	2025-06-07	C094	Customer 094	Germany	Manufacturing	Mid-Market	Customer Support	Customer Experience	4	299	0.0	1196.0	Clara Madsen
+11475	2025-08-04	C073	Customer 073	Denmark	Manufacturing	Enterprise	Business Intelligence	Analytics	1	699	0.0	699.0	Lucas Thomsen
+11476	2026-04-07	C021	Customer 021	Germany	Technology	SMB	Analytics Basic	Analytics	1	249	0.05	236.55	Lucas Thomsen
+11477	2025-05-14	C084	Customer 084	Denmark	Healthcare	Enterprise	Analytics Basic	Analytics	5	249	0.1	1120.5	Oliver Pedersen
+11478	2025-03-08	C083	Customer 083	Norway	Technology	SMB	Workflow Automation	Automation	2	449	0.05	853.1	Oliver Pedersen
+11479	2025-01-07	C083	Customer 083	Norway	Technology	SMB	CRM Suite	CRM	3	399	0.1	1077.3	Freja Larsen
+11480	2026-06-10	C012	Customer 012	Belgium	Financial Services	SMB	Analytics Pro	Analytics	1	499	0.0	499.0	Freja Larsen
+11481	2025-03-14	C037	Customer 037	Norway	Retail	SMB	Business Intelligence	Analytics	3	699	0.05	1992.15	Emma Jensen
+11482	2026-02-03	C042	Customer 042	Germany	Technology	SMB	Customer Support	Customer Experience	2	299	0.0	598.0	Lucas Thomsen
+11483	2026-02-09	C017	Customer 017	Norway	Manufacturing	SMB	Workflow Automation	Automation	1	449	0.05	426.55	Noah Andersen
+11484	2025-05-10	C048	Customer 048	Germany	Professional Services	Enterprise	Business Intelligence	Analytics	3	699	0.1	1887.3	Sofia Hansen
+11485	2026-04-11	C028	Customer 028	Germany	Professional Services	Mid-Market	Workflow Automation	Automation	1	449	0.1	404.1	Emma Jensen
+11486	2025-07-25	C041	Customer 041	Denmark	Healthcare	SMB	CRM Suite	CRM	2	399	0.2	638.4	Noah Andersen
+11487	2025-09-23	C099	Customer 099	Denmark	Retail	Mid-Market	Marketing Automation	Marketing	1	599	0.0	599.0	Clara Madsen
+11488	2026-06-21	C047	Customer 047	Norway	Retail	SMB	Marketing Automation	Marketing	1	599	0.05	569.05	Freja Larsen
+11489	2025-09-10	C018	Customer 018	Germany	Technology	SMB	CRM Suite	CRM	2	399	0.0	798.0	Oliver Pedersen
+11490	2025-10-16	C078	Customer 078	Denmark	Retail	SMB	Customer Support	Customer Experience	1	299	0.05	284.05	Liam Nielsen
+11491	2025-06-13	C099	Customer 099	Denmark	Retail	Mid-Market	Data Platform	Data	5	799	0.15	3395.75	Lucas Thomsen
+11492	2025-04-05	C071	Customer 071	United Kingdom	Financial Services	SMB	CRM Suite	CRM	1	399	0.1	359.1	Clara Madsen
+11493	2025-04-20	C013	Customer 013	United Kingdom	Financial Services	SMB	Workflow Automation	Automation	2	449	0.15	763.3	Oliver Pedersen
+11494	2025-12-02	C082	Customer 082	Germany	Manufacturing	SMB	Customer Support	Customer Experience	1	299	0.0	299.0	Sofia Hansen
+11495	2025-08-26	C013	Customer 013	United Kingdom	Financial Services	SMB	Analytics Basic	Analytics	2	249	0.15	423.3	Sofia Hansen
+11496	2026-01-16	C100	Customer 100	Denmark	Healthcare	SMB	CRM Suite	CRM	5	399	0.0	1995.0	Oliver Pedersen
+11497	2026-03-12	C031	Customer 031	Germany	Manufacturing	SMB	Customer Support	Customer Experience	1	299	0.15	254.15	Clara Madsen
+11498	2026-04-28	C002	Customer 002	Belgium	Healthcare	SMB	CRM Suite	CRM	10	399	0.0	3990.0	Oliver Pedersen
+11499	2025-01-25	C016	Customer 016	Sweden	Manufacturing	Mid-Market	CRM Suite	CRM	1	399	0.0	399.0	Noah Andersen
+11500	2025-04-27	C009	Customer 009	Germany	Technology	Enterprise	Data Platform	Data	4	799	0.05	3036.2	Emma Jensen
